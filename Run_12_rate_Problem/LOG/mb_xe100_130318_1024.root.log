@@ -1,0 +1,104 @@
+Running on Sample ---> /archive/root/minimum_bias/xenon100/run_12-reprocessing/mb_xe100_130318_1024.root
+Tot   1993
+minimumbias   1993
+Xsignalnoise5   1220
+Xs1width0   1220
+Xentropy1   1217
+Xs2peaks2   669
+Xs1coin2   667
+Xhighlog1   657
+Xs2single3   630
+Xs1single5   626
+Xveto2   197
+Xs2width11   111
+XPL013_97   93
+Xposrec1   82
+Xs2chisquare1   53
+Xlownoise0_m   53
+Xs2peakpos0   53
+X34kg2   4
+ncoin_e_s1_1   0
+ncoin_e_s1_2   0
+ncoin_e_s1_3   0
+ncoin_e_s1_4   0
+   0
+   0
+   0
+   0
+   0
+   0
+   0
+   0
+   0
+   0
+   0
+   0
+   0
+   0
+   0
+   0
+   0
+   0
+   0
+   0
+   0
+   0
+   0
+   0
+   0
+   0
+   0
+TH1.Print Name  = cut_flow, Entries= 11538, Total sum= 11538
+ fSumw[0]=0, x=-1
+ fSumw[1]=1993, x=0
+ fSumw[2]=1993, x=1
+ fSumw[3]=1220, x=2
+ fSumw[4]=1220, x=3
+ fSumw[5]=1217, x=4
+ fSumw[6]=669, x=5
+ fSumw[7]=667, x=6
+ fSumw[8]=657, x=7
+ fSumw[9]=630, x=8
+ fSumw[10]=626, x=9
+ fSumw[11]=197, x=10
+ fSumw[12]=111, x=11
+ fSumw[13]=93, x=12
+ fSumw[14]=82, x=13
+ fSumw[15]=53, x=14
+ fSumw[16]=53, x=15
+ fSumw[17]=53, x=16
+ fSumw[18]=4, x=17
+ fSumw[19]=0, x=18
+ fSumw[20]=0, x=19
+ fSumw[21]=0, x=20
+ fSumw[22]=0, x=21
+ fSumw[23]=0, x=22
+ fSumw[24]=0, x=23
+ fSumw[25]=0, x=24
+ fSumw[26]=0, x=25
+ fSumw[27]=0, x=26
+ fSumw[28]=0, x=27
+ fSumw[29]=0, x=28
+ fSumw[30]=0, x=29
+ fSumw[31]=0, x=30
+ fSumw[32]=0, x=31
+ fSumw[33]=0, x=32
+ fSumw[34]=0, x=33
+ fSumw[35]=0, x=34
+ fSumw[36]=0, x=35
+ fSumw[37]=0, x=36
+ fSumw[38]=0, x=37
+ fSumw[39]=0, x=38
+ fSumw[40]=0, x=39
+ fSumw[41]=0, x=40
+ fSumw[42]=0, x=41
+ fSumw[43]=0, x=42
+ fSumw[44]=0, x=43
+ fSumw[45]=0, x=44
+ fSumw[46]=0, x=45
+ fSumw[47]=0, x=46
+ fSumw[48]=0, x=47
+ fSumw[49]=0, x=48
+ fSumw[50]=0, x=49
+ fSumw[51]=0, x=50
+Corrected Live Time 0.0225833
