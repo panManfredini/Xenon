@@ -1,0 +1,6 @@
+			INFO
+--Skeleton_maker: run it like
+root -q -b "skeleton_maker(\"name_of_file\")"
+
+
+

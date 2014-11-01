@@ -1,0 +1,1177 @@
+xe100_121207_1821 	Cs137 	red 	S1 		12.000 	closed 	2017.52 	2017.5 	50000 	50000 	0.4.5 		After Kr column Dec. 2012.
+xe100_121208_1747 	Cs137 	red 	S1 		12.000 	closed 	1638.29 	1638.3 	50000 	50000 	0.4.5 		After Kr column Dec. 2012.
+xe100_121209_0832 	Cs137 	red 	S1 	4.400 	12.000 	closed 	1747.09 	1747.1 	50000 	50000 	0.4.5 	standard 	Run12 first S2 data
+xe100_121209_1430 	Cs137 	red 	S1 	4.400 	12.000 	closed 	1865.19 	1865.2 	50000 	50000 	0.4.5 	standard 	Run12 first day purification, flow recirculation set point 2.700, level3 at 7.9mm
+xe100_121209_2101 	Cs137 	red 	S1 	4.400 	12.000 	closed 	1946.91 	1946.9 	50000 	50000 	0.4.5 	standard 	Run12 first day purification, flow recirculation set point 2.700, level3 at 7.9mm
+xe100_121210_0334 	Cs137 	red 	S1 	4.400 	12.000 	closed 	1963.82 	1963.8 	50000 	50000 	0.4.5 	standard 	Run12 first day purification, flow recirculation set point 2.700, level3 at 7.9mm
+xe100_121210_1006 	Cs137 	red 	S1 	4.400 	12.000 	closed 	1973.04 	1973 	50000 	50000 	0.4.5 	standard 	Run12 first day purification, flow recirculation set point 2.700, level3 at 7.9mm
+xe100_121211_1055 	Cs137 	red 	S1 	4.400 	12.000 	closed 	1985.85 	1985.8 	50000 	50000 	0.4.5 	standard 	Run12 purification, flow recirculation set point 2.700, level3 at 7.9mm
+xe100_121211_1143 	Background 	other 	S1 	4.400 	12.000 	closed 	19054.3 	19054.3 	20786 	20786 	0.4.5 		First Run_12 bg data
+xe100_121212_1136 	Cs137 	red 	S1 	4.400 	12.000 	closed 	1959.17 	1959.2 	50000 	50000 	0.4.5 	standard 	Run12 purification, flow recirculation set point 2.700, level3 at 7.9mm
+xe100_121212_1243 	Cs137 	red 	S1 	3.600 	12.000 	closed 	2026.94 	2026.9 	50000 	50000 	0.4.5 	standard 	Run12 purification, flow recirculation set point 2.700, level3 at 7.9mm
+xe100_121212_1512 	Cs137 	red 	S1 	3.200 	12.000 	closed 		0 	96598 	96000 	0.4.5 	standard 	Run12 purification, flow recirculation set point 2.700, level3 at 7.9mm
+xe100_121212_1633 	Cs137 	red 	S1 	3.600 	12.000 	closed 	2084.27 	2084.3 	50000 	50000 	0.4.5 	standard 	Run12 purification, flow recirculation set point 2.700, level3 at 7.9mm
+xe100_121212_1710 	Cs137 	red 	S1 	4.000 	12.000 	closed 	4130.4 	4130.4 	100000 	100000 	0.4.5 	standard 	Run12 purification, flow recirculation set point 2.700, level3 at 7.9mm
+xe100_121212_2132 	Cs137 	red 	S1 	3.200 	12.000 	closed 	4076.71 	4076.7 	100000 	100000 	0.4.5 	standard 	Flow recirculation set point 2.215, level3 at 9mm
+xe100_121212_2248 	Cs137 	red 	S1 	3.600 	12.000 	closed 	4073.74 	4073.7 	100000 	100000 	0.4.5 	standard 	Flow recirculation set point 2.215, level3 at ~9.2 mm, actual FlowRecirculation~3.8 slpm
+xe100_121213_0645 	Cs137 	red 	S1 	4.000 	12.000 	closed 	4135.76 	4135.8 	100000 	100000 	0.4.5 	standard 	Flow recirculation set point 2.215, level3 at ~9.2 mm, actual FlowRecirculation~3.8 slpm
+xe100_121213_0910 	Cs137 	red 	S1 	4.400 	12.000 	closed 	4091.07 	4091.1 	100000 	100000 	0.4.5 	standard 	Flow recirculation set point 2.215, level3 at ~9.2 mm, actual FlowRecirculation~3.8 slpm
+xe100_121213_1400 	Cs137 	red 	S1 	3.200 	12.000 	closed 	4100.06 	4100.1 	100000 	100000 	0.4.5 	standard 	Flow recirculation set point 2.535, level3 at ~8 mm
+xe100_121213_1520 	Cs137 	red 	S1 	3.600 	12.000 	closed 	4186.49 	4186.5 	100000 	100000 	0.4.5 	standard 	Flow recirculation set point 2.535, level3 at ~8 mm
+xe100_121213_1632 	Cs137 	red 	S1 	4.000 	12.000 	closed 	4182.88 	4182.9 	100000 	100000 	0.4.5 	standard 	Flow recirculation set point 2.535, level3 at ~8 mm
+xe100_121213_1743 	Cs137 	red 	S1 	4.400 	12.000 	closed 	4069.28 	4069.3 	100000 	100000 	0.4.5 	standard 	Flow recirculation set point 2.535, level3 at ~8 mm
+xe100_121213_2214 	Cs137 	red 	S1 	3.200 	12.000 	closed 	4095 	4095 	100000 	100000 	0.4.5 	standard 	Flow recirculation set point 3.175, level3 at ~6.7 mm
+xe100_121213_2328 	Cs137 	red 	S1 	3.600 	12.000 	closed 	4232.23 	4232.2 	100000 	100000 	0.4.5 	standard 	Flow recirculation set point 3.175, level3 at ~6.7 mm
+xe100_121214_0453 	Cs137 	red 	S1 	4.000 	12.000 	closed 	4122.53 	4122.5 	100000 	100000 	0.4.5 	standard 	Flow recirculation set point 3.175, level3 at ~6.6 mm
+xe100_121214_0708 	Cs137 	red 	S1 	4.400 	12.000 	closed 	4042.1 	4042.1 	100000 	100000 	0.4.5 	standard 	Flow recirculation set point 3.175, level3 at ~6.6 mm
+xe100_121214_1056 	LED 	other 	EXT 	3.200 	12.000 	closed 			79972 				F1 4.65V, F2 4.8, width 4us, P1=1.327 atm, NO PULSER OUTPUT
+xe100_121214_1210 	Cs137 	red 	S1 	3.200 	12.000 	closed 	4176.59 	4176.6 	100000 	100000 	0.4.5 	standard 	Flow recirculation set point 2.855, level3 at ~7 mm
+xe100_121214_1325 	Cs137 	red 	S1 	3.600 	12.000 	closed 	4338.45 	4338.4 	100000 	100000 	0.4.5 	standard 	Flow recirculation set point 2.855, level3 at ~7 mm
+xe100_121214_1441 	Cs137 	red 	S1 	4.000 	12.000 	closed 	4209.35 	4209.4 	100000 	100000 	0.4.5 	standard 	Flow recirculation set point 2.855, level3 at ~7 mm
+xe100_121214_1557 	Cs137 	red 	S1 	4.400 	12.000 	closed 	4033.81 	4033.8 	100000 	100000 	0.4.5 	standard 	Flow recirculation set point 2.855, level3 at ~7.5 mm
+xe100_121217_0915 	Background 	other 	S1 	4.400 	16.000 	closed 	37653.6 	37653.6 	46601 	46601 	0.4.5 		First bg data after increased cathode to 16kV
+xe100_121217_1947 	Cs137 	red 	S1 	4.400 	16.000 	closed 	2076.33 	2076.3 	50000 	50000 	0.4.5 	standard 	
+xe100_121217_2113 	Background 	other 	S1 	4.400 	16.000 	closed 	68090.1 		3410127 				
+xe100_121221_1147 	Cs137 	red 	S1 	4.400 	16.000 	closed 	2137.55 	2137.6 	50000 	50000 	0.4.5 	standard 	
+xe100_121221_1424 	Background 	other 	S1 	4.400 	16.000 	closed 	72884.6 	72884.6 	534421 	534421 	0.4.5 		
+xe100_121222_1044 	Cs137 	red 	S1 	4.400 	16.000 	closed 	2103.34 	2103.3 	50000 	50000 	0.4.5 	standard 	
+xe100_121222_1442 	Background 	other 	S1 	4.400 	16.000 	closed 	74052 	74052 	249848 	249848 	0.4.5 		
+xe100_121223_1117 	Background 	other 	S1 	4.400 	16.000 	closed 	88997 	88997 	169073 	169073 	0.4.5 		
+xe100_121224_1203 	Cs137 	red 	S1 	4.400 	16.000 	closed 	2302.46 	2302.5 	50000 	50000 	0.4.5 	standard 	
+xe100_121224_1328 	Background 	other 	S1 	4.400 	16.000 	closed 	79770.8 	79770.8 	119102 	119102 	0.4.5 		
+xe100_121225_1140 	Cs137 	red 	S1 	4.400 	16.000 	closed 	2266.11 	2266.1 	50000 	50000 	0.4.5 	standard 	
+xe100_121225_1309 	Background 	other 	S1 	4.400 	16.000 	closed 	81609.9 	81609.9 	110198 	110198 	0.4.5 		
+xe100_121226_1151 	Cs137 	red 	S1 	4.400 	16.000 	closed 	2371.7 	2371.7 	50000 	50000 	0.4.5 	standard 	
+xe100_121227_1016 	Cs137 	red 	S1 	4.400 	16.000 	closed 	2297.55 	2297.6 	50000 	50000 	0.4.5 	standard 	
+xe100_121227_1130 	Background 	other 	S1 	4.400 	16.000 	closed 	80605.8 	80605.8 	116628 	116628 	0.4.5 		
+xe100_121228_0955 	Cs137 	red 	S1 	4.400 	16.000 	closed 	2358.18 	2358.2 	50000 	50000 	0.4.5 	standard 	
+xe100_121228_1131 	Background 	other 	S1 	4.400 	16.000 	closed 	84395.2 	84395.2 	180707 	180707 	0.4.5 		
+xe100_121229_1059 	Background 	other 	S1 	4.400 	16.000 	closed 	78591.7 	78591.7 	149719 	149719 	0.4.5 		
+xe100_121230_0850 	Background 	other 	S1 	4.400 	16.000 	closed 	91072.4 	90185.6 	223032 	220758 	0.4.5 		
+xe100_121231_1011 	Cs137 	red 	S1 	4.400 	16.000 	closed 	2310.33 	2310.3 	50000 	50000 	0.4.5 	standard 	
+xe100_121231_1208 	Background 	other 	S1 	4.400 	16.000 	closed 	79012.6 	79012.6 	158709 	158709 	0.4.5 		
+xe100_130101_1007 	Cs137 	red 	S1 	4.400 	16.000 	closed 	2299.94 	2299.9 	50000 	50000 	0.4.5 	standard 	
+xe100_130102_1015 	Cs137 	red 	S1 	4.400 	16.000 	closed 	2237.92 	2237.9 	50000 	50000 	0.4.5 	standard 	
+xe100_130102_1137 	LED 	other 	EXT 	4.400 	16.000 	closed 	1080.51 		100000 				F1 4.65V, F2 4.8, width 4us, , P1=1.327 atm
+xe100_130102_1229 	Background 	other 	S1 	4.400 	16.000 	closed 	85168.8 	85168.8 	128215 	128215 	0.4.5 		
+xe100_130103_1210 	Background 	other 	S1 	4.400 	16.000 	closed 	79565.9 	79565.9 	168172 	168172 	0.4.5 		
+xe100_130104_1047 	Cs137 	red 	S1 	4.400 	16.000 	closed 	2222.29 	2222.3 	50000 	50000 	0.4.5 	standard 	
+xe100_130104_1321 	Background 	other 	S1 	4.400 	16.000 	closed 	78764.8 	78764.8 	158722 	158722 	0.4.5 		
+xe100_130105_1117 	Background 	other 	S1 	4.400 	16.000 	closed 	98204.6 	98204.6 	299755 	299755 	0.4.5 		
+xe100_130106_1444 	Cs137 	red 	S1 	4.400 	16.000 	closed 	2224.14 	2224.1 	50000 	50000 	0.4.5 	standard 	
+xe100_130106_1607 	Background 	other 	S1 	4.400 	16.000 	closed 	68977.9 	68977.9 	175106 	175106 	0.4.5 		
+xe100_130107_1119 	Cs137 	red 	S1 	4.400 	16.000 	closed 	2232.66 	2232.7 	50000 	50000 	0.4.5 	standard 	
+xe100_130107_1250 	Background 	other 	S1 	4.400 	16.000 	closed 	74855 	74855 	224989 	224989 	0.4.5 		
+xe100_130108_1022 	Background 	other 	S1 		16.000 	closed 	41497.9 	41497.9 	34190 	34190 	0.4.5 		Background data with anode turned off in order to remove hotspots.
+xe100_130108_2207 	Background 	other 	S1 	4.400 	16.000 	closed 	47224.1 	47224.1 	110623 	110623 	0.4.5 		
+xe100_130109_1121 	Cs137 	red 	S1 	4.400 	16.000 	closed 	2364.9 	2364.9 	50000 	50000 	0.4.5 	standard 	
+xe100_130109_1238 	Background 	other 	S1 	4.400 	16.000 	closed 	86762.9 	86762.9 	176517 	176517 	0.4.5 		
+xe100_130110_1247 	Background 	other 	S1 	4.400 	16.000 	closed 	100722 	100722 	196001 	196001 	0.4.5 		
+xe100_130111_1649 	LED 	other 	EXT 	4.400 	16.000 	closed 	1038.43 		100000 				F1 4.65V, F2 4.8, width 4us, , P1=1.327 atm
+xe100_130111_1715 	Cs137 	red 	S1 	4.400 	16.000 	closed 	2295.16 	2295.2 	50000 	50000 	0.4.5 	standard 	
+xe100_130111_1843 	Background 	other 	S1 	4.400 	16.000 	closed 	86913.6 	86913.6 	135199 	135199 	0.4.5 		
+xe100_130112_1852 	Background 	other 	S1 	4.400 	16.000 	closed 	92699 	92699 	127639 	127639 	0.4.5 		
+xe100_130113_2038 	Background 	other 	S1 	4.400 	16.000 	closed 	42986 	35773.6 	51985 	49067 	0.4.5 		To remove the last 1000 events since the power failure in the line J
+xe100_130114_1526 	Cs137 	red 	S1 	4.400 	16.000 	closed 	2304.62 	2304.6 	50000 	50000 	0.4.5 	standard 	Calibration after power failure.
+xe100_130114_1656 	Background 	other 	S1 	4.400 	16.000 	closed 	77216.7 	77216.7 	104957 	104957 	0.4.5 		
+xe100_130115_1426 	LED 	other 	EXT 	4.400 	16.000 	closed 	1067.88 		100000 				F1 4.65V, F2 4.8, width 4us, , P1=1.327 atm
+xe100_130115_1458 	Cs137 	red 	S1 	4.400 	16.000 	closed 	2404.1 	2404.1 	50000 	50000 	0.4.5 	standard 	Calibration after power failure.
+xe100_130115_1610 	Background 	other 	S1 	4.400 	16.000 	closed 	65513 	65513 	339676 	339676 	0.4.5 		DAQ rate is increasing within this dataset
+xe100_130116_1801 	Cs137 	red 	S1 	4.400 	16.000 	closed 	1043.31 	1043.3 	50000 	50000 	0.4.5 	standard 	Calibration after power failure.
+xe100_130117_1802 	Background 	other 	S1 	4.400 	16.000 	closed 	42.93 	42.9 	5000 	5000 	0.4.5 		Checking DAQ rate
+xe100_130118_1642 	Background 	other 	S1 	4.400 	16.000 	closed 	30.546 	30.5 	5000 	5000 	0.4.5 		Checking DAQ rate, Hotspot
+xe100_130119_1731 	Background 	other 	S1 	4.400 	16.000 	closed 	26.666 	26.7 	5000 	5000 	0.4.5 		Checking DAQ rate, Hotspot
+xe100_130121_1743 	Cs137 	black 	S1 	4.400 	16.000 	closed 	1230.59 	1230.6 	50000 	50000 	0.4.5 	standard 	Status check before starting the hot-spot diagnosis tests
+xe100_130121_1858 	Background 	other 	S1 	-4.400 	16.000 	closed 	55345.8 	55345.8 	73887 	73887 	0.4.5 		Checking Hotspots with reverse anode voltage
+xe100_130122_1223 	Background 	other 	S1 	4.400 	16.000 	closed 	14358.9 	14358.9 	21879 	21879 	0.4.5 		Checking Hotspots with reverse anode voltage (-4.4 kV)
+xe100_130122_1651 	Background 	other 	S1 	4.400 	16.000 	closed 	539.273 	539.3 	5000 	5000 	0.4.5 		BG measurement after change of anode Voltage
+xe100_130122_1755 	Background 	other 	S1 	4.400 	16.000 	closed 	868.721 	868.7 	2500 	2500 	0.4.5 		BG measurement; PMT 66 swiched OFF
+xe100_130122_1811 	Background 	other 	S1 	4.400 	16.000 	closed 	871.648 	871.6 	2500 	2500 	0.4.5 		BG measurement; PMT 67 swiched OFF
+xe100_130122_1831 	Background 	other 	S1 	4.400 	13.000 	closed 	2493.44 	2493.4 	5000 	5000 	0.4.5 		Lowered cathode to 13 kV
+xe100_130122_1921 	Background 	other 	S1 	4.400 	16.000 	closed 	1399.74 	1399.7 	5000 	5000 	0.4.5 		Cathode back to 16 kV, 'all' PMTs on
+xe100_130122_1948 	Background 	other 	S1 	4.400 	16.000 	closed 	883.945 	883.9 	5000 	5000 	0.4.5 		BG measurement; PMT 68 swiched OFF
+xe100_130122_2011 	Background 	other 	S1 	4.400 	16.000 	closed 	1109.72 	1109.7 	5000 	5000 	0.4.5 		BG measurement; PMT 82 swiched OFF
+xe100_130123_0034 	Background 	other 	S1 	4.400 	16.000 	closed 	1681.57 	1681.6 	5000 	5000 	0.4.5 		BG measurement; PMT 83 swiched OFF
+xe100_130123_0107 	Background 	other 	S1 	4.400 	16.000 	closed 	778.61 	778.6 	5000 	5000 	0.4.5 		BG measurement; PMT 84 swiched OFF
+xe100_130124_1021 	Background 	other 	S1 	4.400 	16.000 	closed 	3257.72 	3257.7 	5000 	5000 	0.4.5 		Check hotspot before turning cathode off
+xe100_130124_1125 	Cs137 	black 	S1 	4.400 	16.000 	closed 	2469.68 	2469.7 	50000 	50000 	0.4.5 	standard 	Monitoring for hotspot study
+xe100_130124_1349 	Background 	other 	S1 	4.400 		closed 	75937 	75937 	72331 	72331 	0.4.5 		Cathode off
+xe100_130125_1516 	Cs137 	black 	S1 	4.400 	16.000 	closed 	2208.36 	2208.4 	50000 	50000 	0.4.5 	standard 	Monitoring after cathode back to -16 kV
+xe100_130125_1849 	Background 	other 	S1 	4.400 	16.000 	closed 	73483.6 	73483.6 	130520 	130520 	0.4.5 		Background data after cathode back to 16 kV
+xe100_130127_1214 	Background 	other 	S1 	4.400 	16.000 	closed 	79587 	79587 	118095 	118095 	0.4.5 		Background data after cathode back to 16 kV
+xe100_130128_1025 	Cs137 	black 	S1 	4.400 	16.000 	closed 	2229.88 	2229.9 	50000 	50000 	0.4.5 	standard 	
+xe100_130128_1144 	Background 	other 	S1 	4.400 	16.000 	closed 	76193.2 	76193.2 	101094 	101094 	0.4.5 		Normal BG to see time evolution
+xe100_130129_0906 	LED 	other 	EXT 	4.400 	16.000 	closed 	1094.3 		100000 				F1 4.65V, F2 4.8, width 4us, , P1=1.327 atm
+xe100_130129_0929 	Background 	other 	S1 	4.400 	16.000 	closed 	1788.52 	1788.5 	2500 	2500 	0.4.5 		Last quick check before rising the cathode voltage
+xe100_130129_1012 	Background 	other 	S1 	4.400 	16.500 	closed 	83.15 	83.2 	119 	119 	0.4.5 		Quick check at a cathode voltage of 16.5 kV
+xe100_130129_1022 	Background 	other 	S1 	4.400 	16.500 	closed 	1436.78 	1436.8 	2500 	2500 	0.4.5 		Quick check at a cathode voltage of 16.5 kV
+xe100_130129_1116 	Background 	other 	S1 	4.400 	17.000 	closed 	1001.93 	1001.9 	5000 	5000 	0.4.5 		Measurement at cathode of 17 kV!
+xe100_130129_1136 	Background 	other 	S1 	4.400 	16.500 	closed 	1068.02 	1068 	2500 	2500 	0.4.5 		Measurement at cathode of 16.5 kV!
+xe100_130129_1201 	Background 	other 	S1 	4.400 	16.000 	closed 	1498.51 	1498.5 	2500 	2500 	0.4.5 		Measurement at cathode of 16.0 kV!
+xe100_130129_1239 	Background 	other 	S1 	4.400 	16.000 	closed 	11245.7 	11245.7 	14532 	14532 	0.4.5 		Measurement at cathode of 16 kV
+xe100_130129_1547 	Background 	other 	S1 	4.400 	16.000 	closed 	59889.3 	59889.3 	76334 	76334 	0.4.5 		Measurement at cathode of 16 kV
+xe100_130130_0825 	Background 	other 	S1 	4.400 	16.000 	closed 	23924 	23924 	32002 	32002 	0.4.5 		
+xe100_130130_1517 	Cs137 	black 	S1 	4.400 	16.000 	closed 	2412.18 	2412.2 	50000 	50000 	0.4.5 	standard 	
+xe100_130201_1351 	LED 	other 	EXT 	4.400 	16.000 	closed 	1018.76 		100000 				F1 4.65V, F2 4.8, width 4us, , P1=1.327 atm
+xe100_130201_1424 	Cs137 	black 	S1 	4.400 	16.000 	closed 	2397.4 	2397.4 	50000 	50000 	0.4.5 	standard 	
+xe100_130201_1514 	Background 	other 	S1 	4.400 	16.000 	closed 	4248.97 	4249 	5929 	5929 	0.4.5 		
+xe100_130201_1627 	Background 	other 	S1 	4.400 	16.000 	closed 	77883 	77883 	114658 	114658 	0.4.5 		
+xe100_130202_1406 	Background 	other 	S1 	4.400 	16.000 	closed 	79196 	79196 	104818 	104818 	0.4.5 		
+xe100_130203_1207 	Background 	other 	S1 	4.400 	16.000 	closed 	80162 	80162 	909383 	759000 	0.4.5 		
+xe100_130204_1105 	Cs137 	black 	S1 	4.400 	16.000 	closed 	2474.19 	2474.2 	50000 	50000 	0.4.5 	standard 	
+xe100_130204_1200 	Background 	other 	S1 	4.400 	16.000 	closed 	21449.8 	21449.8 	31342 	31342 	0.4.5 		
+xe100_130204_1800 	Cs137 	black 	S1 	4.400 	16.000 	closed 	2285.52 	2285.5 	50000 	50000 	0.4.5 	standard 	
+xe100_130204_1842 	Background 	other 	S1 	4.400 	16.000 	closed 	63223.3 	63223.3 	83047 	83047 	0.4.5 		
+xe100_130205_1236 	Background 	other 	S1 	4.400 	16.000 	closed 	91039.8 	91039.8 	121897 	121897 	0.4.5 		
+xe100_130206_1357 	LED 	other 	EXT 	4.400 	16.000 	closed 	1034.92 		100000 				F1 4.65V, F2 4.8, width 4us, , P1=1.327 atm
+xe100_130206_1431 	Cs137 	black 	S1 	4.400 	16.000 	closed 	2384.49 	2384.5 	50000 	50000 	0.4.5 	standard 	
+xe100_130206_1523 	Background 	other 	S1 	4.400 	16.000 	closed 	73015.4 	73015.4 	90754 	90754 	0.4.5 		
+xe100_130207_1141 	Background 	other 	S1 	4.400 	16.000 	closed 	87589.8 	87589.8 	110622 	110622 	0.4.5 		
+xe100_130208_1215 	Cs137 	black 	S1 	4.400 	16.000 	closed 	2457.06 	2457.1 	50000 	50000 	0.4.5 	standard 	
+xe100_130208_1300 	Background 	other 	S1 	4.400 	16.000 	closed 	104480 	104480 	132895 	132895 	0.4.5 		
+xe100_130209_1807 	Background 	other 	S1 	4.400 	16.000 	closed 	91727 	91727 	110158 	110158 	0.4.5 		
+xe100_130210_1937 	Background 	other 	S1 	4.400 	16.000 	closed 	80530.2 	80530.2 	93783 	93783 	0.4.5 		
+xe100_130211_1856 	Cs137 	black 	S1 	4.400 	16.000 	closed 	2451.08 	2451.1 	50000 	50000 	0.4.5 	standard 	Cs before shutting down the cathode
+xe100_130211_2012 	Background 	other 	S1 	4.400 		closed 	57238.4 	57238.4 	51563 	51563 	0.4.5 		Cathode off, for hotspot monitoring
+xe100_130212_1526 	Background 	other 	S1 	4.400 	-16.000 	closed 	66246.7 	66246.7 	78351 	78351 	0.4.5 		Cathode on again
+xe100_130213_1752 	Background 	other 	S1 	4.400 	16.000 	closed 	89246.2 	89246.2 	120619 	120619 	0.4.5 		
+xe100_130214_1845 	Background 	other 	S1 	4.400 	16.000 	closed 	59022 	59022 	264276 	264276 	0.4.5 		
+xe100_130215_1124 	Background 	other 	S1 	4.400 	16.000 	closed 	12640.5 	12640.5 	53236 	53236 	0.4.5 		Turn off PMTs 147 to 194. Hotspots hunting.
+xe100_130215_1850 	Background 	other 	S1 	4.400 	16.000 	closed 	55203.1 	55203.1 	61768 	61768 	0.4.5 		After piece of wire on burndy 12 removal. Hotspots hunting.
+xe100_130216_1123 	Background 	other 	S1 	4.400 	16.000 	closed 	92226 	92226 	100106 	100106 	0.4.5 		Hotspots monitoring.
+xe100_130217_1301 	Background 	other 	S1 	4.400 	16.000 	closed 	101704 	101704 	111061 	111061 	0.4.5 		Hotspots monitoring.
+xe100_130218_1820 	LED 	other 	EXT 	4.400 	16.000 	closed 	1002.09 		100000 				F1 4.65V, F2 4.8, width 4us, , P1=1.327 atm
+xe100_130218_1847 	Cs137 	black 	S1 	4.400 	16.000 	closed 	2383.09 	2383.1 	50000 	50000 	0.4.5 	standard 	Cs before shutting down PMTs from 147 to 194
+xe100_130218_2053 	Background 	other 	S1 	4.400 	16.000 	closed 	47751 	47751 	38690 	38690 	0.4.5 		PMTs 147-194 off and burndy 12 disconnected.
+xe100_130219_1011 	Background 	other 	S1 	4.400 	16.000 	closed 	24442.7 	24442.7 	19926 	19926 	0.4.5 		PMTs 147-194 off and burndy 12 disconnected.
+xe100_130219_2014 	Background 	other 	S1 	4.400 	16.000 	closed 	50398.6 	50398.6 	51625 	51625 	0.4.5 		PMTs swapped: 147-170 with 123-146, 171-182 to 219-230, 184-194 to 207-218
+xe100_130220_1016 	Background 	other 	S1 	4.400 	16.000 	closed 	47244.4 	47244.4 	49705 	49705 	0.4.5 		PMTs swapped: 147-170 with 123-146, 171-182 to 219-230, 184-194 to 207-218
+xe100_130220_2325 	Background 	other 	S1 	4.400 	16.000 	closed 			29548 				PMTs swapped: 147-170 with 123-146, 171-182 to 219-230, 184-194 to 207-218
+xe100_130221_1137 	Background 	other 	S1 	4.400 	16.000 	closed 	9375.53 	9375.5 	9740 	9740 	0.4.5 		PMTs back to original position and burndy12 swapped with burndy11
+xe100_130221_1421 	Background 	other 	S1 	4.400 	16.000 	closed 	73385 	73385 	82443 	82443 	0.4.5 		PMTs back to original position and burndy12 swapped with burndy11
+xe100_130222_1045 	Background 	other 	S1 	4.400 	16.000 	closed 	32227.7 	27664.1 	35203 	30044 	0.4.5 		PMTs back to original position and burndy12 swapped with burndy11
+xe100_130222_1955 	Background 	other 	S1 	4.400 	16.000 	closed 	49926.4 	49926.4 	34851 	34851 	0.4.5 		HV of PMS 99-194 off
+xe100_130223_1313 	Cs137 	black 	S1 	4.400 	16.000 	closed 	2355.65 	2355.7 	50000 	50000 	0.4.5 	standard 	Cs after bottom PMTs down and before plugging out burndy 11 and 12
+xe100_130223_1444 	Background 	other 	S1 	4.400 	16.000 	closed 	81465.8 	81465.8 	50498 	50498 	0.4.5 		PMTs 99-194 off and Burdny 11 and 12 un-plugged
+xe100_130224_1323 	Background 	other 	S1 	4.400 	16.000 	closed 	79307.9 	79307.9 	50277 	50277 	0.4.5 		PMTs 99-194 off and Burdny 11 and 12 un-plugged
+xe100_130225_1126 	Background 	other 	S1 	4.400 	16.000 	closed 	25314.3 	25314.3 	15876 	15876 	0.4.5 		PMTs 99-194 off and Burdny 11 and 12 un-plugged
+xe100_130225_1907 	Cs137 	black 	S1 	4.400 	16.000 	closed 	2162.44 	2162.4 	50000 	50000 	0.4.5 	standard 	Cs after bottom PMTs up again
+xe100_130225_2030 	Background 	other 	S1 	4.400 	16.000 	closed 	49370.8 	49370.8 	52737 	52737 	0.4.5 		Bottom PMTs on again 99-194 for hotspots monitoring
+xe100_130226_1204 	LED 	other 	EXT 	4.400 	16.000 	closed 	1063.64 		100000 				F1 4.65V, F2 4.8, width 4us, , P1=1.327 atm
+xe100_130226_1250 	Background 	other 	S1 	4.400 	16.000 	closed 	74564 	74564 	46085 	46085 	0.4.5 		Bottom PMTs on again but removed from the trigger
+xe100_130227_0934 	Background 	other 	S1 	4.400 	16.000 	closed 	25910.3 	25910.3 	16445 	16445 	0.4.5 		Bottom PMTs on again but removed from the trigger
+xe100_130227_1748 	Background 	other 	S1 	4.400 	16.000 	closed 	18576.7 	18576.7 	28495 	28495 	0.4.5 		Trigger back to normal. Turn off PMT 139 - 148
+xe100_130227_2303 	Background 	other 	S1 	4.400 	16.000 	closed 	18089.1 	18089.1 	17086 	17086 	0.4.5 		Trigger back to normal. Turn off PMT 129 - 138
+xe100_130228_0418 	Background 	other 	S1 	4.400 	16.000 	closed 	17616.4 	17616.4 	16073 	16073 	0.4.5 		Trigger back to normal. Turn off PMT 119 - 128
+xe100_130228_0917 	Background 	other 	S1 	4.400 	16.000 	closed 	19907.9 	19907.9 	19020 	19020 	0.4.5 		Trigger back to normal. Turn off PMT 109 - 118
+xe100_130228_1547 	Background 	other 	S1 	4.400 	16.000 	closed 	64700 	64700 	62862 	62862 	0.4.5 		Trigger back to normal. Turn off PMT 99 - 108
+xe100_130301_0951 	Background 	other 	S1 	4.400 	16.000 	closed 	27300 	27300 	28252 	28252 	0.4.5 		Trigger back to normal. All bottom PMTs back ON
+xe100_130301_1730 	Cs137 	black 	S1 	4.400 	16.000 	closed 	2375.92 	2375.9 	50000 	50000 	0.4.5 	standard 	Cs after bottom PMTs up again
+xe100_130302_1318 	Cs137 	black 	S1 	4.400 	16.000 	closed 	2236.34 	2236.3 	50000 	50000 	0.4.5 	standard 	Cs after bottom PMTs up again
+xe100_130302_1540 	Background 	other 	S1 	4.400 	16.000 	closed 	70042 	70042 	69556 	69556 	0.4.5 		Normal conditions after "washing".
+xe100_130303_1108 	Background 	other 	S1 	4.400 	16.000 	closed 	85008.2 	85008.2 	82594 	82594 	0.4.5 		Normal conditions.
+xe100_130304_1050 	Cs137 	black 	S1 	4.400 	16.000 	closed 	2387.74 	2387.7 	50000 	50000 	0.4.5 	standard 	Cs after bottom PMTs up again
+xe100_130304_1514 	Background 	other 	S1 	4.400 	16.000 	closed 	9104.29 	9104.3 	9038 	9038 	0.4.5 		Normal conditions.
+xe100_130304_1748 	Background 	other 	S1 	4.400 	15.000 	closed 	15192.2 	15192.2 	14904 	14904 	0.4.5 		Cathode to 15.0 kV.
+xe100_130304_2202 	Background 	other 	S1 	4.400 	14.000 	closed 	37532 	37532 	37521 	37521 	0.4.5 		Cathode to 14.0 kV.
+xe100_130305_0831 	Background 	other 	S1 	4.400 	13.500 	closed 	13440.6 	13440.6 	13091 	13091 	0.4.5 		Cathode to 13.5 kV.
+xe100_130305_1226 	Background 	other 	S1 	4.400 	17.000 	closed 	16244 	16244 	28132 	28132 	0.4.5 		Cathode to 17.0 kV.
+xe100_130305_1659 	Background 	other 	S1 	4.400 	16.500 	closed 	18367 	18367 	24519 	24519 	0.4.5 		Cathode to 16.5 kV.
+xe100_130305_2206 	Background 	other 	S1 	4.400 	15.000 	closed 	36721.9 	36721.9 	36782 	36782 	0.4.5 		Cathode to 15.0 kV.
+xe100_130306_0829 	Background 	other 	S1 	4.400 	16.000 	closed 	27875 	27875 	39111 	39111 	0.4.5 		Cathode to 16.0 kV.
+xe100_130306_1616 	Background 	other 	S1 	4.400 	15.000 	closed 	11027.3 	11027.3 	10867 	10867 	0.4.5 		Cathode to 15.0 kV.
+xe100_130306_1921 	Background 	other 	S1 	4.400 	15.000 	closed 	10800 	10800 	10539 	10539 	0.4.5 		Cathode to 15.0 kV.
+xe100_130306_2221 	Background 	other 	S1 	4.400 	15.000 	closed 	10800 	10800 	10199 	10199 	0.4.5 		Cathode to 15.0 kV.
+xe100_130307_0122 	Background 	other 	S1 	4.400 	15.000 	closed 	10800 	10800 	10512 	10512 	0.4.5 		Cathode to 15.0 kV.
+xe100_130307_0423 	Background 	other 	S1 	4.400 	15.000 	closed 	10800 	10800 	10348 	10348 	0.4.5 		Cathode to 15.0 kV.
+xe100_130307_1026 	Background 	other 	S1 	4.400 	15.000 	closed 	20145.7 	20145.7 	19623 	19623 	0.4.5 		Cathode to 15.0 kV.
+xe100_130307_1606 	LED 	other 	EXT 	4.400 	15.000 	closed 	1029.3 		100000 				F1 4.65V, F2 4.8, width 4us, , P1=1.327 atm
+xe100_130307_1625 	Cs137 	black 	S1 	4.400 	15.000 	closed 	2386.24 	2386.2 	50000 	50000 	0.4.5 	standard 	Cs after bottom PMTs up again
+xe100_130308_1346 	Cs137 	black 	S1 	4.400 	15.000 	closed 	2260.18 	2260.2 	50000 	50000 	0.4.5 	standard 	Cs after bottom all HVs up again
+xe100_130308_1706 	Background 	other 	S1 	4.400 	15.000 	closed 	73650.2 	72736.4 	1583177 	0 			Restarting the run after chiller incident and SlowControl power cut
+xe100_130309_1337 	Cs137 	black 	S1 	4.400 	15.000 	closed 	2284.47 	2284.5 	50000 	50000 	0.4.5 	standard 	Cs after bottom all HVs up again
+xe100_130309_1426 	Background 	other 	S1 	4.400 	15.000 	closed 	72670 	71756.2 	104413 	103044 	0.4.5 		Restarting the run after chiller incident and SlowControl power cut
+xe100_130310_1039 	Cs137 	black 	S1 	4.400 	15.000 	closed 	2303.53 	2303.5 	50000 	50000 	0.4.5 	standard 	Normal conditions
+xe100_130310_1300 	Background 	other 	S1 	4.400 	15.000 	closed 	70488.7 	70488.7 	97617 	97617 	0.4.5 		Normal conditions, cathode @ 15.0kV
+xe100_130311_0847 	Cs137 	black 	S1 	4.400 	15.000 	closed 	2238.5 	2238.5 	50000 	50000 	0.4.5 	standard 	Normal conditions
+xe100_130311_0955 	Background 	other 	S1 	4.400 	15.000 	closed 	29937 	29937 	39178 	39178 	0.4.5 		Normal conditions, cathode @ 15.0kV
+xe100_130311_1816 	LED 	other 	EXT 	4.400 	15.000 	closed 	1043.21 		100000 				F1 4.65V, F2 4.8, width 4us, , P1=1.327 atm
+xe100_130311_1836 	Cs137 	black 	S1 	4.400 	15.000 	closed 	2477.25 	2477.2 	50000 	50000 	0.4.5 	standard 	Normal conditions
+xe100_130311_2023 	Background 	other 	S1 	4.400 	16.000 	closed 	55981.2 	55981.2 	75378 	75378 	0.4.5 		Normal conditions, cathode back to 16.0kV
+xe100_130312_1158 	Cs137 	black 	S1 	4.400 	16.000 	closed 	2418.99 	2419 	50000 	50000 	0.4.5 	standard 	Normal conditions, cathode back to 16.kV
+xe100_130312_1303 	Background 	other 	S1 	4.400 	16.000 	closed 	69839.5 	69839.5 	91922 	91922 	0.4.5 		Normal conditions, cathode back to 16.0kV
+xe100_130313_0829 	Cs137 	black 	S1 	4.400 	16.000 	closed 	2422.25 	2422.2 	50000 	50000 	0.4.5 	standard 	Normal conditions, cathode back to 16.kV
+xe100_130313_0949 	Background 	other 	S1 	4.400 	16.000 	closed 	19797.4 	19797.4 	24752 	24752 	0.4.5 		Normal conditions, cathode back to 16.0kV
+xe100_130313_1548 	Background 	other 	S1 	4.400 	15.500 	closed 	66866.5 	66866.5 	78178 	78178 	0.4.5 		Normal conditions, cathode at 15.5kV
+xe100_130314_1024 	Background 	other 	S1 	4.400 	15.500 	closed 	20543 	20543 	23900 	23900 	0.4.5 		Normal conditions, cathode at 15.5kV
+xe100_130314_1608 	Cs137 	black 	S1 	4.400 	15.500 	closed 	2471.28 	2471.3 	50000 	50000 	0.4.5 	standard 	Normal conditions, cathode at 15.5kV
+xe100_130314_1749 	Background 	other 	S1 	4.400 	15.400 	closed 	56296.5 	56296.5 	63327 	63327 	0.4.5 		Normal conditions, cathode at 15.4kV
+xe100_130315_0929 	Background 	other 	S1 	4.400 	15.400 	closed 	23091.5 	23091.5 	25581 	25581 	0.4.5 		Normal conditions, cathode at 15.4kV
+xe100_130315_1602 	Cs137 	black 	S1 	4.400 	15.300 	closed 	1843.45 	1843.5 	50000 	50000 	0.4.5 	standard 	Normal conditions, cathode at 15.3kV
+xe100_130315_1856 	Background 	other 	S1 	4.400 	15.300 	closed 	69105.7 	69105.7 	169308 	169308 	0.4.5 		Normal conditions, cathode at 15.3kV
+xe100_130316_1409 	Cs137 	black 	S1 	4.400 	15.300 	closed 	1862.4 	1862.4 	50000 	50000 	0.4.5 	standard 	Normal conditions, cathode at 15.3kV
+xe100_130316_1518 	Background 	other 	S1 	4.400 	15.300 	closed 	76782.2 	75867.2 	95819 	94828 	0.4.5 		Normal conditions, cathode at 15.3kV
+xe100_130317_1232 	Background 	other 	S1 	4.400 	15.300 	closed 	76458.9 	76458.9 	81418 	81418 	0.4.5 		Normal conditions, cathode at 15.3kV
+xe100_130318_0956 	LED 	other 	EXT 	4.400 	15.300 	closed 	1006.93 		100000 				F1 4.65V, F2 4.8, width 4us, , P1=1.327 atm
+xe100_130318_1024 	Cs137 	black 	S1 	4.400 	15.300 	closed 	1951.2 	1951.2 	50000 	50000 	0.4.5 	standard 	Normal conditions, cathode at 15.3kV
+xe100_130318_1415 	Background 	other 	S1 	4.400 	15.300 	closed 	70989.4 	70989.4 	74427 	74427 	0.4.5 		Normal conditions, cathode at 15.3kV
+xe100_130319_0955 	Background 	other 	S1 	4.400 	15.000 	closed 	1968.78 	1968.8 	2000 	2000 	0.4.5 		Disconnect PMTs 183-194, cathode at 15.0kV
+xe100_130319_1042 	Background 	other 	S1 	4.400 	15.000 	closed 	1918.38 	1918.4 	2000 	2000 	0.4.5 		Disconnect HV of PMTs 171-182, cathode at 15.0kV
+xe100_130319_1132 	Background 	other 	S1 	4.400 	15.000 	closed 	2060.14 	2060.1 	2000 	2000 	0.4.5 		Disconnect HV of PMTs 171-194 at the filter box, cathode at 15.0kV
+xe100_130319_1219 	Cs137 	black 	S1 	4.400 	15.000 	closed 	2001.97 	2002 	50000 	50000 	0.4.5 	standard 	Normal conditions, cathode at 15.0kV
+xe100_130319_1301 	Background 	other 	S1 	4.400 	15.000 	closed 	9422.89 	9422.9 	9339 	9339 	0.4.5 		Disconnect HV of PMTs 171-194 at the filter box, cathode at 15.0kV
+xe100_130319_1539 	Background 	other 	S1 	4.400 	15.000 	closed 	10134.1 	10134.1 	9260 	9260 	0.4.5 		Disconnect HV of PMTs 171-194 at the filter box, cathode at 15.0kV
+xe100_130319_1832 	Background 	other 	S1 	4.400 	15.000 	closed 	56378.3 	56378.3 	55057 	55057 	0.4.5 		Normal conditions (all PMTs up and running), cathode at 15.0kV
+xe100_130320_1258 	Background 	other 	S1 	4.400 	15.000 	closed 	13241.8 	13241.8 	13233 	13233 	0.4.5 		After inspecting filter boxes (PMT 147-194) and Burndy. Normal conditions
+xe100_130320_1639 	Background 	other 	S1 	4.400 	15.000 	closed 	68694.7 	68694.7 	67630 	67630 	0.4.5 		After inspecting filter boxes (PMT 147-194) and Burndy. Normal conditions
+xe100_130321_1141 	Cs137 	black 	S1 	4.400 	15.000 	closed 	1003.25 	1003.2 	24001 	23000 	0.4.5 	standard 	Normal conditions, cathode at 15.0kV
+xe100_130321_1204 	Cs137 	black 	S1 	4.400 	15.000 	closed 	2090.48 	2090.5 	50000 	50000 	0.4.5 	standard 	Normal conditions, cathode at 15.0kV
+xe100_130321_1306 	Background 	other 	S1 	4.400 	15.000 	closed 	74684.1 	74684.1 	74341 	74341 	0.4.5 		Normal conditions, cathode 15.0kV
+xe100_130322_1003 	Background 	other 	S1 	4.400 	15.000 	closed 	20150.2 	20150.2 	19592 	19592 	0.4.5 		
+xe100_130322_1540 	Cs137 	black 	S1 	4.400 	15.000 	closed 	2106.62 	2106.6 	50000 	50000 	0.4.5 	standard 	Normal conditions, cathode at 15.0kV
+xe100_130322_1640 	Background 	other 	S1 	4.400 	15.000 	closed 	66758.7 	66758.7 	64289 	64289 	0.4.5 		
+xe100_130323_1108 	Background 	other 	S1 	4.400 	15.000 	closed 	88022.4 	88022.4 	83791 	83791 	0.4.5 		
+xe100_130324_1129 	Background 	other 	S1 	4.400 	15.000 	closed 	86827.2 	86827.2 	83347 	83347 	0.4.5 		
+xe100_130325_1131 	Cs137 	black 	S1 	4.400 	15.000 	closed 	2151.92 	2151.9 	50000 	50000 	0.4.5 	standard 	Normal conditions, cathode at 15.0kV
+xe100_130325_2123 	Background 	other 	S1 	4.400 	15.000 	closed 	2554.66 	2554.7 	2448 	2448 	0.4.5 		
+xe100_130325_2207 	Background 	other 	S1 	4.400 	15.000 	closed 	68595.2 	68595.2 	64302 	64302 	0.4.5 		
+xe100_130326_1746 	Background 	other 	S1 	4.400 	15.000 	closed 	8705.47 	8705.5 	8310 	8310 	0.4.5 		Shield of Burndy 12 to detector ground
+xe100_130326_2012 	Background 	other 	S1 	4.400 	15.000 	closed 	53562.7 	53562.7 	50612 	50612 	0.4.5 		Shield of Burndy 12 to detector ground
+xe100_130327_1105 	LED 	other 	EXT 	4.400 	15.000 	closed 	1032.73 		100000 				F1 4.65V, F2 4.8, width 4us, , P1=1.327 atm
+xe100_130327_1129 	Cs137 	red 	S1 	4.400 	15.000 	closed 	1741.45 	1741.5 	50000 	50000 	0.4.5 	standard 	Normal conditions, cathode at 15.0kV
+xe100_130327_1209 	Background 	other 	S1 	4.400 	15.000 	closed 	95763 	95763 	92280 	92280 	0.4.5 		Shield of Burndy 12 to detector ground
+xe100_130328_1439 	Background 	other 	S1 	4.400 	15.000 	closed 	94568.6 	94568.6 	89523 	89523 	0.4.5 		Shield of Burndy 12 to detector ground
+xe100_130329_1712 	Cs137 	black 	S1 	4.400 	15.000 	closed 	2172.69 	2172.7 	50000 	50000 	0.4.5 	standard 	Normal conditions, cathode at 15.0kV
+xe100_130329_1950 	Background 	other 	S1 	4.400 	15.000 	closed 	71156.2 	71156.2 	67523 	67523 	0.4.5 		Shield of Burndy 12 to detector ground
+xe100_130330_1533 	Background 	other 	S1 	4.400 	15.000 	closed 	82521.7 	82521.7 	78583 	78583 	0.4.5 		Shield of Burndy 12 to detector ground
+xe100_130331_1525 	Background 	other 	S1 	4.400 	15.000 	closed 	91282.4 	91282.4 	87144 	87144 	0.4.5 		Shield of Burndy 12 to detector ground
+xe100_130401_1647 	LED 	other 	EXT 	4.400 	15.000 	closed 	1040.4 		100000 				F1 4.65V, F2 4.8, width 4us, , P1=1.342 atm
+xe100_130401_1739 	Cs137 	white 	S1 	4.400 	15.000 	closed 	1886.59 	1886.6 	50000 	50000 	0.4.5 	standard 	Normal conditions, cathode at 15.0kV
+xe100_130401_1933 	Background 	other 	S1 	4.400 	15.000 	closed 	80222.3 	80222.3 	74937 	74937 	0.4.5 		Shield of Burndy 12 to detector ground
+xe100_130402_1815 	Background 	other 	S1 	4.400 	15.000 	closed 	78698.6 	78698.6 	74402 	74402 	0.4.5 		Shield of Burndy 12 to detector ground
+xe100_130403_1607 	LED 	other 	EXT 	4.400 	15.000 	closed 	1055.37 		100000 				F1 4.65V, F2 4.8, width 4us, , P1=1.344 atm, PMT 123 on
+xe100_130403_1631 	Cs137 	red 	S1 	4.400 	15.000 	closed 	1740.53 	1740.5 	50000 	50000 	0.4.5 	standard 	Normal conditions, cathode at 15.0kV
+xe100_130403_1813 	Background 	other 	S1 	4.400 	15.000 	closed 	90408.3 	90408.3 	86338 	86338 	0.4.5 		Shield of Burndy 12 to detector ground
+xe100_130404_1914 	Background 	other 	S1 	4.400 	15.000 	closed 	60574.6 	60574.6 	56957 	56957 	0.4.5 		Shield of Burndy 12 to detector ground
+xe100_130405_1209 	Cs137 	black 	S1 	4.400 	15.000 	closed 	2165.97 	2166 	50000 	50000 	0.4.5 	standard 	Normal conditions, cathode at 15.0kV
+xe100_130405_1407 	Background 	other 	S1 	4.400 	15.000 	closed 	81957.5 	81957.5 	77276 	77276 	0.4.5 		Shield of Burndy 12 to detector ground
+xe100_130406_1249 	Background 	other 	S1 	4.400 	15.000 	closed 	87196.1 	87196.1 	81698 	81698 	0.4.5 		Shield of Burndy 12 to detector ground
+xe100_130407_1256 	Background 	other 	S1 	4.400 	15.000 	closed 	92977 	92977 	86494 	86494 	0.4.5 		Shield of Burndy 12 to detector ground
+xe100_130408_1446 	LED 	other 	EXT 	4.400 	15.000 	closed 	1027.57 		100000 				F1 4.65V, F2 4.8, width 4us, , P1=1.344 atm, PMT 123 on
+xe100_130408_1520 	Cs137 	white 	S1 	4.400 	15.000 	closed 	1914.68 	1914.7 	50000 	50000 	0.4.5 	standard 	Normal conditions, cathode at 15.0kV
+xe100_130408_1859 	Background 	other 	S1 	4.400 	15.000 	closed 	89993.3 	89993.3 	82639 	82639 	0.4.5 		Shield of Burndy 12 to detector ground
+xe100_130409_1952 	Background 	other 	S1 	4.400 	15.000 	closed 	79290.9 	79290.9 	74512 	74512 	0.4.5 		Shield of Burndy 12 to detector ground
+xe100_130410_1753 	Cs137 	red 	S1 	4.400 	15.000 	closed 	1771.73 	1771.7 	50000 	50000 	0.4.5 	standard 	Normal conditions, cathode at 15.0kV
+xe100_130410_1939 	Background 	other 	S1 	4.400 	15.000 	closed 	76233.1 	76233.1 	70538 	70538 	0.4.5 		Shield of Burndy 12 to detector ground
+xe100_130411_1646 	Background 	other 	S1 	4.400 	15.000 	closed 	78866.7 	78866.7 	73927 	73927 	0.4.5 		Shield of Burndy 12 to detector ground
+xe100_130412_1441 	Cs137 	black 	S1 	4.400 	15.000 	closed 	2156.11 	2156.1 	50000 	50000 	0.4.5 	standard 	Normal conditions, cathode at 15.0kV
+xe100_130412_1611 	Background 	other 	S1 	4.400 	15.000 	closed 	85412.1 	85412.1 	79413 	79413 	0.4.5 		Shield of Burndy 12 to detector ground
+xe100_130413_1554 	Background 	other 	S1 	4.400 	15.000 	closed 	94052.5 	94052.5 	88546 	88546 	0.4.5 		Shield of Burndy 12 to detector ground
+xe100_130414_1757 	Background 	other 	S1 	4.400 	15.000 	closed 	78230.2 	78230.2 	73208 	73208 	0.4.5 		Shield of Burndy 12 to detector ground
+xe100_130415_1543 	LED 	other 	EXT 	4.400 	15.000 	closed 	1044.04 		100000 				F1 4.65V, F2 4.8, width 4us, , P1=1.344 atm, PMT 123 on
+xe100_130415_1643 	Cs137 	white 	S1 	4.400 	15.000 	closed 	1975.56 	1975.6 	50000 	50000 	0.4.5 	standard 	Normal conditions, cathode at 15.0kV
+xe100_130415_1747 	Background 	other 	S1 	4.400 	15.000 	closed 	61715.6 	61715.6 	58286 	58286 	0.4.5 		Shield of Burndy 12 to detector ground
+xe100_130416_1100 	Co60 	red 	S1 	4.400 	15.000 	closed 	8878.36 	8878.4 	500000 	500000 	0.4.5 	standard 	
+xe100_130416_1449 	Co60 	red 	S1 	4.400 	15.000 	closed 	9121.2 	9121.2 	500000 	500000 	0.4.5 	standard 	
+xe100_130416_1837 	Co60 	red 	S1 	4.400 	15.000 	closed 	9276.78 	9276.8 	500000 	500000 	0.4.5 	standard 	
+xe100_130416_2231 	Co60 	red 	S1 	4.400 	15.000 	closed 	9369.6 	9369.6 	500000 	500000 	0.4.5 	standard 	
+xe100_130417_0242 	Co60 	red 	S1 	4.400 	15.000 	closed 	9460.57 	9460.6 	500000 	500000 	0.4.5 	standard 	
+xe100_130417_0656 	Co60 	red 	S1 	4.400 	15.000 	closed 	9567.36 	9567.4 	500000 	500000 	0.4.5 	standard 	
+xe100_130417_1122 	Co60 	red 	S1 	4.400 	15.000 	closed 	9615.3 	9615.3 	500000 	500000 	0.4.5 	standard 	
+xe100_130417_1519 	Co60 	red 	S1 	4.400 	15.000 	closed 	5528.03 	5528 	284404 	284404 	0.4.5 	standard 	
+xe100_130417_1745 	Background 	other 	S1 	4.400 	15.000 	closed 	70570.5 	70570.5 	64723 	64723 	0.4.5 		Shield of Burndy 12 to detector ground
+xe100_130418_1322 	Cs137 	red 	S1 	4.400 	15.000 	closed 	1806 	1806 	50000 	50000 	0.4.5 	standard 	Normal conditions, cathode at 15.0kV
+xe100_130418_1402 	Background 	other 	S1 	4.400 	15.000 	closed 	103175 	103175 	94989 	94989 	0.4.5 		Shield of Burndy 12 to detector ground
+xe100_130419_1836 	Background 	other 	S1 	4.400 	15.000 	closed 	75158.2 	75158.2 	70160 	70160 	0.4.5 		Shield of Burndy 12 to detector ground
+xe100_130420_1659 	Co60 	black 	S1 	4.400 	15.000 	closed 	11048.2 	11048.2 	500000 	500000 	0.4.5 	standard 	
+xe100_130420_2127 	Co60 	black 	S1 	4.400 	15.000 	closed 	11140.8 	11140.8 	500000 	500000 	0.4.5 	standard 	
+xe100_130421_0158 	Co60 	black 	S1 	4.400 	15.000 	closed 	11299.3 	11299.3 	500000 	500000 	0.4.5 	standard 	
+xe100_130421_0630 	Co60 	black 	S1 	4.400 	15.000 	closed 	11358.7 	11358.7 	500000 	500000 	0.4.5 	standard 	
+xe100_130421_1112 	Co60 	black 	S1 	4.400 	15.000 	closed 	11443.7 	11443.7 	500000 	500000 	0.4.5 	standard 	
+xe100_130421_1550 	Co60 	black 	S1 	4.400 	15.000 	closed 	5858.8 	5858.8 	254631 	254631 	0.4.5 	standard 	
+xe100_130421_1809 	Co60 	black 	S1 	4.400 	15.000 	closed 	62.3242 	62.3 	2665 	2665 	0.4.5 	standard 	
+xe100_130421_1823 	Cs137 	black 	S1 	4.400 	15.000 	closed 	2262.68 	2262.7 	50000 	50000 	0.4.5 	standard 	Normal conditions, cathode at 15.0kV
+xe100_130421_1930 	Background 	other 	S1 	4.400 	15.000 	closed 	80239 	80239 	71979 	71979 	0.4.5 		Shield of Burndy 12 to detector ground
+xe100_130422_1755 	LED 	other 	EXT 	4.400 	15.000 	closed 	1028.24 		100000 				F1 4.65V, F2 4.8, width 4us, , P1=1.344 atm, PMT 123 on
+xe100_130422_1834 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	76332.4 	76332.4 	69575 	49282 	0.4.5 	standard 	
+xe100_130423_1542 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	98020.2 	98020.2 	88794 	63219 	0.4.5 	standard 	
+xe100_130424_1850 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	87675.3 	87675.3 	78841 	54592 	0.4.5 	standard 	
+xe100_130425_1918 	Cs137 	white 	S1 	4.400 	15.000 	closed 	1940.09 	1940.1 	50000 	50000 	0.4.5 	standard 	Normal conditions, cathode at 15.0kV
+xe100_130425_2008 	LED 	other 	EXT 	4.400 	15.000 	closed 	1022.81 		100000 				F1 4.65V, F2 4.8, width 4us, , P1=1.344 atm, PMT 123 on
+xe100_130425_2035 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	80594 	76480.9 	73459 	48355 	0.4.5 	standard 	
+xe100_130426_1858 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	82674.8 	82674.8 	73984 	53331 	0.4.5 	standard 	
+xe100_130427_1752 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	88059.2 	88059.2 	79221 	55768 	0.4.5 	standard 	
+xe100_130428_1814 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	80720.7 	80720.7 	73062 	52121 	0.4.5 	standard 	
+xe100_130429_1711 	Cs137 	red 	S1 	4.400 	15.000 	closed 	1816.07 	1816.1 	50000 	50000 	0.4.5 	standard 	Normal conditions, cathode at 15.0kV
+xe100_130429_1750 	Th232 	around 	S1 	4.400 	15.000 	closed 	316.169 	316.2 	18444 	18444 	0.4.5 	standard 	
+xe100_130429_1801 	Th232 	around 	S1 	4.400 	15.000 	closed 	8769.31 	8769.3 	500000 	500000 	0.4.5 	standard 	
+xe100_130429_2155 	Th232 	around 	S1 	4.400 	15.000 	closed 	8862.84 	8862.8 	500000 	500000 	0.4.5 	standard 	
+xe100_130430_0142 	Th232 	around 	S1 	4.400 	15.000 	closed 	8920.77 	8920.8 	500000 	500000 	0.4.5 	standard 	
+xe100_130430_0536 	Th232 	around 	S1 	4.400 	15.000 	closed 	846.631 	846.6 	47591 	50000 	0.4.5 	standard 	
+xe100_130430_1040 	Th232 	around 	S1 	4.400 	15.000 	closed 	8946.57 	8359 	500000 	463458 	0.4.5 	standard 	
+xe100_130430_1432 	Th232 	around 	S1 	4.400 	15.000 	closed 	8959.89 	8959.9 	500000 	500000 	0.4.5 	standard 	
+xe100_130430_1812 	Th232 	around 	S1 	4.400 	15.000 	closed 	1718.64 	1718.6 	95771 	95771 	0.4.5 	standard 	
+xe100_130430_1854 	Th232 	around 	S1 	4.400 	15.000 	closed 	3.03422 	3 	148 	148 	0.4.5 	standard 	
+xe100_130430_1855 	Th232 	around 	S1 	4.400 	15.000 	closed 	1.50699 	1.5 	87 	87 	0.4.5 	standard 	
+xe100_130430_1905 	LED 	other 	EXT 	4.400 	15.000 	closed 	1102.87 		100000 				F1 4.65V, F2 4.8, width 4us, , P1=1.344 atm, PMT 123 on
+xe100_130430_1944 	Co60 	white 	S1 	4.400 	15.000 	closed 	10500.4 	9837.3 	500000 	467318 	0.4.5 	standard 	
+xe100_130430_2345 	Co60 	white 	S1 	4.400 	15.000 	closed 	10605.4 	10605.4 	500000 	500000 	0.4.5 	standard 	
+xe100_130501_0342 	Co60 	white 	S1 	4.400 	15.000 	closed 	10618 	10618 	500000 	500000 	0.4.5 	standard 	
+xe100_130501_0808 	Co60 	white 	S1 	4.400 	15.000 	closed 	10732.6 	10732.6 	500000 	500000 	0.4.5 	standard 	
+xe100_130501_1221 	Co60 	white 	S1 	4.400 	15.000 	closed 	10725.9 	10725.9 	500000 	500000 	0.4.5 	standard 	
+xe100_130501_1944 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	84116.9 	84116.9 	73697 	50160 	0.4.5 	standard 	
+xe100_130502_1906 	Co60 	red 	S1 	4.400 	15.000 	closed 	948.157 	948.2 	75251 	75251 	0.4.5 		No HE veto
+xe100_130502_2009 	Co60 	red 	S1 	4.400 	15.000 	closed 	930.348 	930.3 	72833 	72833 	0.4.5 		No HE veto
+xe100_130502_2121 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	73220.7 	73220.7 	64539 	44085 	0.4.5 	standard 	
+xe100_130503_1741 	Co60 	black 	S1 	4.400 	15.000 	closed 	2004.12 	2004.1 	137409 	137409 	0.4.5 		No HE veto
+xe100_130503_2043 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	77747.1 	77747.1 	68130 	45730 	0.4.5 	standard 	
+xe100_130504_1821 	LED 	other 	EXT 	4.400 	15.000 	closed 	1013.59 		100000 				F1 4.65V, F2 4.8, width 4us, , P1=1.344 atm, PMT 123 on
+xe100_130504_1854 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	83731.2 	83731.2 	72835 	49881 	0.4.5 	standard 	
+xe100_130505_1807 	Background 	other 	S1 	4.400 	15.000 	closed 	2489.21 	2489.2 	2252 	2252 	0.4.5 		Shield of Burndy 12 to detector ground
+xe100_130505_1849 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	136764 	136764 	121551 	82985 	0.4.5 	standard 	
+xe100_130507_0848 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	22198.5 	22198.5 	19953 	14369 	0.4.5 	standard 	
+xe100_130507_1502 	LED 	other 	EXT 	4.400 	15.000 	closed 	1025.38 		100000 				F1 4.65V, F2 4.8, width 4us, , P1=1.333 atm
+xe100_130507_1543 	Cs137 	red 	S1 	4.400 	15.000 	closed 	1823.48 	1823.5 	50000 	50000 	0.4.5 	standard 	Normal conditions, cathode at 15.0kV
+xe100_130507_1655 	Th232 	around 	S1 	4.400 	15.000 	closed 	8900.36 	8900.4 	500000 	500000 	0.4.5 	standard 	
+xe100_130508_1447 	Th232 	around 	S1 	4.400 	15.000 	closed 	9145.24 	9145.2 	500000 	500000 	0.4.5 	standard 	
+xe100_130508_1843 	Th232 	around 	S1 	4.400 	15.000 	closed 	9149.69 	9149.7 	500000 	500000 	0.4.5 	standard 	
+xe100_130508_2246 	Th232 	around 	S1 	4.400 	15.000 	closed 	9183.96 	9184 	500000 	500000 	0.4.5 	standard 	
+xe100_130509_0257 	Th232 	around 	S1 	4.400 	15.000 	closed 	9229.86 	8803.2 	500000 	478408 	0.4.5 	standard 	
+xe100_130509_0709 	Th232 	around 	S1 	4.400 	15.000 	closed 	9170.77 	9170.8 	500000 	500000 	0.4.5 	standard 	
+xe100_130509_1115 	Th232 	around 	S1 	4.400 	15.000 	closed 	9208.68 	9208.7 	500000 	500000 	0.4.5 	standard 	
+xe100_130509_1653 	Co60 	red 	S1 	4.400 	15.000 	closed 	10201.9 	10201.9 	500000 	500000 	0.4.5 	standard 	
+xe100_130509_2115 	Co60 	red 	S1 	4.400 	15.000 	closed 	10294.4 	10294.4 	500000 	500000 	0.4.5 	standard 	
+xe100_130510_0141 	Co60 	red 	S1 	4.400 	15.000 	closed 	10282.8 	10282.8 	500000 	500000 	0.4.5 	standard 	
+xe100_130510_0601 	Co60 	red 	S1 	4.400 	15.000 	closed 	10337.1 	10337.1 	500000 	500000 	0.4.5 	standard 	
+xe100_130510_1028 	Co60 	red 	S1 	4.400 	15.000 	closed 	10379.6 	10379.6 	500000 	500000 	0.4.5 	standard 	
+xe100_130510_1453 	Co60 	red 	S1 	4.400 	15.000 	closed 	10394.6 	10394.6 	500000 	500000 	0.4.5 	standard 	
+xe100_130510_1928 	Co60 	red 	S1 	4.400 	15.000 	closed 	1575.58 	1575.6 	75887 	75887 	0.4.5 	standard 	
+xe100_130510_2009 	Co60 	red 	S1 	4.400 	15.000 	closed 	6.58282 	6.6 	309 	309 	0.4.5 	standard 	
+xe100_130510_2333 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	56134.7 	55473 	50773 	33368 	0.4.5 	standard 	
+xe100_130511_1511 	Cs137 	black 	S1 	4.400 	15.000 	closed 	1990.92 	1990.9 	44679 	44679 	0.4.5 	standard 	Normal conditions, cathode at 15.0kV
+xe100_130511_1631 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	116759 	116759 	103658 	70392 	0.4.5 	standard 	
+xe100_130513_0051 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	65910 	65910 	59195 	40315 	0.4.5 	standard 	
+xe100_130513_1908 	LED 	other 	EXT 	4.400 	15.000 	closed 	1025 		100000 				F1 4.65V, F2 4.8, width 4us, , P1=1.333 atm
+xe100_130513_1935 	Cs137 	white 	S1 	4.400 	15.000 	closed 	2041 	2041 	50000 	50000 	0.4.5 	standard 	Normal conditions, cathode at 15.0kV
+xe100_130513_2016 	Th232 	around 	S1 	4.400 	15.000 	closed 	9089.36 	9089.4 	500000 	500000 	0.4.5 	standard 	
+xe100_130514_0008 	Th232 	around 	S1 	4.400 	15.000 	closed 	9130.52 	9130.5 	500000 	500000 	0.4.5 	standard 	
+xe100_130514_0407 	Th232 	around 	S1 	4.400 	15.000 	closed 	9161.4 	9161.4 	500000 	500000 	0.4.5 	standard 	
+xe100_130514_0816 	Th232 	around 	S1 	4.400 	15.000 	closed 	9179.1 	9179.1 	500000 	500000 	0.4.5 	standard 	
+xe100_130514_1225 	Th232 	around 	S1 	4.400 	15.000 	closed 	9262.95 	9263 	500000 	500000 	0.4.5 	standard 	
+xe100_130514_1626 	Th232 	around 	S1 	4.400 	15.000 	closed 	9263.5 	9263.5 	500000 	500000 	0.4.5 	standard 	
+xe100_130514_2028 	Th232 	around 	S1 	4.400 	15.000 	closed 	1967.05 	1967 	106186 	108000 	0.4.5 	standard 	
+xe100_130515_1643 	Cs137 	red 	S1 	4.400 	15.000 	closed 	1894.87 	1894.9 	50000 	50000 	0.4.5 	standard 	Normal conditions, cathode at 15.0kV
+xe100_130515_1828 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	55071.1 	55071.1 	51621 	34476 	0.4.5 	standard 	
+xe100_130516_0951 	LED 	other 	EXT 	4.400 	15.000 	closed 	1017.86 		100000 				F1 4.65V, F2 4.8, width 4us
+xe100_130516_1119 	AmBe 	other 	S1 	4.400 	15.000 	closed 	1798.34 	1798.3 	40729 	40729 	0.4.5 	standard 	
+xe100_130516_1209 	AmBe 	other 	S1 	4.400 	15.000 	closed 	6695.04 	6695 	150000 	150000 	0.4.5 	standard 	
+xe100_130516_1400 	AmBe 	other 	S1 	4.400 	15.000 	closed 	6707.23 	6707.2 	150000 	150000 	0.4.5 	standard 	
+xe100_130516_1552 	AmBe 	other 	S1 	4.400 	15.000 	closed 	6797.11 	6797.1 	150000 	150000 	0.4.5 	standard 	
+xe100_130516_1746 	AmBe 	other 	S1 	4.400 	15.000 	closed 	6752.77 	6752.8 	150000 	150000 	0.4.5 	standard 	
+xe100_130516_1939 	AmBe 	other 	S1 	4.400 	15.000 	closed 	6701.86 	6701.9 	150000 	150000 	0.4.5 	standard 	
+xe100_130516_2131 	AmBe 	other 	S1 	4.400 	15.000 	closed 	6775.46 	6775.5 	150000 	150000 	0.4.5 	standard 	
+xe100_130516_2324 	AmBe 	other 	S1 	4.400 	15.000 	closed 	6708.12 	6708.1 	150000 	150000 	0.4.5 	standard 	
+xe100_130517_0116 	AmBe 	other 	S1 	4.400 	15.000 	closed 	6789.91 	6789.9 	150000 	150000 	0.4.5 	standard 	
+xe100_130517_0309 	AmBe 	other 	S1 	4.400 	15.000 	closed 	6742.79 	6742.8 	150000 	150000 	0.4.5 	standard 	
+xe100_130517_0502 	AmBe 	other 	S1 	4.400 	15.000 	closed 	6751.62 	6751.6 	150000 	150000 	0.4.5 	standard 	
+xe100_130517_0655 	AmBe 	other 	S1 	4.400 	15.000 	closed 	6721.6 	6721.6 	150000 	150000 	0.4.5 	standard 	
+xe100_130517_0847 	AmBe 	other 	S1 	4.400 	15.000 	closed 	6749.47 	6749.5 	150000 	150000 	0.4.5 	standard 	
+xe100_130517_1040 	AmBe 	other 	S1 	4.400 	15.000 	closed 	6694.49 	6694.5 	150000 	150000 	0.4.5 	standard 	
+xe100_130517_1232 	AmBe 	other 	S1 	4.400 	15.000 	closed 	6681.01 	6681 	146110 	146110 	0.4.5 	standard 	
+xe100_130517_1429 	AmBe 	other 	S1 	4.400 	15.000 	closed 	6542.33 	6542.3 	150000 	150000 	0.4.5 	standard 	
+xe100_130517_1618 	AmBe 	other 	S1 	4.400 	15.000 	closed 	6548.93 	6548.9 	150000 	150000 	0.4.5 	standard 	
+xe100_130517_1808 	AmBe 	other 	S1 	4.400 	15.000 	closed 	6545.28 	6545.3 	150000 	150000 	0.4.5 	standard 	
+xe100_130517_1957 	AmBe 	other 	S1 	4.400 	15.000 	closed 	6484.37 	6484.4 	150000 	150000 	0.4.5 	standard 	
+xe100_130517_2146 	AmBe 	other 	S1 	4.400 	15.000 	closed 	6447.67 	6447.7 	150000 	150000 	0.4.5 	standard 	
+xe100_130517_2334 	AmBe 	other 	S1 	4.400 	15.000 	closed 	6465.36 	6465.4 	150000 	150000 	0.4.5 	standard 	
+xe100_130518_0122 	AmBe 	other 	S1 	4.400 	15.000 	closed 	6457.92 	6457.9 	150000 	150000 	0.4.5 	standard 	
+xe100_130518_0312 	AmBe 	other 	S1 	4.400 	15.000 	closed 	6439.98 	6440 	150000 	150000 	0.4.5 	standard 	
+xe100_130518_0459 	AmBe 	other 	S1 	4.400 	15.000 	closed 	6442.13 	6442.1 	150000 	150000 	0.4.5 	standard 	
+xe100_130518_0648 	AmBe 	other 	S1 	4.400 	15.000 	closed 	6440.19 	6440.2 	150000 	150000 	0.4.5 	standard 	
+xe100_130518_0836 	AmBe 	other 	S1 	4.400 	15.000 	closed 	6384.72 	6384.7 	150000 	150000 	0.4.5 	standard 	
+xe100_130518_1023 	AmBe 	other 	S1 	4.400 	15.000 	closed 	6421.44 	6421.4 	150000 	150000 	0.4.5 	standard 	
+xe100_130518_1210 	AmBe 	other 	S1 	4.400 	15.000 	closed 	6433.2 	6433.2 	150000 	150000 	0.4.5 	standard 	
+xe100_130518_1358 	AmBe 	other 	S1 	4.400 	15.000 	closed 	6415.34 	6415.3 	150000 	150000 	0.4.5 	standard 	
+xe100_130518_1546 	AmBe 	other 	S1 	4.400 	15.000 	closed 	6378.61 	6378.6 	150000 	150000 	0.4.5 	standard 	
+xe100_130518_1732 	AmBe 	other 	S1 	4.400 	15.000 	closed 	6459.78 	6459.8 	150000 	150000 	0.4.5 	standard 	
+xe100_130518_1921 	AmBe 	other 	S1 	4.400 	15.000 	closed 	1649.17 	1649.2 	38440 	38440 	0.4.5 	standard 	
+xe100_130518_1951 	AmBe 	other 	S1 	4.400 	15.000 	closed 	6555 	6555 	150000 	150000 	0.4.5 	standard 	
+xe100_130518_2141 	AmBe 	other 	S1 	4.400 	15.000 	closed 	6590.87 	6590.9 	150000 	150000 	0.4.5 	standard 	
+xe100_130518_2331 	AmBe 	other 	S1 	4.400 	15.000 	closed 	6564.35 	6564.4 	150000 	150000 	0.4.5 	standard 	
+xe100_130519_0121 	AmBe 	other 	S1 	4.400 	15.000 	closed 	6541.79 	6541.8 	150000 	150000 	0.4.5 	standard 	
+xe100_130519_0311 	AmBe 	other 	S1 	4.400 	15.000 	closed 	6598.14 	6598.1 	150000 	150000 	0.4.5 	standard 	
+xe100_130519_0501 	AmBe 	other 	S1 	4.400 	15.000 	closed 	6559.15 	6559.1 	150000 	150000 	0.4.5 	standard 	
+xe100_130519_0650 	AmBe 	other 	S1 	4.400 	15.000 	closed 	6507.79 	6507.8 	150000 	150000 	0.4.5 	standard 	
+xe100_130519_0839 	AmBe 	other 	S1 	4.400 	15.000 	closed 	6518.48 	6518.5 	150000 	150000 	0.4.5 	standard 	
+xe100_130519_1028 	AmBe 	other 	S1 	4.400 	15.000 	closed 	6568.3 	6568.3 	150000 	150000 	0.4.5 	standard 	
+xe100_130519_1218 	AmBe 	other 	S1 	4.400 	15.000 	closed 	6553.78 	6553.8 	150000 	150000 	0.4.5 	standard 	
+xe100_130519_1408 	AmBe 	other 	S1 	4.400 	15.000 	closed 	6553.29 	6553.3 	150000 	150000 	0.4.5 	standard 	
+xe100_130519_1557 	AmBe 	other 	S1 	4.400 	15.000 	closed 	6532.48 	6532.5 	150000 	150000 	0.4.5 	standard 	
+xe100_130519_1747 	AmBe 	other 	S1 	4.400 	15.000 	closed 	1299.67 	1299.7 	30075 	30075 	0.4.5 	standard 	
+xe100_130519_1811 	AmBe 	other 	S1 	4.400 	15.000 	closed 	6516.66 	6516.7 	150000 	150000 	0.4.5 	standard 	
+xe100_130519_2000 	AmBe 	other 	S1 	4.400 	15.000 	closed 	6409.69 	6409.7 	150000 	150000 	0.4.5 	standard 	
+xe100_130519_2148 	AmBe 	other 	S1 	4.400 	15.000 	closed 	6468.75 	6468.8 	150000 	150000 	0.4.5 	standard 	
+xe100_130519_2336 	AmBe 	other 	S1 	4.400 	15.000 	closed 	6473.45 	6473.4 	150000 	150000 	0.4.5 	standard 	
+xe100_130520_0125 	AmBe 	other 	S1 	4.400 	15.000 	closed 	6469.3 	6469.3 	150000 	150000 	0.4.5 	standard 	
+xe100_130520_0313 	AmBe 	other 	S1 	4.400 	15.000 	closed 	6461.22 	6461.2 	150000 	150000 	0.4.5 	standard 	
+xe100_130520_0501 	AmBe 	other 	S1 	4.400 	15.000 	closed 	6486.87 	6486.9 	150000 	150000 	0.4.5 	standard 	
+xe100_130520_0649 	AmBe 	other 	S1 	4.400 	15.000 	closed 	6426.2 	6426.2 	150000 	150000 	0.4.5 	standard 	
+xe100_130520_0837 	AmBe 	other 	S1 	4.400 	15.000 	closed 	6433.64 	6433.6 	150000 	150000 	0.4.5 	standard 	
+xe100_130520_1025 	AmBe 	other 	S1 	4.400 	15.000 	closed 	6449.92 	6449.9 	150000 	150000 	0.4.5 	standard 	
+xe100_130520_1212 	AmBe 	other 	S1 	4.400 	15.000 	closed 	6446.73 	6446.7 	150000 	150000 	0.4.5 	standard 	
+xe100_130520_1400 	AmBe 	other 	S1 	4.400 	15.000 	closed 	6446.8 	6446.8 	150000 	150000 	0.4.5 	standard 	
+xe100_130520_1756 	AmBe 	other 	S1 	4.400 	15.000 	closed 	6309.32 	6309.3 	200000 	200000 	0.4.5 		NO HE veto
+xe100_130520_2017 	AmBe 	other 	S1 	4.400 	15.000 	closed 	6307.13 	6307.1 	200000 	200000 	0.4.5 		NO HE veto
+xe100_130520_2301 	AmBe 	other 	S1 	4.400 	15.000 	closed 	6528.99 	6529 	150000 	150000 	0.4.5 	standard 	
+xe100_130521_0052 	AmBe 	other 	S1 	4.400 	15.000 	closed 	6558.84 	6558.8 	150000 	150000 	0.4.5 	standard 	
+xe100_130521_0241 	AmBe 	other 	S1 	4.400 	15.000 	closed 	6536.64 	6536.6 	150000 	150000 	0.4.5 	standard 	
+xe100_130521_0431 	AmBe 	other 	S1 	4.400 	15.000 	closed 	6534.31 	6534.3 	150000 	150000 	0.4.5 	standard 	
+xe100_130521_0620 	AmBe 	other 	S1 	4.400 	15.000 	closed 	6504.46 	6504.5 	150000 	150000 	0.4.5 	standard 	
+xe100_130521_0809 	AmBe 	other 	S1 	4.400 	15.000 	closed 	4620.32 	4620.3 	106622 	106622 	0.4.5 	standard 	
+xe100_130521_0931 	AmBe 	other 	S1 	4.400 	15.000 	closed 	6332.43 	6332.4 	200000 	200000 	0.4.5 		No HE veto again
+xe100_130521_1202 	Cs137 	red 	S1 	4.400 	15.000 	closed 	2280.95 	2280.9 	50000 	50000 	0.4.5 	standard 	Normal conditions right after AmBe calibration
+xe100_130521_1257 	Background 	other 	S1 	2.200 	15.000 	closed 	93308.7 	93308.7 	100576 	100576 	0.4.5 		After AmBe calibration at reduced anode voltage
+xe100_130522_1506 	LED 	other 	EXT 	2.200 	15.000 	closed 	1027.58 		100000 				F1 4.70V, F2 5.75V, width 4us
+xe100_130522_1536 	LED 	other 	EXT 	2.200 	15.000 	closed 	1035.53 		100000 				F1 4.65V, F2 5.70V, width 4us
+xe100_130522_1600 	Background 	other 	S1 	2.200 	15.000 	closed 	86492.1 	86492.1 	88082 	88082 	0.4.5 		After AmBe calibration at reduced anode voltage
+xe100_130523_1603 	LED 	other 	EXT 	2.200 	15.000 	closed 	1009.09 		100000 				F1 4.65V, F2 4.80V, width 4us
+xe100_130523_1634 	Cs137 	black 	S1 	2.200 	15.000 	closed 	2504 	2504 	50000 	50000 	0.4.5 	standard 	Anode voltage at 2.2 kV with activated lines after AmBe
+xe100_130523_1719 	Background 	other 	S1 	2.200 	15.000 	closed 	76087.4 	76087.4 	76474 	76474 	0.4.5 		After AmBe calibration at reduced anode voltage
+xe100_130524_1423 	Background 	other 	S1 	2.200 	15.000 	closed 	79889.5 	79889.5 	80001 	80001 	0.4.5 		After AmBe calibration at reduced anode voltage
+xe100_130525_1235 	Cs137 	black 	S1 	2.200 	15.000 	closed 	2500.37 	2500.4 	50000 	50000 	0.4.5 	standard 	Anode voltage at 2.2 kV with activated lines after AmBe
+xe100_130525_1319 	Background 	other 	S1 	2.200 	15.000 	closed 	90053 	90053 	87878 	87878 	0.4.5 		After AmBe calibration at reduced anode voltage
+xe100_130526_1416 	Background 	other 	S1 	2.200 	15.000 	closed 	74718.4 	74718.4 	71686 	71686 	0.4.5 		After AmBe calibration at reduced anode voltage
+xe100_130527_1059 	LED 	other 	EXT 	2.200 	15.000 	closed 	1051.48 		100000 				F1 4.65V, F2 4.80V, width 4us
+xe100_130527_1120 	Cs137 	black 	S1 	2.200 	15.000 	closed 	2516.66 	2516.7 	50000 	50000 	0.4.5 	standard 	Anode voltage at 2.2 kV with activated lines after AmBe
+xe100_130527_1208 	Background 	other 	S1 	2.200 	15.000 	closed 	90626.9 	90626.9 	86463 	86463 	0.4.5 		After AmBe calibration at reduced anode voltage
+xe100_130528_1315 	Background 	other 	S1 	2.200 	15.000 	closed 	88716.5 	88716.5 	85037 	85037 	0.4.5 		After AmBe calibration at reduced anode voltage
+xe100_130529_1352 	Background 	other 	S1 	2.200 	15.000 	closed 	91426.1 	91426.1 	86007 	86000 	0.4.5 		After AmBe calibration at reduced anode voltage
+xe100_130530_1523 	Cs137 	black 	S1 	2.200 	15.000 	closed 	2470.58 	2470.6 	50000 	50000 	0.4.5 	standard 	Anode voltage at 2.2 kV with activated lines after AmBe
+xe100_130530_1614 	Background 	other 	S1 	2.200 	15.000 	closed 	81640.9 	81640.9 	74967 	74967 	0.4.5 		After AmBe calibration at reduced anode voltage
+xe100_130531_1452 	Background 	other 	S1 	2.200 	15.000 	closed 	75186.9 	75186.9 	69491 	69491 	0.4.5 		After AmBe calibration at reduced anode voltage
+xe100_130601_1141 	Background 	other 	S1 	2.200 	15.000 	closed 	95269.6 	95269.6 	86216 	86216 	0.4.5 		After AmBe calibration at reduced anode voltage
+xe100_130602_1404 	Background 	other 	S1 	2.200 	15.000 	closed 	96201.6 	96201.6 	86612 	86612 	0.4.5 		After AmBe calibration at reduced anode voltage
+xe100_130603_1644 	Background 	other 	S1 	2.200 	15.000 	closed 	64332.1 	64332.1 	58017 	58017 	0.4.5 		After AmBe calibration at reduced anode voltage
+xe100_130604_1036 	LED 	other 	EXT 	2.200 	15.000 	closed 	1047.1 		100000 				F1 4.65V, F2 4.80V, width 4us
+xe100_130604_1104 	Cs137 	black 	S1 	2.200 	15.000 	closed 	2501.79 	2501.8 	50000 	50000 	0.4.5 	standard 	Anode voltage at 2.2 kV with activated lines after AmBe
+xe100_130604_1218 	Background 	other 	S1 	2.200 	15.000 	closed 	90962.6 	90962.6 	81519 	81519 	0.4.5 		After AmBe calibration at reduced anode voltage
+xe100_130605_1330 	Background 	other 	S1 	2.200 	15.000 	closed 	91625.2 	91625.2 	81523 	81523 	0.4.5 		After AmBe calibration at reduced anode voltage
+xe100_130606_1519 	Cs137 	red 	S1 	4.400 	15.000 	closed 	1849.81 	1849.8 	50000 	50000 	0.4.5 	standard 	Anode voltage at 4.4kV with activated lines after AmBe
+xe100_130606_1650 	Background 	other 	S1 	4.400 	15.000 	closed 	74845.8 	74845.8 	73226 	73226 	0.4.5 		After AmBe calibration at nominal anode voltage
+xe100_130607_1334 	Background 	other 	S1 	4.400 	15.000 	closed 	97854.5 	97854.5 	95742 	95742 	0.4.5 		After AmBe calibration at nominal anode voltage
+xe100_130608_1643 	Background 	other 	S1 	4.400 	15.000 	closed 	80817 	80817 	80365 	80365 	0.4.5 		After AmBe calibration at nominal anode voltage
+xe100_130609_1507 	Background 	other 	S1 	4.400 	15.000 	closed 	80475.5 	80475.5 	78943 	78943 	0.4.5 		After AmBe calibration at nominal anode voltage
+xe100_130610_1325 	LED 	other 	EXT 	4.400 	15.000 	closed 	1032.11 		100000 				F1 4.65V, F2 4.80V, width 4us
+xe100_130610_1350 	Cs137 	red 	S1 	4.400 	15.000 	closed 	1819.55 	1819.5 	50000 	50000 	0.4.5 	standard 	Anode voltage at 4.4 kV with activated lines after AmBe
+xe100_130610_1537 	Background 	other 	S1 	4.400 	15.000 	closed 	81251.6 	81251.6 	78095 	78095 	0.4.5 		After AmBe calibration at nominal anode voltage
+xe100_130611_1408 	Background 	other 	S1 	4.400 	15.000 	closed 	87716.1 	86803.3 	83638 	82727 	0.4.5 		After AmBe calibration at nominal anode voltage
+xe100_130612_1448 	Background 	other 	S1 	4.400 	15.000 	closed 	75699.4 	75699.4 	79664 	79664 	0.4.5 		After AmBe calibration at nominal anode voltage
+xe100_130613_1155 	Th232 	around 	S1 	4.400 	15.000 	closed 	9445.9 	9445.9 	500000 	500000 	0.4.5 	standard 	
+xe100_130613_1732 	Th232 	around 	S1 	4.400 	15.000 	closed 	9583.38 	9583.4 	500000 	500000 	0.4.5 	standard 	
+xe100_130613_2113 	Th232 	around 	S1 	4.400 	15.000 	closed 	9669.66 	9669.7 	500000 	500000 	0.4.5 	standard 	
+xe100_130614_0100 	Th232 	around 	S1 	4.400 	15.000 	closed 	9749.68 	9749.7 	500000 	500000 	0.4.5 	standard 	
+xe100_130614_0449 	Th232 	around 	S1 	4.400 	15.000 	closed 	9761.2 	9761.2 	500000 	500000 	0.4.5 	standard 	
+xe100_130614_2333 	Background 	other 	S1 	4.400 	15.000 	closed 	41765 	41765 	43784 	43784 	0.4.5 		After AmBe calibration at nominal anode voltage and after BBC accident
+xe100_130615_1110 	Cs137 	red 	S1 	4.400 	15.000 	closed 	1585.39 	1585.4 	50000 	50000 	0.4.5 	standard 	After BBC accident
+xe100_130615_1558 	Background 	other 	S1 	4.400 	15.000 	closed 	94336.2 	94336.2 	99229 	99229 	0.4.5 		After AmBe calibration at nominal anode voltage
+xe100_130616_1805 	Background 	other 	S1 	4.400 	15.000 	closed 	73820.8 	73820.8 	85348 	85348 	0.4.5 		After AmBe calibration at nominal anode voltage
+xe100_130617_1438 	LED 	other 	EXT 	4.400 	15.000 	closed 	1031.11 		100000 				F1 4.65V, F2 4.80V, width 4us
+xe100_130617_1517 	Cs137 	red 	S1 	4.400 	15.000 	closed 	1642.9 	1642.9 	50000 	50000 	0.4.5 	standard 	Anode voltage at 4.4 kV with activated lines after AmBe
+xe100_130618_0943 	Background 	other 	S1 	4.400 	15.000 	closed 	112660 	112660 	137876 	137876 	0.4.5 		After AmBe calibration at nominal anode voltage
+xe100_130619_1704 	Cs137 	red 	S1 	4.400 	15.000 	closed 	1747.67 	1747.7 	50000 	50000 	0.4.5 	standard 	Anode voltage at 4.4 kV with activated lines after AmBe
+xe100_130619_1818 	Th232 	around 	S1 	4.400 	15.000 	closed 	7750.26 	7750.3 	500000 	500000 	0.4.5 	standard 	
+xe100_130620_0016 	Th232 	around 	S1 	4.400 	15.000 	closed 	7852.69 	7852.7 	500000 	500000 	0.4.5 	standard 	
+xe100_130620_0349 	Th232 	around 	S1 	4.400 	15.000 	closed 	8013.65 	8013.6 	500000 	500000 	0.4.5 	standard 	
+xe100_130620_0738 	Th232 	around 	S1 	4.400 	15.000 	closed 	8124.92 	8124.9 	500000 	500000 	0.4.5 	standard 	
+xe100_130620_1121 	Th232 	around 	S1 	4.400 	15.000 	closed 	8200.09 	8200.1 	500000 	500000 	0.4.5 	standard 	
+xe100_130620_1529 	Co60 	black 	S1 	4.400 	15.000 	closed 	3610.27 	3610.3 	158096 	166000 	0.4.5 	standard 	
+xe100_130620_1906 	Co60 	black 	S1 	4.400 	15.000 	closed 	4060.98 	4061 	178804 	185000 	0.4.5 	standard 	
+xe100_130620_2122 	Co60 	black 	S1 	4.400 	15.000 	closed 	11538.8 	11538.8 	500000 	500000 	0.4.5 	standard 	
+xe100_130621_0140 	Co60 	black 	S1 	4.400 	15.000 	closed 	10536.9 	10536.9 	446129 	454000 	0.4.5 	standard 	
+xe100_130621_1431 	Cs137 	black 	S1 	4.400 	15.000 	closed 	2254.23 	2254.2 	50000 	50000 	0.4.5 	standard 	Anode voltage at 4.4 kV with activated lines after AmBe
+xe100_130621_1546 	Background 	other 	S1 	4.400 	15.000 	closed 	84129.2 	84129.2 	92663 	92663 	0.4.5 		After AmBe calibration at nominal anode voltage
+xe100_130622_1504 	Background 	other 	S1 	4.400 	15.000 	closed 	94513.5 	94513.5 	102333 	102333 	0.4.5 		After AmBe calibration at nominal anode voltage
+xe100_130623_1717 	Background 	other 	S1 	4.400 	15.000 	closed 	77896.1 	77896.1 	79257 	79257 	0.4.5 		After AmBe calibration at nominal anode voltage
+xe100_130624_1452 	LED 	other 	EXT 	4.400 	15.000 	closed 	1058.15 		100000 				F1 4.65V, F2 4.80V, width 4us
+xe100_130624_1516 	Cs137 	red 	S1 	4.400 	15.000 	closed 	1861.24 	1861.2 	50000 	50000 	0.4.5 	standard 	Anode voltage at 4.4 kV with activated lines after AmBe
+xe100_130624_1751 	Background 	other 	S1 	4.400 	15.000 	closed 	81701 	81701 	79982 	79982 	0.4.5 		After AmBe calibration at nominal anode voltage
+xe100_130625_1629 	Background 	other 	S1 	4.400 	15.000 	closed 	91506.9 	91506.9 	97982 	97982 	0.4.5 		After AmBe calibration at nominal anode voltage
+xe100_130626_1752 	Background 	other 	S1 	4.400 	15.000 	closed 	4036.43 	4036.4 	4792 	4792 	0.4.5 		After AmBe calibration at nominal anode voltage
+xe100_130626_1915 	Th232 	around 	S1 	4.400 	15.000 	closed 	8684.92 	8684.9 	500000 	500000 	0.4.5 	standard 	
+xe100_130626_2314 	Th232 	around 	S1 	4.400 	15.000 	closed 	8772.3 	8772.3 	500000 	500000 	0.4.5 	standard 	
+xe100_130627_0319 	Th232 	around 	S1 	4.400 	15.000 	closed 	8819.46 	8819.5 	500000 	500000 	0.4.5 	standard 	
+xe100_130627_0724 	Th232 	around 	S1 	4.400 	15.000 	closed 	8777.3 	8777.3 	500000 	500000 	0.4.5 	standard 	
+xe100_130627_1454 	Th232 	around 	S1 	4.400 	15.000 	closed 	8832.1 	8832.1 	500000 	500000 	0.4.5 	standard 	
+xe100_130627_1839 	Th232 	around 	S1 	4.400 	15.000 	closed 	3187.5 	3187.5 	178307 	178307 	0.4.5 	standard 	
+xe100_130627_2004 	Co60 	white 	S1 	4.400 	15.000 	closed 	9946.47 	9946.5 	500000 	500000 	0.4.5 	standard 	
+xe100_130628_0001 	Co60 	white 	S1 	4.400 	15.000 	closed 	10040.5 	10040.5 	500000 	500000 	0.4.5 	standard 	
+xe100_130628_0332 	Co60 	white 	S1 	4.400 	15.000 	closed 	10046.6 	10046.6 	500000 	500000 	0.4.5 	standard 	
+xe100_130628_0727 	Co60 	white 	S1 	4.400 	15.000 	closed 	3335.22 	3335.2 	163804 	163804 	0.4.5 	standard 	
+xe100_130628_1046 	Co60 	white 	S1 	4.400 	15.000 	closed 	10178.7 	10178.7 	500000 	500000 	0.4.5 	standard 	
+xe100_130628_1511 	Co60 	white 	S1 	4.400 	15.000 	closed 	10198 	10198 	500000 	500000 	0.4.5 	standard 	
+xe100_130628_1912 	Co60 	white 	S1 	4.400 	15.000 	closed 	1870.38 	1870.4 	91192 	92000 	0.4.5 	standard 	
+xe100_130628_2034 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	79970.8 	79323.8 	81343 	50320 	0.4.5 	standard 	
+xe100_130629_1843 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	89949.3 	89949.3 	92264 	56744 	0.4.5 	standard 	
+xe100_130630_1938 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	67683.8 	67683.8 	71387 	44165 	0.4.5 	standard 	
+xe100_130701_1429 	LED 	other 	EXT 	4.400 	15.000 	closed 	983.584 		100000 				F1 4.65V, F2 4.80V, width 4us
+xe100_130701_1507 	Cs137 	red 	S1 	4.400 	15.000 	closed 	1832.97 	1833 	50000 	50000 	0.4.5 	standard 	Anode voltage at 4.4 kV with activated lines after AmBe
+xe100_130701_1627 	Th232 	around 	S1 	4.400 	15.000 	closed 	8955.2 	8955.2 	500000 	500000 	0.4.5 	standard 	
+xe100_130701_2012 	Th232 	around 	S1 	4.400 	15.000 	closed 	9090.42 	9090.4 	500000 	500000 	0.4.5 	standard 	
+xe100_130702_0006 	Th232 	around 	S1 	4.400 	15.000 	closed 	9114.78 	9114.8 	500000 	500000 	0.4.5 	standard 	
+xe100_130702_0357 	Th232 	around 	S1 	4.400 	15.000 	closed 	9060.86 	9060.9 	500000 	500000 	0.4.5 	standard 	
+xe100_130702_0857 	Th232 	around 	S1 	4.400 	15.000 	closed 	9083.66 	9083.7 	500000 	500000 	0.4.5 	standard 	
+xe100_130702_1314 	Th232 	around 	S1 	4.400 	15.000 	closed 	5524.93 	5524.9 	300278 	301000 	0.4.5 	standard 	
+xe100_130702_1916 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	79145 	77866.8 	77384 	48484 	0.4.5 	standard 	
+xe100_130703_1727 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	84391.5 	84391.5 	80448 	54203 	0.4.5 	standard 	
+xe100_130704_1652 	Background 	other 	S1 	4.400 	15.000 	closed 	2032.6 	2032.6 	2109 	2109 	0.4.5 		
+xe100_130704_1736 	Co60 	white 	S1 	4.400 	15.000 	closed 	10672.2 	10051.4 	500000 	466620 	0.4.5 	standard 	
+xe100_130704_2157 	Co60 	white 	S1 	4.400 	15.000 	closed 	10769.4 	10769.4 	500000 	500000 	0.4.5 	standard 	
+xe100_130705_0229 	Co60 	white 	S1 	4.400 	15.000 	closed 	10869.4 	10869.4 	500000 	500000 	0.4.5 	standard 	
+xe100_130705_0657 	Co60 	white 	S1 	4.400 	15.000 	closed 	10858.6 	10858.6 	500000 	500000 	0.4.5 	standard 	
+xe100_130705_1120 	Co60 	white 	S1 	4.400 	15.000 	closed 	10890.1 	10890.1 	500000 	500000 	0.4.5 	standard 	
+xe100_130705_1551 	Co60 	white 	S1 	4.400 	15.000 	closed 	5844.12 	5844.1 	265503 	265503 	0.4.5 	standard 	
+xe100_130705_1907 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	81982.6 	81982.6 	76222 	52411 	0.4.5 	standard 	
+xe100_130706_1752 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	92080.8 	91388.2 	86055 	56212 	0.4.5 	standard 	
+xe100_130707_1924 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	69525.4 	69525.4 	70965 	43141 	0.4.5 	standard 	
+xe100_130708_1502 	LED 	other 	EXT 	4.400 	15.000 	closed 	983.466 		100000 				F1 4.65V, F2 4.80V, width 4us
+xe100_130708_1528 	Cs137 	red 	S1 	4.400 	15.000 	closed 	1846.98 	1847 	50000 	50000 	0.4.5 	standard 	
+xe100_130708_1620 	Th232 	around 	S1 	4.400 	15.000 	closed 	9181.94 	9181.9 	500000 	500000 	0.4.5 	standard 	
+xe100_130708_2030 	Th232 	around 	S1 	4.400 	15.000 	closed 	9282.84 	9282.8 	500000 	500000 	0.4.5 	standard 	
+xe100_130709_0051 	Th232 	around 	S1 	4.400 	15.000 	closed 	9387.41 	9387.4 	500000 	500000 	0.4.5 	standard 	
+xe100_130709_0522 	Th232 	around 	S1 	4.400 	15.000 	closed 	9346.25 	9346.2 	500000 	500000 	0.4.5 	standard 	
+xe100_130709_0944 	Th232 	around 	S1 	4.400 	15.000 	closed 	9413.03 	9413 	500000 	500000 	0.4.5 	standard 	
+xe100_130709_1356 	Th232 	around 	S1 	4.400 	15.000 	closed 	9475.53 	9475.5 	500000 	500000 	0.4.5 	standard 	
+xe100_130709_2010 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	78436.2 	78436.2 	72671 	49416 	0.4.5 	standard 	
+xe100_130710_1756 	Cs137 	red 	S1 	4.400 	15.000 	closed 	1883.2 	1883.2 	50000 	50000 	0.4.5 	standard 	
+xe100_130710_1919 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	81796.9 	81796.9 	76000 	52484 	0.4.5 	standard 	
+xe100_130711_1808 	Co60 	white 	S1 	4.400 	15.000 	closed 	11494.9 	11494.9 	500000 	500000 	0.4.5 	standard 	
+xe100_130711_2212 	Co60 	white 	S1 	4.400 	15.000 	closed 	11760.3 	11760.3 	500000 	500000 	0.4.5 	standard 	
+xe100_130712_0239 	Co60 	white 	S1 	4.400 	15.000 	closed 	11725.6 	11725.6 	500000 	500000 	0.4.5 	standard 	
+xe100_130712_0721 	Co60 	white 	S1 	4.400 	15.000 	closed 	11747.1 	11747.1 	500000 	500000 	0.4.5 	standard 	
+xe100_130712_1158 	Co60 	white 	S1 	4.400 	15.000 	closed 	11986.1 	11986.1 	500000 	500000 	0.4.5 	standard 	
+xe100_130712_1629 	Co60 	white 	S1 	4.400 	15.000 	closed 	11916.2 	11916.2 	500000 	500000 	0.4.5 	standard 	
+xe100_130712_2125 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	78659.1 	78659.1 	71906 	49482 	0.4.5 	standard 	
+xe100_130713_1943 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	55227.3 	55227.3 	50159 	34050 	0.4.5 	standard 	
+xe100_130714_1121 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	97730.6 	97730.6 	89307 	61163 	0.4.5 	standard 	
+xe100_130715_1555 	LED 	other 	EXT 	4.400 	15.000 	closed 	994.394 		100000 				F1 4.65V, F2 4.80V, width 4us
+xe100_130715_1620 	Cs137 	black 	S1 	4.400 	15.000 	closed 	2244.14 	2244.1 	50000 	50000 	0.4.5 	standard 	
+xe100_130715_1858 	Th232 	around 	S1 	4.400 	15.000 	closed 	9448.76 	9448.8 	500000 	500000 	0.4.5 	standard 	
+xe100_130715_2308 	Th232 	around 	S1 	4.400 	15.000 	closed 	9514 	9514 	500000 	500000 	0.4.5 	standard 	
+xe100_130716_0337 	Th232 	around 	S1 	4.400 	15.000 	closed 	9526.66 	9526.7 	500000 	500000 	0.4.5 	standard 	
+xe100_130716_0758 	Th232 	around 	S1 	4.400 	15.000 	closed 	9581.18 	9581.2 	500000 	500000 	0.4.5 	standard 	
+xe100_130716_1226 	Th232 	around 	S1 	4.400 	15.000 	closed 	10005.3 	10005.3 	500000 	500000 	0.4.5 	standard 	
+xe100_130716_1654 	Th232 	around 	S1 	4.400 	15.000 	closed 	2052.55 	2052.6 	100830 	101000 	0.4.5 	standard 	
+xe100_130716_1928 	Cs137 	red 	S1 	4.400 	15.000 	closed 	1933.63 	1933.6 	50000 	50000 	0.4.5 	standard 	
+xe100_130716_2042 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	80841.2 	80841.2 	71982 	49140 	0.4.5 	standard 	
+xe100_130717_1908 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	65531.1 	64869.1 	59447 	40287 	0.4.5 	standard 	
+xe100_130718_1646 	Co60 	red 	S1 	4.400 	15.000 	closed 	11075.7 	11075.7 	500000 	500000 	0.4.5 	standard 	
+xe100_130718_2046 	Co60 	red 	S1 	4.400 	15.000 	closed 	11065.7 	11065.7 	500000 	500000 	0.4.5 	standard 	
+xe100_130719_0052 	Co60 	red 	S1 	4.400 	15.000 	closed 	11089.1 	11089.1 	500000 	500000 	0.4.5 	standard 	
+xe100_130719_0451 	Co60 	red 	S1 	4.400 	15.000 	closed 	11152.3 	11152.3 	500000 	500000 	0.4.5 	standard 	
+xe100_130719_0850 	Co60 	red 	S1 	4.400 	15.000 	closed 	3002.08 	3002.1 	136335 	136000 	0.4.5 	standard 	
+xe100_130719_1132 	Co60 	red 	S1 	4.400 	15.000 	closed 	11137.8 	11137.8 	500000 	500000 	0.4.5 	standard 	
+xe100_130719_1617 	Cs137 	red 	S1 	4.400 	15.000 	closed 	1898.62 	1898.6 	50000 	50000 	0.4.5 	standard 	
+xe100_130719_1746 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	62325.6 	62325.6 	56007 	39235 	0.4.5 	standard 	
+xe100_130720_1151 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	80371.5 	80371.5 	71891 	50877 	0.4.5 	standard 	
+xe100_130721_1007 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	85143.3 	85143.3 	76919 	53552 	0.4.5 	standard 	
+xe100_130722_1050 	LED 	other 	EXT 	4.400 	15.000 	closed 	1030.35 		100000 				F1 4.65V, F2 4.80V, width 4us
+xe100_130722_1116 	Cs137 	red 	S1 	4.400 	15.000 	closed 	1877.02 	1877 	50000 	50000 	0.4.5 	standard 	
+xe100_130722_1200 	Th232 	around 	S1 	4.400 	15.000 	closed 	9402.51 	9402.5 	500000 	500000 	0.4.5 	standard 	
+xe100_130722_1558 	Th232 	around 	S1 	4.400 	15.000 	closed 	9548.35 	9548.4 	500000 	500000 	0.4.5 	standard 	
+xe100_130722_2006 	Th232 	around 	S1 	4.400 	15.000 	closed 	9637.05 	9637 	500000 	500000 	0.4.5 	standard 	
+xe100_130723_0032 	Th232 	around 	S1 	4.400 	15.000 	closed 	9689.62 	9689.6 	500000 	500000 	0.4.5 	standard 	
+xe100_130723_0450 	Th232 	around 	S1 	4.400 	15.000 	closed 	9690.84 	9690.8 	500000 	500000 	0.4.5 	standard 	
+xe100_130723_0906 	Th232 	around 	S1 	4.400 	15.000 	closed 	9720.72 	9720.7 	500000 	500000 	0.4.5 	standard 	
+xe100_130723_1628 	Background 	other 	S1 	4.400 	15.000 	closed 	2768.98 	2769 	2477 	2477 	0.4.5 		
+xe100_130723_1718 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	85197 	85197 	77548 	52225 	0.4.5 	standard 	
+xe100_130724_1655 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	65349.6 	65349.6 	62213 	41887 	0.4.5 	standard 	
+xe100_130725_1206 	Co60 	black 	S1 	4.400 	15.000 	closed 	11201 	10539.5 	500000 	470624 	0.4.5 	standard 	
+xe100_130725_1624 	Co60 	black 	S1 	4.400 	15.000 	closed 	9082.01 	9082 	500000 	500000 	0.4.5 	standard 	
+xe100_130725_1957 	Co60 	black 	S1 	4.400 	15.000 	closed 	13881.5 	13881.5 	500000 	500000 	0.4.5 	standard 	
+xe100_130726_0101 	Co60 	black 	S1 	4.400 	15.000 	closed 	13921.2 	13921.2 	500000 	500000 	0.4.5 	standard 	
+xe100_130726_0603 	Co60 	black 	S1 	4.400 	15.000 	closed 	13938.7 	13938.7 	500000 	500000 	0.4.5 	standard 	
+xe100_130726_1112 	Co60 	black 	S1 	4.400 	15.000 	closed 	13762.7 	13762.7 	500000 	500000 	0.4.5 	standard 	
+xe100_130726_1938 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	76422.9 	76422.9 	67696 	48864 	0.4.5 	standard 	
+xe100_130727_1649 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	85922.9 	85922.9 	77098 	55362 	0.4.5 	standard 	
+xe100_130728_1640 	Background 	other 	S1 	4.400 	15.000 	closed 	2116.86 	2116.9 	2000 	2000 	0.4.5 		
+xe100_130728_1716 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	73312.9 	73312.9 	65527 	46702 	0.4.5 	standard 	
+xe100_130729_1416 	LED 	other 	EXT 	4.400 	15.000 	closed 	1024.23 		100000 				F1 4.65V, F2 4.80V, width 4us
+xe100_130729_1440 	Cs137 	red 	S1 	4.400 	15.000 	closed 	1919.01 	1919 	50000 	50000 	0.4.5 	standard 	
+xe100_130729_1522 	Th232 	around 	S1 	4.400 	15.000 	closed 	10132.4 	10132.4 	500000 	500000 	0.4.5 	standard 	
+xe100_130729_1943 	Th232 	around 	S1 	4.400 	15.000 	closed 	10184.6 	10184.6 	500000 	500000 	0.4.5 	standard 	
+xe100_130730_0012 	Th232 	around 	S1 	4.400 	15.000 	closed 	10226.9 	10226.9 	500000 	500000 	0.4.5 	standard 	
+xe100_130730_0459 	Th232 	around 	S1 	4.400 	15.000 	closed 	10211 	9620.2 	500000 	471386 	0.4.5 	standard 	
+xe100_130730_0922 	Th232 	around 	S1 	4.400 	15.000 	closed 	10216.2 	10216.2 	500000 	500000 	0.4.5 	standard 	
+xe100_130730_1354 	Th232 	around 	S1 	4.400 	15.000 	closed 	8707.98 	8708 	426980 	426980 	0.4.5 	standard 	
+xe100_130730_1854 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	73466.1 	73466.1 	65557 	44252 	0.4.5 	standard 	
+xe100_130731_1519 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	82948.4 	82948.4 	74551 	49704 	0.4.5 	standard 	
+xe100_130801_1429 	Co60 	white 	S1 	4.400 	15.000 	closed 	11984 	11984 	500000 	500000 	0.4.5 	standard 	
+xe100_130802_1246 	Co60 	white 	S1 	4.400 	15.000 	closed 	6129.14 	6129.1 	250000 	250000 	0.4.5 	standard 	
+xe100_130802_1453 	Co60 	white 	S1 	4.400 	15.000 	closed 	6129.28 	6129.3 	250000 	250000 	0.4.5 	standard 	
+xe100_130802_1704 	Co60 	white 	S1 	4.400 	15.000 	closed 	4635.88 	4635.9 	190510 	190510 	0.4.5 	standard 	
+xe100_130802_1848 	Background 	other 	S1 	4.400 	15.000 	closed 	2190.61 	2190.6 	1894 	1894 	0.4.5 		
+xe100_130802_1924 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	78952.6 	78952.6 	70441 	47581 	0.4.5 	standard 	
+xe100_130803_1717 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	89306.5 	89306.5 	79600 	53578 	0.4.5 	standard 	
+xe100_130804_1802 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	73399 	73399 	64450 	44140 	0.4.5 	standard 	
+xe100_130805_1427 	LED 	other 	EXT 	4.400 	15.000 	closed 	1102.44 		100000 				F1 4.65V, F2 4.80V, width 4us
+xe100_130805_1450 	Cs137 	red 	S1 	4.400 	15.000 	closed 	1937.15 	1937.2 	50000 	50000 	0.4.5 	standard 	
+xe100_130805_1534 	Th232 	around 	S1 	4.400 	15.000 	closed 	5164.29 	5164.3 	250000 	250000 	0.4.5 	standard 	
+xe100_130805_1743 	Th232 	around 	S1 	4.400 	15.000 	closed 	5200.53 	5200.5 	250000 	250000 	0.4.5 	standard 	
+xe100_130805_2001 	Th232 	around 	S1 	4.400 	15.000 	closed 	5202.13 	5202.1 	250000 	250000 	0.4.5 	standard 	
+xe100_130805_2219 	Th232 	around 	S1 	4.400 	15.000 	closed 	5203.58 	5203.6 	250000 	250000 	0.4.5 	standard 	
+xe100_130806_0037 	Th232 	around 	S1 	4.400 	15.000 	closed 	5227.1 	5227.1 	250000 	250000 	0.4.5 	standard 	
+xe100_130806_0253 	Th232 	around 	S1 	4.400 	15.000 	closed 	5229.94 	5229.9 	250000 	250000 	0.4.5 	standard 	
+xe100_130806_0507 	Th232 	around 	S1 	4.400 	15.000 	closed 	5227.61 	5227.6 	250000 	250000 	0.4.5 	standard 	
+xe100_130806_0731 	Th232 	around 	S1 	4.400 	15.000 	closed 	5230.62 	5230.6 	250000 	250000 	0.4.5 	standard 	
+xe100_130806_0949 	Th232 	around 	S1 	4.400 	15.000 	closed 	5248.19 	5248.2 	250000 	250000 	0.4.5 	standard 	
+xe100_130806_1158 	Th232 	around 	S1 	4.400 	15.000 	closed 	5253.22 	5253.2 	250000 	250000 	0.4.5 	standard 	
+xe100_130806_1404 	Th232 	around 	S1 	4.400 	15.000 	closed 	5236.98 	5237 	248723 	248723 	0.4.5 	standard 	
+xe100_130806_1617 	Cs137 	red 	S1 	4.400 	15.000 	closed 	1950.32 	1950.3 	50000 	50000 	0.4.5 	standard 	
+xe100_130806_1710 	Background 	other 	S1 	4.400 	15.000 	closed 	3327.04 	3327 	2944 	2944 	0.4.5 		
+xe100_130806_1807 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	84337.8 	84337.8 	74623 	52401 	0.4.5 	standard 	
+xe100_130807_1758 	Background 	other 	S1 	4.400 	15.000 	closed 	5183.29 	5183.3 	4584 	4584 	0.4.5 		
+xe100_130807_1925 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	61353.1 	61353.1 	54628 	41126 	0.4.5 	standard 	
+xe100_130808_1240 	Co60 	red 	S1 	4.400 	15.000 	closed 	5894.27 	5894.3 	250000 	250000 	0.4.5 	standard 	
+xe100_130808_1456 	Co60 	red 	S1 	4.400 	15.000 	closed 	5986.98 	5987 	250000 	250000 	0.4.5 	standard 	
+xe100_130808_1720 	Co60 	red 	S1 	4.400 	15.000 	closed 	6001.03 	6001 	250000 	250000 	0.4.5 	standard 	
+xe100_130808_1942 	Co60 	red 	S1 	4.400 	15.000 	closed 	5995.94 	5995.9 	250000 	250000 	0.4.5 	standard 	
+xe100_130808_2208 	Co60 	red 	S1 	4.400 	15.000 	closed 	6020.78 	6020.8 	250000 	250000 	0.4.5 	standard 	
+xe100_130809_0033 	Co60 	red 	S1 	4.400 	15.000 	closed 	6029.4 	6029.4 	250000 	250000 	0.4.5 	standard 	
+xe100_130809_0303 	Co60 	red 	S1 	4.400 	15.000 	closed 	5912.15 	5912.1 	250000 	250000 	0.4.5 	standard 	
+xe100_130809_0529 	Co60 	red 	S1 	4.400 	15.000 	closed 	6025.65 	6025.6 	250000 	250000 	0.4.5 	standard 	
+xe100_130809_0800 	Co60 	red 	S1 	4.400 	15.000 	closed 	6078.53 	6078.5 	250000 	250000 	0.4.5 	standard 	
+xe100_130809_1030 	Co60 	red 	S1 	4.400 	15.000 	closed 	5957.99 	5958 	250000 	250000 	0.4.5 	standard 	
+xe100_130809_1249 	Co60 	red 	S1 	4.400 	15.000 	closed 	3855.75 	3855.8 	158144 	158144 	0.4.5 	standard 	
+xe100_130809_1458 	Background 	other 	S1 	4.400 	15.000 	closed 	3073.76 	3073.8 	2778 	2778 	0.4.5 		
+xe100_130809_1550 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	82478.9 	82478.9 	72680 	50250 	0.4.5 	standard 	
+xe100_130810_1443 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	93874.9 	93874.9 	83228 	55719 	0.4.5 	standard 	
+xe100_130811_1645 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	68292.4 	67376.4 	60907 	38998 	0.4.5 	standard 	
+xe100_130812_1147 	LED 	other 	EXT 	4.400 	15.000 	closed 	1031.3 		100000 				F1 4.65V, F2 4.80V, width 4us
+xe100_130812_1223 	Cs137 	red 	S1 	4.400 	15.000 	closed 	1934.48 	1934.5 	50000 	50000 	0.4.5 	standard 	
+xe100_130812_1313 	Th232 	around 	S1 	4.400 	15.000 	closed 	4933.3 	4933.3 	250000 	250000 	0.4.5 	standard 	
+xe100_130812_1510 	Th232 	around 	S1 	4.400 	15.000 	closed 	4945.62 	4945.6 	250000 	250000 	0.4.5 	standard 	
+xe100_130812_1712 	Th232 	around 	S1 	4.400 	15.000 	closed 	4995.15 	4995.1 	250000 	250000 	0.4.5 	standard 	
+xe100_130812_1928 	Th232 	around 	S1 	4.400 	15.000 	closed 	5000.9 	5000.9 	250000 	250000 	0.4.5 	standard 	
+xe100_130812_2137 	Th232 	around 	S1 	4.400 	15.000 	closed 	5002.44 	5002.4 	250000 	250000 	0.4.5 	standard 	
+xe100_130812_2348 	Th232 	around 	S1 	4.400 	15.000 	closed 	5002.01 	5002 	250000 	250000 	0.4.5 	standard 	
+xe100_130813_0156 	Th232 	around 	S1 	4.400 	15.000 	closed 	4969.24 	4969.2 	250000 	250000 	0.4.5 	standard 	
+xe100_130813_0413 	Th232 	around 	S1 	4.400 	15.000 	closed 	5017.24 	5017.2 	250000 	250000 	0.4.5 	standard 	
+xe100_130813_0619 	Th232 	around 	S1 	4.400 	15.000 	closed 	5044.46 	5044.5 	250000 	250000 	0.4.5 	standard 	
+xe100_130813_0827 	Th232 	around 	S1 	4.400 	15.000 	closed 	5055.62 	5055.6 	250000 	250000 	0.4.5 	standard 	
+xe100_130813_1034 	Th232 	around 	S1 	4.400 	15.000 	closed 	5050.49 	5050.5 	250000 	250000 	0.4.5 	standard 	
+xe100_130813_1242 	Th232 	around 	S1 	4.400 	15.000 	closed 	3185.1 	3185.1 	158318 	158318 	0.4.5 	standard 	
+xe100_130813_1421 	Background 	other 	S1 	4.400 	15.000 	closed 	2509.86 	2509.9 	2278 	2278 	0.4.5 		
+xe100_130813_1505 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	83711.9 	83711.9 	84770 	51012 	0.4.5 	standard 	
+xe100_130814_1430 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	72810.6 	72810.6 	64305 	43628 	0.4.5 	standard 	
+xe100_130815_1048 	Co60 	black 	S1 	4.400 	15.000 	closed 	7255.12 	7255.1 	250000 	250000 	0.4.5 	standard 	
+xe100_130815_1319 	Co60 	black 	S1 	4.400 	15.000 	closed 	7291.1 	7291.1 	250000 	250000 	0.4.5 	standard 	
+xe100_130815_1553 	Co60 	black 	S1 	4.400 	15.000 	closed 	7307.38 	7307.4 	250000 	250000 	0.4.5 	standard 	
+xe100_130815_1826 	Co60 	black 	S1 	4.400 	15.000 	closed 	7289.68 	7289.7 	250000 	250000 	0.4.5 	standard 	
+xe100_130815_2102 	Co60 	black 	S1 	4.400 	15.000 	closed 	7319.08 	7319.1 	250000 	250000 	0.4.5 	standard 	
+xe100_130815_2338 	Co60 	black 	S1 	4.400 	15.000 	closed 	7336.48 	7336.5 	250000 	250000 	0.4.5 	standard 	
+xe100_130816_0214 	Co60 	black 	S1 	4.400 	15.000 	closed 	7314.62 	7314.6 	250000 	250000 	0.4.5 	standard 	
+xe100_130816_0454 	Co60 	black 	S1 	4.400 	15.000 	closed 	7380.45 	7380.4 	250000 	250000 	0.4.5 	standard 	
+xe100_130816_0729 	Co60 	black 	S1 	4.400 	15.000 	closed 	7382.64 	7382.6 	250000 	250000 	0.4.5 	standard 	
+xe100_130816_1010 	Co60 	black 	S1 	4.400 	15.000 	closed 	3536.21 	3536.2 	120063 	120063 	0.4.5 	standard 	
+xe100_130816_1141 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	86007.5 	86007.5 	75654 	51454 	0.4.5 	standard 	
+xe100_130817_1132 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	85662.1 	84070.9 	75179 	50135 	0.4.5 	standard 	
+xe100_130818_1118 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	82837.1 	82837.1 	73495 	50967 	0.4.5 	standard 	
+xe100_130819_1019 	LED 	other 	EXT 	4.400 	15.000 	closed 	1071.21 		100000 				F1 4.65V, F2 4.80V, width 4us
+xe100_130819_1052 	Cs137 	red 	S1 	4.400 	15.000 	closed 	1642.79 	1642.8 	42452 	43000 	0.4.5 	standard 	
+xe100_130819_1137 	Th232 	around 	S1 	4.400 	15.000 	closed 	5099.68 	5099.7 	250000 	250000 	0.4.5 	standard 	
+xe100_130819_1340 	Th232 	around 	S1 	4.400 	15.000 	closed 	5117.91 	5117.9 	250000 	250000 	0.4.5 	standard 	
+xe100_130819_1548 	Th232 	around 	S1 	4.400 	15.000 	closed 	5118.63 	5118.6 	250000 	250000 	0.4.5 	standard 	
+xe100_130819_1752 	Th232 	around 	S1 	4.400 	15.000 	closed 	5100.2 	5100.2 	250000 	250000 	0.4.5 	standard 	
+xe100_130819_2005 	Th232 	around 	S1 	4.400 	15.000 	closed 	5140.06 	5140.1 	250000 	250000 	0.4.5 	standard 	
+xe100_130819_2213 	Th232 	around 	S1 	4.400 	15.000 	closed 	5124.78 	5124.8 	250000 	250000 	0.4.5 	standard 	
+xe100_130820_0019 	Th232 	around 	S1 	4.400 	15.000 	closed 	5159.17 	5159.2 	250000 	250000 	0.4.5 	standard 	
+xe100_130820_0227 	Th232 	around 	S1 	4.400 	15.000 	closed 	5149.65 	5149.6 	250000 	250000 	0.4.5 	standard 	
+xe100_130820_0437 	Th232 	around 	S1 	4.400 	15.000 	closed 	5176.25 	5176.2 	250000 	250000 	0.4.5 	standard 	
+xe100_130820_0641 	Th232 	around 	S1 	4.400 	15.000 	closed 	5180.66 	5180.7 	250000 	250000 	0.4.5 	standard 	
+xe100_130820_0847 	Th232 	around 	S1 	4.400 	15.000 	closed 	5192.25 	5192.2 	250000 	250000 	0.4.5 	standard 	
+xe100_130820_1148 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	82688 	82688 	71890 	48851 	0.4.5 	standard 	
+xe100_130821_1047 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	82855.8 	82855.8 	72758 	49793 	0.4.5 	standard 	
+xe100_130822_0959 	Co60 	white 	S1 	4.400 	15.000 	closed 	6101.69 	6101.7 	250000 	250000 	0.4.5 	standard 	
+xe100_130822_1207 	Co60 	white 	S1 	4.400 	15.000 	closed 	6138.72 	6138.7 	250000 	250000 	0.4.5 	standard 	
+xe100_130822_1419 	Co60 	white 	S1 	4.400 	15.000 	closed 	6149.36 	6149.4 	250000 	250000 	0.4.5 	standard 	
+xe100_130822_1632 	Co60 	white 	S1 	4.400 	15.000 	closed 	6196.24 	6196.2 	250000 	250000 	0.4.5 	standard 	
+xe100_130822_1848 	Co60 	white 	S1 	4.400 	15.000 	closed 	6217.22 	6217.2 	250000 	250000 	0.4.5 	standard 	
+xe100_130822_2100 	Co60 	white 	S1 	4.400 	15.000 	closed 	6181.92 	6181.9 	250000 	250000 	0.4.5 	standard 	
+xe100_130822_2318 	Co60 	white 	S1 	4.400 	15.000 	closed 	6186.75 	6186.8 	250000 	250000 	0.4.5 	standard 	
+xe100_130823_0134 	Co60 	white 	S1 	4.400 	15.000 	closed 	6202.66 	6202.7 	250000 	250000 	0.4.5 	standard 	
+xe100_130823_0351 	Co60 	white 	S1 	4.400 	15.000 	closed 	6215.91 	6215.9 	250000 	250000 	0.4.5 	standard 	
+xe100_130823_0606 	Co60 	white 	S1 	4.400 	15.000 	closed 	6261.67 	6261.7 	250000 	250000 	0.4.5 	standard 	
+xe100_130823_0825 	Co60 	white 	S1 	4.400 	15.000 	closed 	3658.25 	3658.2 	145904 	145904 	0.4.5 	standard 	
+xe100_130823_1041 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	82655.3 	82655.3 	72728 	49616 	0.4.5 	standard 	
+xe100_130824_0937 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	86437.1 	86437.1 	78040 	53043 	0.4.5 	standard 	
+xe100_130825_0936 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	92267.8 	90724.4 	83499 	54678 	0.4.5 	standard 	
+xe100_130826_1116 	LED 	other 	EXT 	4.400 	15.000 	closed 	1019.66 		100000 				F1 4.65V, F2 4.80V, width 4us
+xe100_130826_1144 	Cs137 	red 	S1 	4.400 	15.000 	closed 	1916.45 	1916.5 	50000 	50000 	0.4.5 	standard 	
+xe100_130826_1233 	Th232 	around 	S1 	4.400 	15.000 	closed 	4987.42 	4987.4 	250000 	250000 	0.4.5 	standard 	
+xe100_130826_1434 	Th232 	around 	S1 	4.400 	15.000 	closed 	5031.57 	5031.6 	250000 	250000 	0.4.5 	standard 	
+xe100_130826_1646 	Th232 	around 	S1 	4.400 	15.000 	closed 	5051.99 	5052 	250000 	250000 	0.4.5 	standard 	
+xe100_130826_1851 	Th232 	around 	S1 	4.400 	15.000 	closed 	5059.04 	5059 	250000 	250000 	0.4.5 	standard 	
+xe100_130826_2106 	Th232 	around 	S1 	4.400 	15.000 	closed 	5058.42 	5058.4 	250000 	250000 	0.4.5 	standard 	
+xe100_130826_2313 	Th232 	around 	S1 	4.400 	15.000 	closed 	5075.49 	5075.5 	250000 	250000 	0.4.5 	standard 	
+xe100_130827_0130 	Th232 	around 	S1 	4.400 	15.000 	closed 	5105.26 	5105.3 	250000 	250000 	0.4.5 	standard 	
+xe100_130827_0337 	Th232 	around 	S1 	4.400 	15.000 	closed 	5130.24 	5130.2 	250000 	250000 	0.4.5 	standard 	
+xe100_130827_0548 	Th232 	around 	S1 	4.400 	15.000 	closed 	5094.44 	5094.4 	250000 	250000 	0.4.5 	standard 	
+xe100_130827_0806 	Th232 	around 	S1 	4.400 	15.000 	closed 	5083.77 	5083.8 	250000 	250000 	0.4.5 	standard 	
+xe100_130827_1122 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	109633 	109633 	98742 	67198 	0.4.5 	standard 	
+xe100_130828_1746 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	63623.9 	63623.9 	55540 	38060 	0.4.5 	standard 	
+xe100_130829_1151 	Co60 	red 	S1 	4.400 	15.000 	closed 	5956.55 	5956.6 	250000 	250000 	0.4.5 	standard 	
+xe100_130829_1407 	Co60 	red 	S1 	4.400 	15.000 	closed 	6020.56 	6020.6 	250000 	250000 	0.4.5 	standard 	
+xe100_130829_1627 	Co60 	red 	S1 	4.400 	15.000 	closed 	6024.59 	6024.6 	250000 	250000 	0.4.5 	standard 	
+xe100_130829_1849 	Co60 	red 	S1 	4.400 	15.000 	closed 	5994.55 	5994.6 	250000 	250000 	0.4.5 	standard 	
+xe100_130829_2109 	Co60 	red 	S1 	4.400 	15.000 	closed 	6011.32 	6011.3 	250000 	250000 	0.4.5 	standard 	
+xe100_130829_2331 	Co60 	red 	S1 	4.400 	15.000 	closed 	6012.54 	6012.5 	250000 	250000 	0.4.5 	standard 	
+xe100_130830_0152 	Co60 	red 	S1 	4.400 	15.000 	closed 	6051.96 	6052 	250000 	250000 	0.4.5 	standard 	
+xe100_130830_0416 	Co60 	red 	S1 	4.400 	15.000 	closed 	6108.89 	6108.9 	250000 	250000 	0.4.5 	standard 	
+xe100_130830_0639 	Co60 	red 	S1 	4.400 	15.000 	closed 	6062.94 	6062.9 	250000 	250000 	0.4.5 	standard 	
+xe100_130830_0905 	Co60 	red 	S1 	4.400 	15.000 	closed 	6119.53 	6119.5 	250000 	250000 	0.4.5 	standard 	
+xe100_130830_1128 	Co60 	red 	S1 	4.400 	15.000 	closed 	3632.18 	3632.2 	148504 	148504 	0.4.5 	standard 	
+xe100_130830_1438 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	90780.5 	90780.5 	80021 	53405 	0.4.5 	standard 	
+xe100_130831_1550 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	85923.4 	85923.4 	75961 	53371 	0.4.5 	standard 	
+xe100_130901_1541 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	68859.4 	68182.7 	61056 	41876 	0.4.5 	standard 	
+xe100_130902_1104 	LED 	other 	EXT 	4.400 	15.000 	closed 	1044.75 		100000 				F1 4.65V, F2 4.80V, width 4us
+xe100_130903_1133 	Cs137 	red 	S1 	4.400 	15.000 	closed 	1946.51 	1946.5 	50000 	50000 	0.4.5 	standard 	
+xe100_130903_1454 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	88710.7 	88710.7 	76584 	53578 	0.4.5 	standard 	
+xe100_130904_1530 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	80066 	79149.8 	69971 	47740 	0.4.5 	standard 	
+xe100_130905_1349 	Co60 	black 	S1 	4.400 	15.000 	closed 	7773.25 	7773.2 	250000 	250000 	0.4.5 	standard 	
+xe100_130905_1622 	Co60 	black 	S1 	4.400 	15.000 	closed 	7740.66 	7740.7 	250000 	250000 	0.4.5 	standard 	
+xe100_130905_1859 	Co60 	black 	S1 	4.400 	15.000 	closed 	7797.95 	7797.9 	250000 	250000 	0.4.5 	standard 	
+xe100_130905_2134 	Co60 	black 	S1 	4.400 	15.000 	closed 	7874.16 	7874.2 	250000 	250000 	0.4.5 	standard 	
+xe100_130906_0016 	Co60 	black 	S1 	4.400 	15.000 	closed 	7880.84 	7880.8 	250000 	250000 	0.4.5 	standard 	
+xe100_130906_0252 	Co60 	black 	S1 	4.400 	15.000 	closed 	7788.81 	7788.8 	250000 	250000 	0.4.5 	standard 	
+xe100_130906_0528 	Co60 	black 	S1 	4.400 	15.000 	closed 	7753.7 	7753.7 	250000 	250000 	0.4.5 	standard 	
+xe100_130906_0805 	Co60 	black 	S1 	4.400 	15.000 	closed 	7743.42 	7743.4 	250000 	250000 	0.4.5 	standard 	
+xe100_130906_1046 	Co60 	black 	S1 	4.400 	15.000 	closed 	7659.5 	7659.5 	250000 	250000 	0.4.5 	standard 	
+xe100_130906_1320 	Co60 	black 	S1 	4.400 	15.000 	closed 	7765.46 	7765.5 	250000 	250000 	0.4.5 	standard 	
+xe100_130906_1557 	Co60 	black 	S1 	4.400 	15.000 	closed 	1614.61 	1614.6 	52286 	52286 	0.4.5 	standard 	
+xe100_130906_1737 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	70926.7 	70926.7 	64259 	43224 	0.4.5 	standard 	
+xe100_130907_1316 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	83713.2 	83713.2 	75789 	50094 	0.4.5 	standard 	
+xe100_130908_1231 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	97904.2 	97904.2 	87757 	58548 	0.4.5 	standard 	
+xe100_130909_1547 	LED 	other 	EXT 	4.400 	15.000 	closed 	1047.6 		100000 				F1 4.65V, F2 4.80V, width 4us
+xe100_130909_1641 	Cs137 	red 	S1 	4.400 	15.000 	closed 	1943.47 	1943.5 	50000 	50000 	0.4.5 	standard 	
+xe100_130909_1757 	Th232 	around 	S1 	4.400 	15.000 	closed 	5296.47 	5296.5 	250000 	250000 	0.4.5 	standard 	
+xe100_130909_2221 	Th232 	around 	S1 	4.400 	15.000 	closed 	5328.2 	5328.2 	250000 	250000 	0.4.5 	standard 	
+xe100_130910_0023 	Th232 	around 	S1 	4.400 	15.000 	closed 	5338.83 	5338.8 	250000 	250000 	0.4.5 	standard 	
+xe100_130910_0234 	Th232 	around 	S1 	4.400 	15.000 	closed 	5347.8 	5347.8 	250000 	250000 	0.4.5 	standard 	
+xe100_130910_0442 	Th232 	around 	S1 	4.400 	15.000 	closed 	5357.92 	5357.9 	250000 	250000 	0.4.5 	standard 	
+xe100_130910_0655 	Th232 	around 	S1 	4.400 	15.000 	closed 	5362.42 	5362.4 	250000 	250000 	0.4.5 	standard 	
+xe100_130910_0901 	Th232 	around 	S1 	4.400 	15.000 	closed 	5401.14 	5401.1 	250000 	250000 	0.4.5 	standard 	
+xe100_130910_1112 	Th232 	around 	S1 	4.400 	15.000 	closed 	4685.33 	4685.3 	218705 	218000 	0.4.5 	standard 	
+xe100_130910_1304 	Th232 	around 	S1 	4.400 	15.000 	closed 	5346.64 	5346.6 	250000 	250000 	0.4.5 	standard 	
+xe100_130910_1513 	Th232 	around 	S1 	4.400 	15.000 	closed 	5326.92 	5326.9 	250000 	250000 	0.4.5 	standard 	
+xe100_130910_1723 	Th232 	around 	S1 	4.400 	15.000 	closed 	3587.35 	3587.3 	168699 	168699 	0.4.5 	standard 	
+xe100_130910_2019 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	68045.6 	68045.6 	57782 	38739 	0.4.5 	standard 	
+xe100_130911_1514 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	92763 	92763 	80292 	54210 	0.4.5 	standard 	
+xe100_130912_1718 	Co60 	white 	S1 	4.400 	15.000 	closed 	6456.62 	6456.6 	250000 	250000 	0.4.5 	standard 	
+xe100_130912_1922 	Co60 	white 	S1 	4.400 	15.000 	closed 	6543.05 	6543.1 	250000 	250000 	0.4.5 	standard 	
+xe100_130912_2128 	Co60 	white 	S1 	4.400 	15.000 	closed 	6514.9 	6514.9 	250000 	250000 	0.4.5 	standard 	
+xe100_130912_2336 	Co60 	white 	S1 	4.400 	15.000 	closed 	6556.28 	6556.3 	250000 	250000 	0.4.5 	standard 	
+xe100_130913_0144 	Co60 	white 	S1 	4.400 	15.000 	closed 	6568.04 	6568 	250000 	250000 	0.4.5 	standard 	
+xe100_130913_0358 	Co60 	white 	S1 	4.400 	15.000 	closed 	6589.75 	6589.8 	250000 	250000 	0.4.5 	standard 	
+xe100_130913_0619 	Co60 	white 	S1 	4.400 	15.000 	closed 	6568.27 	6568.3 	250000 	250000 	0.4.5 	standard 	
+xe100_130913_0827 	Co60 	white 	S1 	4.400 	15.000 	closed 	6602.26 	6602.3 	250000 	250000 	0.4.5 	standard 	
+xe100_130913_1047 	Co60 	white 	S1 	4.400 	15.000 	closed 	6639.92 	6639.9 	250000 	250000 	0.4.5 	standard 	
+xe100_130913_1303 	Co60 	white 	S1 	4.400 	15.000 	closed 	6615.81 	6615.8 	250000 	250000 	0.4.5 	standard 	
+xe100_130913_1524 	Co60 	white 	S1 	4.400 	15.000 	closed 	2253.28 	2253.3 	84763 	84763 	0.4.5 	standard 	
+xe100_130913_1729 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	73934.4 	73934.4 	63276 	43463 	0.4.5 	standard 	
+xe100_130914_1400 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	95053.4 	95053.4 	82444 	57284 	0.4.5 	standard 	
+xe100_130915_1622 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	87719 	87719 	75189 	52165 	0.4.5 	standard 	
+xe100_130916_1645 	LED 	other 	EXT 	4.400 	15.000 	closed 	997.148 		100000 				F1 4.65V, F2 4.80V, width 4us
+xe100_130916_1741 	Cs137 	red 	S1 	4.400 	15.000 	closed 	1956.36 	1956.4 	50000 	50000 	0.4.5 	standard 	
+xe100_130916_1823 	Th232 	around 	S1 	4.400 	15.000 	closed 	5288.54 	5288.5 	250000 	250000 	0.4.5 	standard 	
+xe100_130916_2018 	Th232 	around 	S1 	4.400 	15.000 	closed 	5323.85 	5323.9 	250000 	250000 	0.4.5 	standard 	
+xe100_130916_2227 	Th232 	around 	S1 	4.400 	15.000 	closed 	5339.56 	5339.6 	250000 	250000 	0.4.5 	standard 	
+xe100_130917_0022 	Th232 	around 	S1 	4.400 	15.000 	closed 	5365.38 	5365.4 	250000 	250000 	0.4.5 	standard 	
+xe100_130917_0224 	Th232 	around 	S1 	4.400 	15.000 	closed 	5393.92 	5393.9 	250000 	250000 	0.4.5 	standard 	
+xe100_130917_0426 	Th232 	around 	S1 	4.400 	15.000 	closed 	5380.45 	5380.4 	250000 	250000 	0.4.5 	standard 	
+xe100_130917_0637 	Th232 	around 	S1 	4.400 	15.000 	closed 	5381.72 	5381.7 	250000 	250000 	0.4.5 	standard 	
+xe100_130917_0843 	Th232 	around 	S1 	4.400 	15.000 	closed 	5385.31 	5385.3 	250000 	250000 	0.4.5 	standard 	
+xe100_130917_1043 	Th232 	around 	S1 	4.400 	15.000 	closed 	5375.76 	5375.8 	250000 	250000 	0.4.5 	standard 	
+xe100_130917_1241 	Th232 	around 	S1 	4.400 	15.000 	closed 	5403.18 	5403.2 	250000 	250000 	0.4.5 	standard 	
+xe100_130917_1434 	Th232 	around 	S1 	4.400 	15.000 	closed 	5382.78 	5382.8 	250000 	250000 	0.4.5 	standard 	
+xe100_130917_1643 	Th232 	around 	S1 	4.400 	15.000 	closed 	5404.67 	5404.7 	250000 	250000 	0.4.5 	standard 	
+xe100_130917_1954 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	67137 	67137 	57300 	39599 	0.4.5 	standard 	
+xe100_130918_1432 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	74280.8 	74280.8 	64068 	44394 	0.4.5 	standard 	
+xe100_130919_1133 	Co60 	red 	S1 	4.400 	15.000 	closed 	6304.78 	6304.8 	250000 	250000 	0.4.5 	standard 	
+xe100_130919_1350 	Co60 	red 	S1 	4.400 	15.000 	closed 	6359.97 	6360 	250000 	250000 	0.4.5 	standard 	
+xe100_130919_1609 	Co60 	red 	S1 	4.400 	15.000 	closed 	6365.02 	6365 	250000 	250000 	0.4.5 	standard 	
+xe100_130919_1838 	Co60 	red 	S1 	4.400 	15.000 	closed 	6386.32 	6386.3 	250000 	250000 	0.4.5 	standard 	
+xe100_130919_2103 	Co60 	red 	S1 	4.400 	15.000 	closed 	6407.11 	6407.1 	250000 	250000 	0.4.5 	standard 	
+xe100_130919_2319 	Co60 	red 	S1 	4.400 	15.000 	closed 	6414.5 	6414.5 	250000 	250000 	0.4.5 	standard 	
+xe100_130920_0141 	Co60 	red 	S1 	4.400 	15.000 	closed 	6400.01 	6400 	250000 	250000 	0.4.5 	standard 	
+xe100_130920_0410 	Co60 	red 	S1 	4.400 	15.000 	closed 	6428.5 	6428.5 	250000 	250000 	0.4.5 	standard 	
+xe100_130920_0639 	Co60 	red 	S1 	4.400 	15.000 	closed 	6432.41 	6432.4 	250000 	250000 	0.4.5 	standard 	
+xe100_130920_0900 	Co60 	red 	S1 	4.400 	15.000 	closed 	4792.13 	4792.1 	185213 	185000 	0.4.5 	standard 	
+xe100_130921_1333 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	83334.6 	83334.6 	71231 	49249 	0.4.5 	standard 	
+xe100_130922_1239 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	97948.2 	97948.2 	83922 	58772 	0.4.5 	standard 	
+xe100_130923_1550 	LED 	other 	EXT 	4.400 	15.000 	closed 	1054.51 		100000 				F1 4.65V, F2 4.80V, width 4us
+xe100_130923_1612 	Cs137 	red 	S1 	4.400 	15.000 	closed 	1951.5 	1951.5 	50000 	50000 	0.4.5 	standard 	
+xe100_130923_1652 	Th232 	around 	S1 	4.400 	15.000 	closed 	5266.01 	5266 	250000 	250000 	0.4.5 	standard 	
+xe100_130923_1844 	Th232 	around 	S1 	4.400 	15.000 	closed 	5283.53 	5283.5 	250000 	250000 	0.4.5 	standard 	
+xe100_130923_2046 	Th232 	around 	S1 	4.400 	15.000 	closed 	5297.62 	5297.6 	250000 	250000 	0.4.5 	standard 	
+xe100_130923_2246 	Th232 	around 	S1 	4.400 	15.000 	closed 	5311.33 	5311.3 	250000 	250000 	0.4.5 	standard 	
+xe100_130924_0049 	Th232 	around 	S1 	4.400 	15.000 	closed 	5307.51 	5307.5 	250000 	250000 	0.4.5 	standard 	
+xe100_130924_0253 	Th232 	around 	S1 	4.400 	15.000 	closed 	5315.5 	5315.5 	250000 	250000 	0.4.5 	standard 	
+xe100_130924_0500 	Th232 	around 	S1 	4.400 	15.000 	closed 	5317.61 	5317.6 	250000 	250000 	0.4.5 	standard 	
+xe100_130924_0705 	Th232 	around 	S1 	4.400 	15.000 	closed 	5346.53 	5346.5 	250000 	250000 	0.4.5 	standard 	
+xe100_130924_0910 	Th232 	around 	S1 	4.400 	15.000 	closed 	5327.26 	5327.3 	250000 	250000 	0.4.5 	standard 	
+xe100_130924_1117 	Th232 	around 	S1 	4.400 	15.000 	closed 	5322.67 	5322.7 	250000 	250000 	0.4.5 	standard 	
+xe100_130924_1319 	Th232 	around 	S1 	4.400 	15.000 	closed 	5352.78 	5352.8 	250000 	250000 	0.4.5 	standard 	
+xe100_130924_1551 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	70437.2 	70437.2 	60155 	41842 	0.4.5 	standard 	
+xe100_130925_1122 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	88981.5 	88981.5 	77905 	53795 	0.4.5 	standard 	
+xe100_130926_1208 	Co60 	black 	S1 	4.400 	15.000 	closed 	7859.99 	7860 	250000 	250000 	0.4.5 	standard 	
+xe100_130926_1442 	Co60 	black 	S1 	4.400 	15.000 	closed 	7868.61 	7868.6 	250000 	250000 	0.4.5 	standard 	
+xe100_130926_1723 	Co60 	black 	S1 	4.400 	15.000 	closed 	7874.92 	7874.9 	250000 	250000 	0.4.5 	standard 	
+xe100_130926_1956 	Co60 	black 	S1 	4.400 	15.000 	closed 	7883.14 	7883.1 	250000 	250000 	0.4.5 	standard 	
+xe100_130926_2230 	Co60 	black 	S1 	4.400 	15.000 	closed 	7912.79 	7912.8 	250000 	250000 	0.4.5 	standard 	
+xe100_130927_0108 	Co60 	black 	S1 	4.400 	15.000 	closed 	7936.26 	7936.3 	250000 	250000 	0.4.5 	standard 	
+xe100_130927_0350 	Co60 	black 	S1 	4.400 	15.000 	closed 	7950.81 	7950.8 	250000 	250000 	0.4.5 	standard 	
+xe100_130927_0626 	Co60 	black 	S1 	4.400 	15.000 	closed 	7906.4 	7906.4 	250000 	250000 	0.4.5 	standard 	
+xe100_130927_0905 	Co60 	black 	S1 	4.400 	15.000 	closed 	7962.77 	7962.8 	250000 	250000 	0.4.5 	standard 	
+xe100_130927_1144 	Co60 	black 	S1 	4.400 	15.000 	closed 	7962.37 	7962.4 	250000 	250000 	0.4.5 	standard 	
+xe100_130927_1425 	Co60 	black 	S1 	4.400 	15.000 	closed 	7955.4 	7955.4 	250000 	250000 	0.4.5 	standard 	
+xe100_130927_2036 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	59298.4 	59298.4 	52742 	37239 	0.4.5 	standard 	
+xe100_130928_1339 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	83511.2 	83511.2 	75673 	51975 	0.4.5 	standard 	
+xe100_130929_1306 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	81824.4 	81824.4 	72296 	50214 	0.4.5 	standard 	
+xe100_130930_1212 	LED 	other 	EXT 	4.400 	15.000 	closed 	1013.54 		100000 				F1 4.65V, F2 4.80V, width 4us
+xe100_130930_1247 	Cs137 	black 	S1 	4.400 	15.000 	closed 	2346.64 	2346.6 	50000 	50000 	0.4.5 	standard 	
+xe100_130930_1343 	Th232 	around 	S1 	4.400 	15.000 	closed 	5430.19 	5430.2 	250000 	250000 	0.4.5 	standard 	
+xe100_130930_1554 	Th232 	around 	S1 	4.400 	15.000 	closed 	5451.95 	5451.9 	250000 	250000 	0.4.5 	standard 	
+xe100_130930_1802 	Th232 	around 	S1 	4.400 	15.000 	closed 	5446.44 	5446.4 	250000 	250000 	0.4.5 	standard 	
+xe100_130930_2010 	Th232 	around 	S1 	4.400 	15.000 	closed 	5472.16 	5472.2 	250000 	250000 	0.4.5 	standard 	
+xe100_130930_2221 	Th232 	around 	S1 	4.400 	15.000 	closed 	5475.34 	5475.3 	250000 	250000 	0.4.5 	standard 	
+xe100_131001_0035 	Th232 	around 	S1 	4.400 	15.000 	closed 	5465.13 	5465.1 	250000 	250000 	0.4.5 	standard 	
+xe100_131001_0244 	Th232 	around 	S1 	4.400 	15.000 	closed 	5488.54 	5488.5 	250000 	250000 	0.4.5 	standard 	
+xe100_131001_0455 	Th232 	around 	S1 	4.400 	15.000 	closed 	5479.4 	5479.4 	250000 	250000 	0.4.5 	standard 	
+xe100_131001_0708 	Th232 	around 	S1 	4.400 	15.000 	closed 	5481.53 	5481.5 	250000 	250000 	0.4.5 	standard 	
+xe100_131001_0917 	Th232 	around 	S1 	4.400 	15.000 	closed 	5475.68 	5475.7 	250000 	250000 	0.4.5 	standard 	
+xe100_131001_1123 	Th232 	around 	S1 	4.400 	15.000 	closed 	5482.63 	5482.6 	250000 	250000 	0.4.5 	standard 	
+xe100_131001_1722 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	87450.4 	87450.4 	76056 	52107 	0.4.5 	standard 	
+xe100_131002_1857 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	72828.3 	72828.3 	63672 	43665 	0.4.5 	standard 	
+xe100_131003_2355 	Co60 	white 	S1 	4.400 	15.000 	closed 	6574.03 	6574 	250000 	250000 	0.4.5 	standard 	
+xe100_131004_0211 	Co60 	white 	S1 	4.400 	15.000 	closed 	6578.59 	6578.6 	250000 	250000 	0.4.5 	standard 	
+xe100_131004_0431 	Co60 	white 	S1 	4.400 	15.000 	closed 	6617.39 	6617.4 	250000 	250000 	0.4.5 	standard 	
+xe100_131004_0651 	Co60 	white 	S1 	4.400 	15.000 	closed 	6659.87 	6659.9 	250000 	250000 	0.4.5 	standard 	
+xe100_131004_0910 	Co60 	white 	S1 	4.400 	15.000 	closed 	6656.01 	6656 	250000 	250000 	0.4.5 	standard 	
+xe100_131004_1136 	Co60 	white 	S1 	4.400 	15.000 	closed 	6658.11 	6658.1 	250000 	250000 	0.4.5 	standard 	
+xe100_131004_1419 	Co60 	white 	S1 	4.400 	15.000 	closed 	6595.23 	6595.2 	247673 	248000 	0.4.5 	standard 	
+xe100_131004_1716 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	91843.8 	91843.8 	79870 	56308 	0.4.5 	standard 	
+xe100_131005_1855 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	72295.5 	72295.5 	63421 	44144 	0.4.5 	standard 	
+xe100_131006_1521 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	75608.3 	75608.3 	65924 	45559 	0.4.5 	standard 	
+xe100_131007_1224 	LED 	other 	EXT 	4.400 	15.000 	closed 	1038.02 		100000 				F1 4.65V, F2 4.80V, width 4us
+xe100_131007_1249 	Cs137 	red 	S1 	4.400 	15.000 	closed 	1873.38 	1873.4 	50000 	50000 	0.4.5 	standard 	
+xe100_131007_1339 	Th232 	around 	S1 	4.400 	15.000 	closed 	5222.51 	5222.5 	250000 	250000 	0.4.5 	standard 	
+xe100_131007_1536 	Th232 	around 	S1 	4.400 	15.000 	closed 	5238.76 	5238.8 	250000 	250000 	0.4.5 	standard 	
+xe100_131007_1740 	Th232 	around 	S1 	4.400 	15.000 	closed 	5266.28 	5266.3 	250000 	250000 	0.4.5 	standard 	
+xe100_131007_1948 	Th232 	around 	S1 	4.400 	15.000 	closed 	5262.42 	5262.4 	250000 	250000 	0.4.5 	standard 	
+xe100_131007_2159 	Th232 	around 	S1 	4.400 	15.000 	closed 	5276.62 	5276.6 	250000 	250000 	0.4.5 	standard 	
+xe100_131008_0008 	Th232 	around 	S1 	4.400 	15.000 	closed 	5306.11 	5306.1 	250000 	250000 	0.4.5 	standard 	
+xe100_131008_0223 	Th232 	around 	S1 	4.400 	15.000 	closed 	5311.46 	5311.5 	250000 	250000 	0.4.5 	standard 	
+xe100_131008_0438 	Th232 	around 	S1 	4.400 	15.000 	closed 	5318.93 	5318.9 	250000 	250000 	0.4.5 	standard 	
+xe100_131008_0658 	Th232 	around 	S1 	4.400 	15.000 	closed 	5321.14 	5321.1 	250000 	250000 	0.4.5 	standard 	
+xe100_131008_0910 	Th232 	around 	S1 	4.400 	15.000 	closed 	5311.59 	5311.6 	250000 	250000 	0.4.5 	standard 	
+xe100_131008_1124 	Th232 	around 	S1 	4.400 	15.000 	closed 	5320.85 	5320.9 	250000 	250000 	0.4.5 	standard 	
+xe100_131008_1339 	Th232 	around 	S1 	4.400 	15.000 	closed 	5267.98 	5268 	250000 	250000 	0.4.5 	standard 	
+xe100_131008_1726 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	78748.2 	77832.2 	67091 	46586 	0.4.5 	standard 	
+xe100_131009_1517 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	72489.3 	72489.3 	63126 	43515 	0.4.5 	standard 	
+xe100_131010_1130 	Co60 	red 	S1 	4.400 	15.000 	closed 	6387.13 	6387.1 	250000 	250000 	0.4.5 	standard 	
+xe100_131010_1347 	Co60 	red 	S1 	4.400 	15.000 	closed 	6448.49 	6448.5 	250000 	250000 	0.4.5 	standard 	
+xe100_131010_1606 	Co60 	red 	S1 	4.400 	15.000 	closed 	6475.1 	6475.1 	250000 	250000 	0.4.5 	standard 	
+xe100_131010_1823 	Co60 	red 	S1 	4.400 	15.000 	closed 	6501.33 	6501.3 	250000 	250000 	0.4.5 	standard 	
+xe100_131010_2042 	Co60 	red 	S1 	4.400 	15.000 	closed 	6507.8 	6507.8 	250000 	250000 	0.4.5 	standard 	
+xe100_131010_2311 	Co60 	red 	S1 	4.400 	15.000 	closed 	6503.21 	6503.2 	250000 	250000 	0.4.5 	standard 	
+xe100_131011_0136 	Co60 	red 	S1 	4.400 	15.000 	closed 	6514.21 	6514.2 	250000 	250000 	0.4.5 	standard 	
+xe100_131011_0407 	Co60 	red 	S1 	4.400 	15.000 	closed 	6515.73 	6515.7 	250000 	250000 	0.4.5 	standard 	
+xe100_131011_0631 	Co60 	red 	S1 	4.400 	15.000 	closed 	6531.91 	6531.9 	250000 	250000 	0.4.5 	standard 	
+xe100_131011_0853 	Co60 	red 	S1 	4.400 	15.000 	closed 	2195.66 	2195.7 	84252 	84252 	0.4.5 	standard 	
+xe100_131011_0959 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	86868.5 	86868.5 	75642 	56215 	0.4.5 	standard 	
+xe100_131012_1005 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	86896.7 	86896.7 	76295 	57340 	0.4.5 	standard 	
+xe100_131013_1011 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	91018.1 	91018.1 	79468 	58280 	0.4.5 	standard 	
+xe100_131014_1127 	LED 	other 	EXT 	4.400 	15.000 	closed 	1071.03 		100000 				F1 4.65V, F2 4.80V, width 4us
+xe100_131014_1155 	Cs137 	red 	S1 	4.400 	15.000 	closed 	1927.56 	1927.6 	50000 	50000 	0.4.5 	standard 	
+xe100_131014_1237 	Th232 	around 	S1 	4.400 	15.000 	closed 	5160.48 	5160.5 	250000 	250000 	0.4.5 	standard 	
+xe100_131014_1442 	Th232 	around 	S1 	4.400 	15.000 	closed 	5192.1 	5192.1 	250000 	250000 	0.4.5 	standard 	
+xe100_131014_1652 	Th232 	around 	S1 	4.400 	15.000 	closed 	5202.37 	5202.4 	250000 	250000 	0.4.5 	standard 	
+xe100_131014_1852 	Th232 	around 	S1 	4.400 	15.000 	closed 	5194.96 	5195 	250000 	250000 	0.4.5 	standard 	
+xe100_131014_2108 	Th232 	around 	S1 	4.400 	15.000 	closed 	5196.12 	5196.1 	250000 	250000 	0.4.5 	standard 	
+xe100_131014_2320 	Th232 	around 	S1 	4.400 	15.000 	closed 	5205.76 	5205.8 	250000 	250000 	0.4.5 	standard 	
+xe100_131015_0139 	Th232 	around 	S1 	4.400 	15.000 	closed 	5217.5 	5217.5 	250000 	250000 	0.4.5 	standard 	
+xe100_131015_0354 	Th232 	around 	S1 	4.400 	15.000 	closed 	5239.32 	5239.3 	250000 	250000 	0.4.5 	standard 	
+xe100_131015_0559 	Th232 	around 	S1 	4.400 	15.000 	closed 	5212.07 	5212.1 	250000 	250000 	0.4.5 	standard 	
+xe100_131015_0804 	Th232 	around 	S1 	4.400 	15.000 	closed 	5215.39 	5215.4 	250000 	250000 	0.4.5 	standard 	
+xe100_131015_1018 	Th232 	around 	S1 	4.400 	15.000 	closed 	3001.36 	3001.4 	143210 	143210 	0.4.5 	standard 	
+xe100_131015_1141 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	79124.3 	79124.3 	69276 	51878 	0.4.5 	standard 	
+xe100_131016_0937 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	86756.7 	86756.7 	73829 	53660 	0.4.5 	standard 	
+xe100_131017_1015 	LED 	other 	EXT 	4.400 	15.000 	closed 	1005.72 		100000 				F1 4.65V, F2 4.80V, width 4us
+xe100_131017_1035 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	81951.7 	81951.7 	69277 	47330 	0.4.5 	standard 	
+xe100_131018_0918 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	90721.1 	90721.1 	80823 	54089 	0.4.5 	standard 	
+xe100_131019_1027 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	93598.6 	93598.6 	81628 	57730 	0.4.5 	standard 	
+xe100_131020_1224 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	97870.5 	97870.5 	83886 	58378 	0.4.5 	standard 	
+xe100_131021_1533 	LED 	other 	EXT 	4.400 	15.000 	closed 	1058.15 		100000 				F1 4.65V, F2 4.80V, width 4us
+xe100_131021_1554 	Cs137 	red 	S1 	4.400 	15.000 	closed 	1930.14 	1930.1 	50000 	50000 	0.4.5 	standard 	
+xe100_131021_1700 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	66060.5 	66060.5 	56901 	40324 	0.4.5 	standard 	
+xe100_131022_1118 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	93860.1 	93860.1 	80102 	57329 	0.4.5 	standard 	
+xe100_131023_1320 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	83261.2 	82600.9 	71220 	50768 	0.4.5 	standard 	
+xe100_131024_1231 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	79543.9 	79543.9 	69749 	49754 	0.4.5 	standard 	
+xe100_131025_1035 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	95603.3 	95603.3 	83783 	57719 	0.4.5 	standard 	
+xe100_131026_1304 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	104066 	103150 	94092 	62463 	0.4.5 	standard 	
+xe100_131027_1655 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	67315.7 	66638 	62013 	39385 	0.4.5 	standard 	
+xe100_131028_1136 	LED 	other 	EXT 	4.400 	15.000 	closed 	1034.6 		100000 				F1 4.65V, F2 4.80V, width 4us
+xe100_131028_1200 	Cs137 	red 	S1 	4.400 	15.000 	closed 	1955.7 	1955.7 	50000 	50000 	0.4.5 	standard 	
+xe100_131028_1238 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	77914.3 	77914.3 	71255 	46384 	0.4.5 	standard 	
+xe100_131029_1015 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	102609 	102609 	88416 	62815 	0.4.5 	standard 	
+xe100_131030_1443 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	91034.5 	91034.5 	77831 	55806 	0.4.5 	standard 	
+xe100_131031_1639 	LED 	other 	EXT 	4.400 	15.000 	closed 	1025.49 		100000 				F1 4.70V, F2 4.85V, width 4us
+xe100_131031_1829 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	69376.4 	69376.4 	59139 	40958 	0.4.5 	standard 	
+xe100_131101_1344 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	117013 	117013 	101642 	70869 	0.4.5 	standard 	
+xe100_131102_2209 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	78202.8 	78202.8 	67713 	47865 	0.4.5 	standard 	
+xe100_131103_1950 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	57217.3 	57217.3 	49742 	35870 	0.4.5 	standard 	
+xe100_131104_1143 	LED 	other 	EXT 	4.400 	15.000 	closed 	1061.29 		100000 				F1 4.65V, F2 4.80V, width 4us
+xe100_131104_1215 	Cs137 	red 	S1 	4.400 	15.000 	closed 	1954.27 	1954.3 	50000 	50000 	0.4.5 	standard 	
+xe100_131104_1301 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	93873.9 	93873.9 	79394 	56548 	0.4.5 	standard 	
+xe100_131105_1506 	LED 	other 	EXT 	4.400 	15.000 	closed 	1021.06 		100000 				F1 4.70V, F2 4.85V, width 4us
+xe100_131105_1525 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	88444.9 	88444.9 	75982 	54904 	0.4.5 	standard 	
+xe100_131106_1556 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	97342.4 	97342.4 	84116 	58957 	0.4.5 	standard 	
+xe100_131107_1855 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	71094.1 	71094.1 	62594 	42708 	0.4.5 	standard 	
+xe100_131108_1439 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	101664 	101664 	88565 	59439 	0.4.5 	standard 	
+xe100_131109_1849 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	90601.3 	90601.3 	80094 	52646 	0.4.5 	standard 	
+xe100_131110_2003 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	84702.5 	84702.5 	73552 	51566 	0.4.5 	standard 	
+xe100_131111_1937 	LED 	other 	EXT 	4.400 	15.000 	closed 	1065.45 		100000 				F1 4.70V, F2 4.85V, width 4us
+xe100_131111_2017 	Cs137 	red 	S1 	4.400 	15.000 	closed 	1916.37 	1916.4 	50000 	50000 	0.4.5 	standard 	
+xe100_131111_2129 	Th232 	around 	S1 	4.400 	15.000 	closed 	5064.02 	5064 	250000 	250000 	0.4.5 	standard 	
+xe100_131111_2324 	Th232 	around 	S1 	4.400 	15.000 	closed 	5106.42 	5106.4 	250000 	250000 	0.4.5 	standard 	
+xe100_131112_0124 	Th232 	around 	S1 	4.400 	15.000 	closed 	5115.16 	5115.2 	250000 	250000 	0.4.5 	standard 	
+xe100_131112_0327 	Th232 	around 	S1 	4.400 	15.000 	closed 	5115.13 	5115.1 	250000 	250000 	0.4.5 	standard 	
+xe100_131112_0528 	Th232 	around 	S1 	4.400 	15.000 	closed 	5138.02 	5138 	250000 	250000 	0.4.5 	standard 	
+xe100_131112_0735 	Th232 	around 	S1 	4.400 	15.000 	closed 	5154.01 	5154 	250000 	250000 	0.4.5 	standard 	
+xe100_131112_0940 	Th232 	around 	S1 	4.400 	15.000 	closed 	5172.55 	5172.6 	250000 	250000 	0.4.5 	standard 	
+xe100_131112_1143 	Th232 	around 	S1 	4.400 	15.000 	closed 	5177.6 	5177.6 	250000 	250000 	0.4.5 	standard 	
+xe100_131112_1351 	Th232 	around 	S1 	4.400 	15.000 	closed 	5174.53 	5174.5 	250000 	250000 	0.4.5 	standard 	
+xe100_131112_1558 	Th232 	around 	S1 	4.400 	15.000 	closed 	5184.43 	5184.4 	250000 	250000 	0.4.5 	standard 	
+xe100_131112_1803 	Th232 	around 	S1 	4.400 	15.000 	closed 	5174.64 	5174.6 	250000 	250000 	0.4.5 	standard 	
+xe100_131112_2154 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	65897.5 	63778.7 	58833 	39070 	0.4.5 	standard 	
+xe100_131113_1756 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	94742 	94742 	83531 	58327 	0.4.5 	standard 	After bagging the whole gas system
+xe100_131114_2043 	Co60 	black 	S1 	4.400 	15.000 	closed 	8046.87 	8046.9 	250000 	250000 	0.4.5 	standard 	
+xe100_131114_2316 	Co60 	black 	S1 	4.400 	15.000 	closed 	8055.86 	8055.9 	250000 	250000 	0.4.5 	standard 	
+xe100_131115_0154 	Co60 	black 	S1 	4.400 	15.000 	closed 	7992.82 	7992.8 	250000 	250000 	0.4.5 	standard 	
+xe100_131115_0429 	Co60 	black 	S1 	4.400 	15.000 	closed 	7951.05 	7951.1 	250000 	250000 	0.4.5 	standard 	
+xe100_131115_0706 	Co60 	black 	S1 	4.400 	15.000 	closed 	7911.28 	7911.3 	250000 	250000 	0.4.5 	standard 	
+xe100_131115_0941 	Co60 	black 	S1 	4.400 	15.000 	closed 	7871.64 	7871.6 	250000 	250000 	0.4.5 	standard 	
+xe100_131115_1218 	Co60 	black 	S1 	4.400 	15.000 	closed 	7888.64 	7888.6 	250000 	250000 	0.4.5 	standard 	
+xe100_131115_1458 	Co60 	black 	S1 	4.400 	15.000 	closed 	7863 	7863 	250000 	250000 	0.4.5 	standard 	
+xe100_131115_1739 	Co60 	black 	S1 	4.400 	15.000 	closed 	322.32 	322.3 	10349 	10000 	0.4.5 	standard 	
+xe100_131115_1951 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	90178.7 	90178.7 	78057 	54068 	0.4.5 	standard 	After bagging the whole gas system
+xe100_131116_2103 	Cs137 	red 	S1 	4.400 	15.000 	closed 	1967.93 	1967.9 	50000 	50000 	0.4.5 	standard 	
+xe100_131116_2143 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	74198.6 	74198.6 	64577 	44761 	0.4.5 	standard 	After bagging the whole gas system
+xe100_131117_1819 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	55127.8 	54466 	48001 	33330 	0.4.5 	standard 	After bagging the whole gas system
+xe100_131118_0939 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	39540.3 	39540.3 	34552 	23994 	0.4.5 	standard 	After bagging the whole gas system
+xe100_131118_2038 	LED 	other 	EXT 	4.400 	15.000 	closed 	1025.61 		100000 				F1 4.70V, F2 4.85V, width 4us
+xe100_131118_2124 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	61090.6 	61090.6 	52156 	36870 	0.4.5 	standard 	After bagging the whole gas system
+xe100_131119_1824 	Th232 	around 	S1 	4.400 	15.000 	closed 	5304 	5304 	250000 	250000 	0.4.5 	standard 	
+xe100_131119_2021 	Th232 	around 	S1 	4.400 	15.000 	closed 	5352.01 	5352 	250000 	250000 	0.4.5 	standard 	
+xe100_131119_2223 	Th232 	around 	S1 	4.400 	15.000 	closed 	5336.13 	5336.1 	250000 	250000 	0.4.5 	standard 	
+xe100_131120_0021 	Th232 	around 	S1 	4.400 	15.000 	closed 	5349.27 	5349.3 	250000 	250000 	0.4.5 	standard 	
+xe100_131120_0221 	Th232 	around 	S1 	4.400 	15.000 	closed 	5396.49 	5396.5 	250000 	250000 	0.4.5 	standard 	
+xe100_131120_0755 	Th232 	around 	S1 	4.400 	15.000 	closed 	5338.53 	5338.5 	250000 	250000 	0.4.5 	standard 	
+xe100_131120_0956 	Th232 	around 	S1 	4.400 	15.000 	closed 	4312.46 	4312.5 	201493 	201493 	0.4.5 	standard 	
+xe100_131120_1141 	Cs137 	black 	S1 	4.400 	15.000 	closed 	2384.94 	2384.9 	50000 	50000 	0.4.5 	standard 	
+xe100_131120_1241 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	74182.6 	74182.6 	63555 	45346 	0.4.5 	standard 	After further bagging of the tubes near PTR
+xe100_131121_0926 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	32390.5 	32390.5 	27575 	19394 	0.4.5 	standard 	After further bagging of the tubes near PTR
+xe100_131121_1833 	Co60 	white 	S1 	4.400 	15.000 	closed 	6875.48 	6875.5 	250000 	250000 	0.4.5 	standard 	
+xe100_131121_2048 	Co60 	white 	S1 	4.400 	15.000 	closed 	6932.74 	6932.7 	250000 	250000 	0.4.5 	standard 	
+xe100_131121_2309 	Co60 	white 	S1 	4.400 	15.000 	closed 	6958.8 	6958.8 	250000 	250000 	0.4.5 	standard 	
+xe100_131122_0130 	Co60 	white 	S1 	4.400 	15.000 	closed 	6955.58 	6955.6 	250000 	250000 	0.4.5 	standard 	
+xe100_131122_0349 	Co60 	white 	S1 	4.400 	15.000 	closed 	6949.28 	6949.3 	250000 	250000 	0.4.5 	standard 	
+xe100_131122_0613 	Co60 	white 	S1 	4.400 	15.000 	closed 	6976.38 	6976.4 	250000 	250000 	0.4.5 	standard 	
+xe100_131122_1006 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	110342 	110342 	96371 	66623 	0.4.5 	standard 	After further bagging of the tubes near PTR
+xe100_131123_1641 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	84296.7 	84296.7 	73414 	49030 	0.4.5 	standard 	After further bagging of the tubes near PTR
+xe100_131124_1603 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	65325.5 	65325.5 	56648 	38308 	0.4.5 	standard 	After further bagging of the tubes near PTR
+xe100_131125_1012 	LED 	other 	EXT 	4.400 	15.000 	closed 	1020.59 		100000 				F1 4.70V, F2 4.85V, width 4us
+xe100_131125_1046 	Cs137 	white 	S1 	4.400 	15.000 	closed 	2182.95 	2182.9 	50000 	50000 	0.4.5 	standard 	
+xe100_131125_1209 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	80864.1 	80864.1 	69674 	48487 	0.4.5 	standard 	With bagging that excludes getter
+xe100_131126_1033 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	104490 	104490 	89926 	62951 	0.4.5 	standard 	With bagging that excludes getter
+xe100_131127_1552 	Th232 	around 	S1 	4.400 	15.000 	closed 	5255.57 	5255.6 	250000 	250000 	0.4.5 	standard 	
+xe100_131127_1801 	Th232 	around 	S1 	4.400 	15.000 	closed 	5270.77 	5270.8 	250000 	250000 	0.4.5 	standard 	
+xe100_131127_2017 	Th232 	around 	S1 	4.400 	15.000 	closed 	5267.19 	5267.2 	250000 	250000 	0.4.5 	standard 	
+xe100_131127_2234 	Th232 	around 	S1 	4.400 	15.000 	closed 	5301.87 	5301.9 	250000 	250000 	0.4.5 	standard 	
+xe100_131128_0049 	Th232 	around 	S1 	4.400 	15.000 	closed 	5300.39 	5300.4 	250000 	250000 	0.4.5 	standard 	
+xe100_131128_0307 	Th232 	around 	S1 	4.400 	15.000 	closed 	5295.04 	5295 	250000 	250000 	0.4.5 	standard 	
+xe100_131128_0521 	Th232 	around 	S1 	4.400 	15.000 	closed 	5284.1 	5284.1 	250000 	250000 	0.4.5 	standard 	
+xe100_131128_0737 	Th232 	around 	S1 	4.400 	15.000 	closed 	5292.74 	5292.7 	250000 	250000 	0.4.5 	standard 	
+xe100_131128_0951 	Th232 	around 	S1 	4.400 	15.000 	closed 	5311.16 	5311.2 	250000 	250000 	0.4.5 	standard 	
+xe100_131128_1209 	Th232 	around 	S1 	4.400 	15.000 	closed 	5294.16 	5294.2 	250000 	250000 	0.4.5 	standard 	
+xe100_131128_1404 	Th232 	around 	S1 	4.400 	15.000 	closed 	2120.09 	2120.1 	99356 	99356 	0.4.5 	standard 	
+xe100_131128_1504 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	72731.7 	72731.7 	62681 	43551 	0.4.5 	standard 	
+xe100_131129_1123 	Co60 	black 	S1 	4.400 	15.000 	closed 	5886.86 	5886.9 	192131 	192000 	0.4.5 	standard 	
+xe100_131129_1326 	Co60 	black 	S1 	4.400 	15.000 	closed 	7660.49 	7660.5 	250000 	250000 	0.4.5 	standard 	
+xe100_131129_1554 	Co60 	black 	S1 	4.400 	15.000 	closed 	7660.11 	7660.1 	250000 	250000 	0.4.5 	standard 	
+xe100_131129_1831 	Co60 	black 	S1 	4.400 	15.000 	closed 	7704.19 	7704.2 	250000 	250000 	0.4.5 	standard 	
+xe100_131129_2114 	Co60 	black 	S1 	4.400 	15.000 	closed 	7710.16 	7710.2 	250000 	250000 	0.4.5 	standard 	
+xe100_131130_0001 	Co60 	black 	S1 	4.400 	15.000 	closed 	7700.35 	7700.4 	250000 	250000 	0.4.5 	standard 	
+xe100_131130_0251 	Co60 	black 	S1 	4.400 	15.000 	closed 	7723.1 	7723.1 	250000 	250000 	0.4.5 	standard 	
+xe100_131130_0538 	Co60 	black 	S1 	4.400 	15.000 	closed 	7739.53 	7739.5 	250000 	250000 	0.4.5 	standard 	
+xe100_131130_0826 	Co60 	black 	S1 	4.400 	15.000 	closed 	7787.42 	7787.4 	250000 	250000 	0.4.5 	standard 	
+xe100_131130_1108 	Co60 	black 	S1 	4.400 	15.000 	closed 	7828.07 	7828.1 	250000 	250000 	0.4.5 	standard 	
+xe100_131130_1351 	Co60 	black 	S1 	4.400 	15.000 	closed 	1055.13 	1055.1 	33522 	33522 	0.4.5 	standard 	
+xe100_131130_1415 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	99281.5 	99281.5 	85251 	57989 	0.4.5 	standard 	
+xe100_131201_1903 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	58748.2 	58748.2 	49756 	34899 	0.4.5 	standard 	
+xe100_131202_1122 	LED 	other 	EXT 	4.400 	15.000 	closed 	1017.39 		100000 				F1 4.70V, F2 4.85V, width 4us
+xe100_131202_1148 	Cs137 	red 	S1 	4.400 	15.000 	closed 	1921.07 	1921.1 	50000 	50000 	0.4.5 	standard 	
+xe100_131202_1225 	Th232 	around 	S1 	4.400 	15.000 	closed 	5119.52 	5119.5 	250000 	250000 	0.4.5 	standard 	
+xe100_131202_1425 	Th232 	around 	S1 	4.400 	15.000 	closed 	5153.04 	5153 	250000 	250000 	0.4.5 	standard 	
+xe100_131202_1630 	Th232 	around 	S1 	4.400 	15.000 	closed 	5164.31 	5164.3 	250000 	250000 	0.4.5 	standard 	
+xe100_131202_1836 	Th232 	around 	S1 	4.400 	15.000 	closed 	5119.34 	5119.3 	250000 	250000 	0.4.5 	standard 	
+xe100_131202_2042 	Th232 	around 	S1 	4.400 	15.000 	closed 	5145.13 	5145.1 	250000 	250000 	0.4.5 	standard 	
+xe100_131202_2250 	Th232 	around 	S1 	4.400 	15.000 	closed 	5138.38 	5138.4 	250000 	250000 	0.4.5 	standard 	
+xe100_131203_0103 	Th232 	around 	S1 	4.400 	15.000 	closed 	5136.1 	5136.1 	250000 	250000 	0.4.5 	standard 	
+xe100_131203_0309 	Th232 	around 	S1 	4.400 	15.000 	closed 	5161.93 	5161.9 	250000 	250000 	0.4.5 	standard 	
+xe100_131203_0515 	Th232 	around 	S1 	4.400 	15.000 	closed 	5127.94 	5127.9 	250000 	250000 	0.4.5 	standard 	
+xe100_131203_0725 	Th232 	around 	S1 	4.400 	15.000 	closed 	5163.09 	5163.1 	250000 	250000 	0.4.5 	standard 	
+xe100_131203_0938 	Th232 	around 	S1 	4.400 	15.000 	closed 	4990.83 	4990.8 	240155 	240155 	0.4.5 	standard 	
+xe100_131203_1148 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	84981.4 	84981.4 	70728 	50582 	0.4.5 	standard 	
+xe100_131204_1255 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	79954.9 	79954.9 	66393 	47134 	0.4.5 	standard 	
+xe100_131205_1227 	Co60 	red 	S1 	4.400 	15.000 	closed 	6442.01 	6442 	250000 	250000 	0.4.5 	standard 	
+xe100_131205_1446 	Co60 	red 	S1 	4.400 	15.000 	closed 	6486.55 	6486.6 	250000 	250000 	0.4.5 	standard 	
+xe100_131205_1711 	Co60 	red 	S1 	4.400 	15.000 	closed 	6511.76 	6511.8 	250000 	250000 	0.4.5 	standard 	
+xe100_131205_1938 	Co60 	red 	S1 	4.400 	15.000 	closed 	6534.82 	6534.8 	250000 	250000 	0.4.5 	standard 	
+xe100_131205_2209 	Co60 	red 	S1 	4.400 	15.000 	closed 	6538.76 	6538.8 	250000 	250000 	0.4.5 	standard 	
+xe100_131206_0041 	Co60 	red 	S1 	4.400 	15.000 	closed 	6570.44 	6570.4 	250000 	250000 	0.4.5 	standard 	
+xe100_131206_0309 	Co60 	red 	S1 	4.400 	15.000 	closed 	6818.58 	6818.6 	250000 	250000 	0.4.5 	standard 	
+xe100_131206_0533 	Co60 	red 	S1 	4.400 	15.000 	closed 	6757.8 	6757.8 	250000 	250000 	0.4.5 	standard 	
+xe100_131206_0757 	Co60 	red 	S1 	4.400 	15.000 	closed 	6796.43 	6796.4 	250000 	250000 	0.4.5 	standard 	
+xe100_131206_1019 	Co60 	red 	S1 	4.400 	15.000 	closed 	6829.71 	6829.7 	250000 	250000 	0.4.5 	standard 	
+xe100_131206_1337 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	79569.3 	79569.3 	66700 	48760 	0.4.5 	standard 	
+xe100_131207_1303 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	79835.6 	79835.6 	65915 	46638 	0.4.5 	standard 	
+xe100_131208_1210 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	81206.6 	81206.6 	68393 	51149 	0.4.5 	standard 	
+xe100_131209_1425 	LED 	other 	EXT 	4.400 	15.000 	closed 	1032.14 		100000 				F1 4.70V, F2 4.85V, width 4us
+xe100_131209_1453 	Cs137 	red 	S1 	4.400 	15.000 	closed 	1955.63 	1955.6 	50000 	50000 	0.4.5 	standard 	
+xe100_131209_1541 	Th232 	around 	S1 	4.400 	15.000 	closed 	5203.03 	5203 	250000 	250000 	0.4.5 	standard 	
+xe100_131209_1745 	Th232 	around 	S1 	4.400 	15.000 	closed 	5242.92 	5242.9 	250000 	250000 	0.4.5 	standard 	
+xe100_131209_1954 	Th232 	around 	S1 	4.400 	15.000 	closed 	5265.01 	5265 	250000 	250000 	0.4.5 	standard 	
+xe100_131209_2207 	Th232 	around 	S1 	4.400 	15.000 	closed 	5259.95 	5259.9 	250000 	250000 	0.4.5 	standard 	
+xe100_131210_0014 	Th232 	around 	S1 	4.400 	15.000 	closed 	5242.61 	5242.6 	250000 	250000 	0.4.5 	standard 	
+xe100_131210_0228 	Th232 	around 	S1 	4.400 	15.000 	closed 	5232.93 	5232.9 	250000 	250000 	0.4.5 	standard 	
+xe100_131210_0436 	Th232 	around 	S1 	4.400 	15.000 	closed 	5233.63 	5233.6 	250000 	250000 	0.4.5 	standard 	
+xe100_131210_0649 	Th232 	around 	S1 	4.400 	15.000 	closed 	5223.82 	5223.8 	250000 	250000 	0.4.5 	standard 	
+xe100_131210_0855 	Th232 	around 	S1 	4.400 	15.000 	closed 	5236.78 	5236.8 	250000 	250000 	0.4.5 	standard 	
+xe100_131210_1102 	Th232 	around 	S1 	4.400 	15.000 	closed 	5260.53 	5260.5 	250000 	250000 	0.4.5 	standard 	
+xe100_131210_1308 	Th232 	around 	S1 	4.400 	15.000 	closed 	5239.81 	5239.8 	250000 	250000 	0.4.5 	standard 	
+xe100_131210_1653 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	66632.2 	66632.2 	55263 	39113 	0.4.5 	standard 	
+xe100_131211_1728 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	83918.6 	77739.7 	69823 	45267 	0.4.5 	standard 	
+xe100_131212_1714 	Co60 	white 	S1 	4.400 	15.000 	closed 	6957.34 	6957.3 	250000 	250000 	0.4.5 	standard 	
+xe100_131212_1938 	Co60 	white 	S1 	4.400 	15.000 	closed 	6992.43 	6992.4 	250000 	250000 	0.4.5 	standard 	
+xe100_131212_2204 	Co60 	white 	S1 	4.400 	15.000 	closed 	7005.86 	7005.9 	250000 	250000 	0.4.5 	standard 	
+xe100_131213_0029 	Co60 	white 	S1 	4.400 	15.000 	closed 	7042.96 	7043 	250000 	250000 	0.4.5 	standard 	
+xe100_131213_0258 	Co60 	white 	S1 	4.400 	15.000 	closed 	7016.38 	7016.4 	250000 	250000 	0.4.5 	standard 	
+xe100_131213_0523 	Co60 	white 	S1 	4.400 	15.000 	closed 	7036.77 	7036.8 	250000 	250000 	0.4.5 	standard 	
+xe100_131213_0749 	Co60 	white 	S1 	4.400 	15.000 	closed 	7069 	7069 	250000 	250000 	0.4.5 	standard 	
+xe100_131213_1018 	Co60 	white 	S1 	4.400 	15.000 	closed 	7051.56 	7051.6 	250000 	250000 	0.4.5 	standard 	
+xe100_131213_1244 	Co60 	white 	S1 	4.400 	15.000 	closed 	7081.27 	7081.3 	250000 	250000 	0.4.5 	standard 	
+xe100_131213_1512 	Co60 	white 	S1 	4.400 	15.000 	closed 	2781.69 	2781.7 	98266 	98266 	0.4.5 	standard 	
+xe100_131213_1727 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	83147.3 	83147.3 	70230 	49440 	0.4.5 	standard 	
+xe100_131214_1705 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	85442.3 	85442.3 	71942 	48872 	0.4.5 	standard 	
+xe100_131215_1703 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	54078.4 	54078.4 	45424 	30332 	0.4.5 	standard 	
+xe100_131216_1103 	LED 	other 	EXT 	4.400 	15.000 	closed 	1031.82 		100000 				F1 4.70V, F2 4.85V, width 4us
+xe100_131216_1128 	Cs137 	red 	S1 	4.400 	15.000 	closed 	1959.32 	1959.3 	50000 	50000 	0.4.5 	standard 	
+xe100_131216_1214 	Th232 	around 	S1 	4.400 	15.000 	closed 	5412.81 	5412.8 	250000 	250000 	0.4.5 	standard 	
+xe100_131216_1409 	Th232 	around 	S1 	4.400 	15.000 	closed 	5549.22 	5549.2 	250000 	250000 	0.4.5 	standard 	
+xe100_131216_1610 	Th232 	around 	S1 	4.400 	15.000 	closed 	5480.6 	5480.6 	250000 	250000 	0.4.5 	standard 	
+xe100_131216_1819 	Th232 	around 	S1 	4.400 	15.000 	closed 	5460.22 	5460.2 	250000 	250000 	0.4.5 	standard 	
+xe100_131216_2026 	Th232 	around 	S1 	4.400 	15.000 	closed 	5405.32 	5405.3 	250000 	250000 	0.4.5 	standard 	
+xe100_131216_2233 	Th232 	around 	S1 	4.400 	15.000 	closed 	5426.89 	5426.9 	250000 	250000 	0.4.5 	standard 	
+xe100_131217_0043 	Th232 	around 	S1 	4.400 	15.000 	closed 	5420.91 	5420.9 	250000 	250000 	0.4.5 	standard 	
+xe100_131217_0252 	Th232 	around 	S1 	4.400 	15.000 	closed 	5444.41 	5444.4 	250000 	250000 	0.4.5 	standard 	
+xe100_131217_0502 	Th232 	around 	S1 	4.400 	15.000 	closed 	5425.12 	5425.1 	250000 	250000 	0.4.5 	standard 	
+xe100_131217_0711 	Th232 	around 	S1 	4.400 	15.000 	closed 	5406.54 	5406.5 	250000 	250000 	0.4.5 	standard 	
+xe100_131217_0924 	Th232 	around 	S1 	4.400 	15.000 	closed 	5425.5 	5425.5 	250000 	250000 	0.4.5 	standard 	
+xe100_131217_1131 	Th232 	around 	S1 	4.400 	15.000 	closed 	5457.62 	5457.6 	250000 	250000 	0.4.5 	standard 	
+xe100_131217_1435 	Cs137 	red 	S1 	4.400 	15.000 	closed 	1989.76 	1989.8 	50000 	50000 	0.4.5 	standard 	
+xe100_131217_1607 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	82965.2 	82965.2 	69025 	47294 	0.4.5 	standard 	
+xe100_131218_1616 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	67796.1 	67796.1 	56674 	39252 	0.4.5 	standard 	
+xe100_131219_1252 	Co60 	black 	S1 	4.400 	15.000 	closed 	7749.89 	7749.9 	250000 	250000 	0.4.5 	standard 	
+xe100_131219_1524 	Co60 	black 	S1 	4.400 	15.000 	closed 	7794.44 	7794.4 	250000 	250000 	0.4.5 	standard 	
+xe100_131219_1756 	Co60 	black 	S1 	4.400 	15.000 	closed 	7721.67 	7721.7 	250000 	250000 	0.4.5 	standard 	
+xe100_131219_2027 	Co60 	black 	S1 	4.400 	15.000 	closed 	7713.6 	7713.6 	250000 	250000 	0.4.5 	standard 	
+xe100_131219_2300 	Co60 	black 	S1 	4.400 	15.000 	closed 	7646.28 	7646.3 	250000 	250000 	0.4.5 	standard 	
+xe100_131220_0134 	Co60 	black 	S1 	4.400 	15.000 	closed 	7667.64 	7667.6 	250000 	250000 	0.4.5 	standard 	
+xe100_131220_0407 	Co60 	black 	S1 	4.400 	15.000 	closed 	7620.93 	7620.9 	250000 	250000 	0.4.5 	standard 	
+xe100_131220_0640 	Co60 	black 	S1 	4.400 	15.000 	closed 	7628.74 	7628.7 	250000 	250000 	0.4.5 	standard 	
+xe100_131220_0911 	Co60 	black 	S1 	4.400 	15.000 	closed 	7665.23 	7665.2 	250000 	250000 	0.4.5 	standard 	
+xe100_131220_1146 	Co60 	black 	S1 	4.400 	15.000 	closed 	7735.84 	7735.8 	250000 	250000 	0.4.5 	standard 	
+xe100_131220_1421 	Co60 	black 	S1 	4.400 	15.000 	closed 	985.97 	986 	32219 	32219 	0.4.5 	standard 	
+xe100_131220_1448 	Cs137 	red 	S1 	4.400 	15.000 	closed 	1969.65 	1969.7 	50000 	50000 	0.4.5 	standard 	
+xe100_131220_1626 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	58959 	58959 	52926 	33129 	0.4.5 	standard 	
+xe100_131221_0937 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	106288 	105640 	97134 	61059 	0.4.5 	standard 	
+xe100_131222_1503 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	65861.8 	65861.8 	56069 	39563 	0.4.5 	standard 	
+xe100_131223_1448 	LED 	other 	EXT 	4.400 	15.000 	closed 	997.936 		100000 				F1 4.70V, F2 4.85V, width 4us
+xe100_131223_1523 	Cs137 	red 	S1 	4.400 	15.000 	closed 	1973.58 	1973.6 	50000 	50000 	0.4.5 	standard 	
+xe100_131223_1612 	Th232 	around 	S1 	4.400 	15.000 	closed 	5204.51 	5204.5 	250000 	250000 	0.4.5 	standard 	
+xe100_131223_1810 	Th232 	around 	S1 	4.400 	15.000 	closed 	5227.5 	5227.5 	250000 	250000 	0.4.5 	standard 	
+xe100_131223_2013 	Th232 	around 	S1 	4.400 	15.000 	closed 	5275.68 	5275.7 	250000 	250000 	0.4.5 	standard 	
+xe100_131223_2217 	Th232 	around 	S1 	4.400 	15.000 	closed 	5287.7 	5287.7 	250000 	250000 	0.4.5 	standard 	
+xe100_131224_0022 	Th232 	around 	S1 	4.400 	15.000 	closed 	5301.09 	5301.1 	250000 	250000 	0.4.5 	standard 	
+xe100_131224_0231 	Th232 	around 	S1 	4.400 	15.000 	closed 	5343.4 	5343.4 	250000 	250000 	0.4.5 	standard 	
+xe100_131224_0447 	Th232 	around 	S1 	4.400 	15.000 	closed 	5322.79 	5322.8 	250000 	250000 	0.4.5 	standard 	
+xe100_131224_0701 	Th232 	around 	S1 	4.400 	15.000 	closed 	5351.47 	5351.5 	250000 	250000 	0.4.5 	standard 	
+xe100_131224_0908 	Th232 	around 	S1 	4.400 	15.000 	closed 	5321.01 	5321 	250000 	250000 	0.4.5 	standard 	
+xe100_131224_1114 	Th232 	around 	S1 	4.400 	15.000 	closed 	5376.66 	5376.7 	250000 	250000 	0.4.5 	standard 	
+xe100_131224_1324 	Th232 	around 	S1 	4.400 	15.000 	closed 	1099.94 	1099.9 	51111 	52000 	0.4.5 	standard 	
+xe100_131224_1535 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	87822.1 	87822.1 	72367 	52570 	0.4.5 	standard 	
+xe100_131225_1557 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	84443.3 	84443.3 	69916 	51120 	0.4.5 	standard 	
+xe100_131226_1536 	Co60 	red 	S1 	4.400 	15.000 	closed 	6643.91 	6643.9 	250000 	250000 	0.4.5 	standard 	
+xe100_131227_1607 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	90463.6 	90463.6 	74323 	51599 	0.4.5 	standard 	
+xe100_131228_1712 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	88698.9 	88698.9 	73853 	51560 	0.4.5 	standard 	
+xe100_131229_1745 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	76895.8 	76895.8 	63237 	43674 	0.4.5 	standard 	
+xe100_131230_1506 	LED 	other 	EXT 	4.400 	15.000 	closed 	415.876 		42343 				F1 4.70V, F2 4.85V, width 4us
+xe100_131230_1516 	LED 	other 	EXT 	4.400 	15.000 	closed 	1020.87 		100000 				F1 4.70V, F2 4.85V, width 4us
+xe100_131230_1543 	Cs137 	red 	S1 	4.400 	15.000 	closed 	1974.82 	1167.1 	50000 	29810 	0.4.5 	standard 	
+xe100_131230_1623 	Th232 	around 	S1 	4.400 	15.000 	closed 	5278.04 	5278 	250000 	250000 	0.4.5 	standard 	
+xe100_131230_1820 	Th232 	around 	S1 	4.400 	15.000 	closed 	5279.68 	5279.7 	250000 	250000 	0.4.5 	standard 	
+xe100_131230_2023 	Th232 	around 	S1 	4.400 	15.000 	closed 	5307.07 	5307.1 	250000 	250000 	0.4.5 	standard 	
+xe100_131230_2225 	Th232 	around 	S1 	4.400 	15.000 	closed 	5312.4 	5312.4 	250000 	250000 	0.4.5 	standard 	
+xe100_131231_0031 	Th232 	around 	S1 	4.400 	15.000 	closed 	5308.82 	5308.8 	250000 	250000 	0.4.5 	standard 	
+xe100_131231_0234 	Th232 	around 	S1 	4.400 	15.000 	closed 	5325.44 	5325.4 	250000 	250000 	0.4.5 	standard 	
+xe100_131231_0441 	Th232 	around 	S1 	4.400 	15.000 	closed 	5317.7 	5317.7 	250000 	250000 	0.4.5 	standard 	
+xe100_131231_0648 	Th232 	around 	S1 	4.400 	15.000 	closed 	5341.51 	5341.5 	250000 	250000 	0.4.5 	standard 	
+xe100_131231_0851 	Th232 	around 	S1 	4.400 	15.000 	closed 	5354.35 	5354.4 	250000 	250000 	0.4.5 	standard 	
+xe100_131231_1058 	Th232 	around 	S1 	4.400 	15.000 	closed 	5385.98 	5386 	250000 	250000 	0.4.5 	standard 	
+xe100_131231_1303 	Th232 	around 	S1 	4.400 	15.000 	closed 	3186.37 	3186.4 	148394 	148000 	0.4.5 	standard 	
+xe100_131231_1548 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	85682.9 	85682.9 	70276 	49744 	0.4.5 	standard 	
+xe100_140101_1531 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	95597 	95597 	77646 	56800 	0.4.5 	standard 	
+xe100_140102_1818 	Co60 	white 	S1 	4.400 	15.000 	closed 	6812.73 	6812.7 	250000 	250000 	0.4.5 	standard 	
+xe100_140102_2035 	Co60 	white 	S1 	4.400 	15.000 	closed 	6850.11 	6850.1 	250000 	250000 	0.4.5 	standard 	
+xe100_140102_2259 	Co60 	white 	S1 	4.400 	15.000 	closed 	6869.26 	6869.3 	250000 	250000 	0.4.5 	standard 	
+xe100_140103_0124 	Co60 	white 	S1 	4.400 	15.000 	closed 	6866.1 	6866.1 	250000 	250000 	0.4.5 	standard 	
+xe100_140103_0347 	Co60 	white 	S1 	4.400 	15.000 	closed 	6913.65 	6913.6 	250000 	250000 	0.4.5 	standard 	
+xe100_140103_0611 	Co60 	white 	S1 	4.400 	15.000 	closed 	6913.56 	6913.6 	250000 	250000 	0.4.5 	standard 	
+xe100_140103_0837 	Co60 	white 	S1 	4.400 	15.000 	closed 	6954.54 	6954.5 	250000 	250000 	0.4.5 	standard 	
+xe100_140103_1101 	Co60 	white 	S1 	4.400 	15.000 	closed 	6930.5 	6930.5 	250000 	250000 	0.4.5 	standard 	
+xe100_140103_1331 	Co60 	white 	S1 	4.400 	15.000 	closed 	6986.58 	6986.6 	250000 	250000 	0.4.5 	standard 	
+xe100_140103_1559 	Co60 	white 	S1 	4.400 	15.000 	closed 	1447.23 	1447.2 	51844 	51844 	0.4.5 	standard 	
+xe100_140103_1701 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	88583.8 	88583.8 	71990 	50389 	0.4.5 	standard 	
+xe100_140104_1734 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	86824.5 	86824.5 	71607 	51107 	0.4.5 	standard 	
+xe100_140105_1736 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	75478.7 	75478.7 	61316 	44400 	0.4.5 	standard 	
+xe100_140106_1430 	LED 	other 	EXT 	4.400 	15.000 	closed 	1023.73 		100000 				F1 4.70V, F2 4.85V, width 4us
+xe100_140106_1451 	Cs137 	red 	S1 	4.400 	15.000 	closed 	1958.65 	1958.7 	50000 	50000 	0.4.5 	standard 	
+xe100_140106_1532 	Th232 	around 	S1 	4.400 	15.000 	closed 	5259.13 	5259.1 	250000 	250000 	0.4.5 	standard 	
+xe100_140106_1729 	Th232 	around 	S1 	4.400 	15.000 	closed 	5309.4 	5309.4 	250000 	250000 	0.4.5 	standard 	
+xe100_140106_1930 	Th232 	around 	S1 	4.400 	15.000 	closed 	5311.31 	5311.3 	250000 	250000 	0.4.5 	standard 	
+xe100_140106_2136 	Th232 	around 	S1 	4.400 	15.000 	closed 	5335.26 	5335.3 	250000 	250000 	0.4.5 	standard 	
+xe100_140106_2344 	Th232 	around 	S1 	4.400 	15.000 	closed 	5368.54 	5368.5 	250000 	250000 	0.4.5 	standard 	
+xe100_140107_0148 	Th232 	around 	S1 	4.400 	15.000 	closed 	5325.16 	5325.2 	250000 	250000 	0.4.5 	standard 	
+xe100_140107_0357 	Th232 	around 	S1 	4.400 	15.000 	closed 	5367.24 	5367.2 	250000 	250000 	0.4.5 	standard 	
+xe100_140107_0604 	Th232 	around 	S1 	4.400 	15.000 	closed 	5351.81 	5351.8 	250000 	250000 	0.4.5 	standard 	
+xe100_140107_0808 	Th232 	around 	S1 	4.400 	15.000 	closed 	5348.62 	5348.6 	250000 	250000 	0.4.5 	standard 	
+xe100_140107_1020 	Th232 	around 	S1 	4.400 	15.000 	closed 	3279.36 	3279.4 	153424 	153424 	0.4.5 	standard 	
+xe100_140107_1251 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	92533 	91784.6 	74835 	52362 	0.4.5 	standard 	
+xe100_140108_1432 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	12931.9 	12931.9 	10517 	7196 	0.4.5 	standard 	
+xe100_140108_2134 	Dark Matter 	other 	S1 	4.400 	15.000 	closed 	61204.3 	61204.3 	74091 	55493 	0.4.5 		
+xe100_140109_1521 	Co60 	black 	S1 	4.400 	15.000 	closed 	8365.92 	8365.9 	250000 	250000 			P1,level,etc change in data.
+xe100_140109_1756 	Co60 	black 	S1 	4.400 	15.000 	closed 	8269.43 	7468.8 	250000 	224071 			P1,level,etc change in data.
+xe100_140109_2034 	Co60 	black 	S1 	4.400 	15.000 	closed 	8219.53 	8219.5 	250000 	250000 			P1,level,etc change in data.
+xe100_140109_2312 	Co60 	black 	S1 	4.400 	15.000 	closed 	8120.96 	8121 	250000 	250000 			P1,level,etc change in data.
+xe100_140110_0151 	Co60 	black 	S1 	4.400 	15.000 	closed 	6068.69 	6068.7 	187011 	187011 			P1,level,etc change in data.

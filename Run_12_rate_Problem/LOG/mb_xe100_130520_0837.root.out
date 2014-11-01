@@ -1,0 +1,12 @@
+Running on file: /archive/root/minimum_bias/xenon100/run_12/mb_xe100_130520_0837.root
+Dataset Name :  xe100_130520_0837
+Type  :       AmBe
+Corrected Live Time 0.074463 days  =  6433.6 sec
+First Time Stamp :  1369031845
+Last Time Stamp :   1369038326
+Tot   51809  --> Rate = 695768
+bruno_basic   5647  --> Rate = 75836.3
+X48kg0   4104  --> Rate = 55114.6
+S1Tot_3_20   2015  --> Rate = 27060.4
+Xs2peakpos0   2015  --> Rate = 27060.4
+X34kg2   1287  --> Rate = 17283.8

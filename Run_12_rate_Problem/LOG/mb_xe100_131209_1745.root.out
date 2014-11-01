@@ -1,0 +1,12 @@
+Running on file: /archive/root/minimum_bias/xenon100/run_12/mb_xe100_131209_1745.root
+Dataset Name :  xe100_131209_1745
+Type  :       Th232
+Corrected Live Time 0.0606817 days  =  5242.9 sec
+First Time Stamp :  1386607511
+Last Time Stamp :   1386615302
+Tot   32767  --> Rate = 539982
+bruno_basic   523  --> Rate = 8618.74
+X48kg0   218  --> Rate = 3592.52
+S1Tot_3_20   16  --> Rate = 263.671
+Xs2peakpos0   16  --> Rate = 263.671
+X34kg2   8  --> Rate = 131.835
