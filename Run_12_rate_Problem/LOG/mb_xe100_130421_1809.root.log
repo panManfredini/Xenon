@@ -1,0 +1,105 @@
+Running on Sample ---> /archive/root/minimum_bias/xenon100/run_12-reprocessing/mb_xe100_130421_1809.root
+Warning in <TFile::ReadStreamerInfo>: /archive/root/minimum_bias/xenon100/run_12-reprocessing/mb_xe100_130421_1809.root: not a TStreamerInfo object
+Tot   301
+minimumbias   301
+Xsignalnoise5   103
+Xs1width0   103
+Xentropy1   102
+Xs2peaks2   65
+Xs1coin2   65
+Xhighlog1   61
+Xs2single3   59
+Xs1single5   56
+Xveto2   16
+Xs2width11   10
+XPL013_97   8
+Xposrec1   7
+Xs2chisquare1   5
+Xlownoise0_m   5
+Xs2peakpos0   5
+X34kg2   1
+ncoin_e_s1_1   0
+ncoin_e_s1_2   0
+ncoin_e_s1_3   0
+ncoin_e_s1_4   0
+   0
+   0
+   0
+   0
+   0
+   0
+   0
+   0
+   0
+   0
+   0
+   0
+   0
+   0
+   0
+   0
+   0
+   0
+   0
+   0
+   0
+   0
+   0
+   0
+   0
+   0
+   0
+TH1.Print Name  = cut_flow, Entries= 1273, Total sum= 1273
+ fSumw[0]=0, x=-1
+ fSumw[1]=301, x=0
+ fSumw[2]=301, x=1
+ fSumw[3]=103, x=2
+ fSumw[4]=103, x=3
+ fSumw[5]=102, x=4
+ fSumw[6]=65, x=5
+ fSumw[7]=65, x=6
+ fSumw[8]=61, x=7
+ fSumw[9]=59, x=8
+ fSumw[10]=56, x=9
+ fSumw[11]=16, x=10
+ fSumw[12]=10, x=11
+ fSumw[13]=8, x=12
+ fSumw[14]=7, x=13
+ fSumw[15]=5, x=14
+ fSumw[16]=5, x=15
+ fSumw[17]=5, x=16
+ fSumw[18]=1, x=17
+ fSumw[19]=0, x=18
+ fSumw[20]=0, x=19
+ fSumw[21]=0, x=20
+ fSumw[22]=0, x=21
+ fSumw[23]=0, x=22
+ fSumw[24]=0, x=23
+ fSumw[25]=0, x=24
+ fSumw[26]=0, x=25
+ fSumw[27]=0, x=26
+ fSumw[28]=0, x=27
+ fSumw[29]=0, x=28
+ fSumw[30]=0, x=29
+ fSumw[31]=0, x=30
+ fSumw[32]=0, x=31
+ fSumw[33]=0, x=32
+ fSumw[34]=0, x=33
+ fSumw[35]=0, x=34
+ fSumw[36]=0, x=35
+ fSumw[37]=0, x=36
+ fSumw[38]=0, x=37
+ fSumw[39]=0, x=38
+ fSumw[40]=0, x=39
+ fSumw[41]=0, x=40
+ fSumw[42]=0, x=41
+ fSumw[43]=0, x=42
+ fSumw[44]=0, x=43
+ fSumw[45]=0, x=44
+ fSumw[46]=0, x=45
+ fSumw[47]=0, x=46
+ fSumw[48]=0, x=47
+ fSumw[49]=0, x=48
+ fSumw[50]=0, x=49
+ fSumw[51]=0, x=50
+Corrected Live Time 0.000721065
