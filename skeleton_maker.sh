@@ -1,7 +1,12 @@
 SkeletonName=$1
+if [ -z "${SkeletonName}" ]; then 
+	echo "Syntax:  skeleton_maker.sh  PROJECT_NAME"
+	echo "You Should give a name!! QUIT!"
+	return
+fi
 
 if [ -e "${SkeletonName}" ]; then
-	echo "file exist allready!  QUIT!"
+	echo "ERROR: File or Project exist allready!  QUIT!"
 	return
 fi
 
