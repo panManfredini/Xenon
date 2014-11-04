@@ -17,7 +17,8 @@ class rate: public XenonDataReader
 
 	public:
 	rate(TTree *T2=0, TTree *T3=0, TTree *T1=0); 
-	void Loop();
+	bool 	run_12_bruno();
+ 	void 	Loop();	
 
 	};
 
