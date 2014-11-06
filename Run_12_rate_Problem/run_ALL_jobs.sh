@@ -11,3 +11,10 @@ source run_jobs.sh 09 &
 source run_jobs.sh 10 &
 source run_jobs.sh 11 &
 source run_jobs.sh 12 &
+source run_jobs.sh 13 &
+source run_jobs.sh 14 &
+source run_jobs.sh 15 &
+source run_jobs.sh 16 &
+source run_jobs.sh 17 &
+source run_jobs.sh 18 &
+source run_jobs.sh 19 &

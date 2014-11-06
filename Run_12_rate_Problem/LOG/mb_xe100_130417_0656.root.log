@@ -1,1 +1,14 @@
 Running on Sample ---> /archive/root/minimum_bias/xenon100/run_12-reprocessing/mb_xe100_130417_0656.root
+
+Dataset Type:  Co60
+Corrected Live Time 0.110734 days  =  9567.42 sec
+
+--------------------------------------
+-----------------CUTFLOW--------------
+--------------------------------------
+Tot   114756  --> Rate = 1.03632e+06
+bruno_basic   1029  --> Rate = 9292.54
+X48kg0   541  --> Rate = 4885.58
+S1Tot_3_20   34  --> Rate = 307.042
+X34kg2   18  --> Rate = 162.552
+Livetime   0.110734  --> Rate = 1

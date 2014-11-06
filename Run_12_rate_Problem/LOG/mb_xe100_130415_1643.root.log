@@ -1,104 +1,14 @@
 Running on Sample ---> /archive/root/minimum_bias/xenon100/run_12-reprocessing/mb_xe100_130415_1643.root
-Tot   1970
-minimumbias   1970
-Xsignalnoise5   1336
-Xs1width0   1270
-Xentropy1   1223
-Xs2peaks2   798
-Xs1coin2   797
-Xhighlog1   795
-Xs2single3   776
-Xs1single5   770
-Xveto2   237
-Xs2width11   125
-XPL013_97   102
-Xposrec1   91
-Xs2chisquare1   57
-Xlownoise0_m   56
-Xs2peakpos0   56
-X34kg2   8
-ncoin_e_s1_1   0
-ncoin_e_s1_2   0
-ncoin_e_s1_3   0
-ncoin_e_s1_4   0
-   0
-   0
-   0
-   0
-   0
-   0
-   0
-   0
-   0
-   0
-   0
-   0
-   0
-   0
-   0
-   0
-   0
-   0
-   0
-   0
-   0
-   0
-   0
-   0
-   0
-   0
-   0
-TH1.Print Name  = cut_flow, Entries= 12437, Total sum= 12437
- fSumw[0]=0, x=-1
- fSumw[1]=1970, x=0
- fSumw[2]=1970, x=1
- fSumw[3]=1336, x=2
- fSumw[4]=1270, x=3
- fSumw[5]=1223, x=4
- fSumw[6]=798, x=5
- fSumw[7]=797, x=6
- fSumw[8]=795, x=7
- fSumw[9]=776, x=8
- fSumw[10]=770, x=9
- fSumw[11]=237, x=10
- fSumw[12]=125, x=11
- fSumw[13]=102, x=12
- fSumw[14]=91, x=13
- fSumw[15]=57, x=14
- fSumw[16]=56, x=15
- fSumw[17]=56, x=16
- fSumw[18]=8, x=17
- fSumw[19]=0, x=18
- fSumw[20]=0, x=19
- fSumw[21]=0, x=20
- fSumw[22]=0, x=21
- fSumw[23]=0, x=22
- fSumw[24]=0, x=23
- fSumw[25]=0, x=24
- fSumw[26]=0, x=25
- fSumw[27]=0, x=26
- fSumw[28]=0, x=27
- fSumw[29]=0, x=28
- fSumw[30]=0, x=29
- fSumw[31]=0, x=30
- fSumw[32]=0, x=31
- fSumw[33]=0, x=32
- fSumw[34]=0, x=33
- fSumw[35]=0, x=34
- fSumw[36]=0, x=35
- fSumw[37]=0, x=36
- fSumw[38]=0, x=37
- fSumw[39]=0, x=38
- fSumw[40]=0, x=39
- fSumw[41]=0, x=40
- fSumw[42]=0, x=41
- fSumw[43]=0, x=42
- fSumw[44]=0, x=43
- fSumw[45]=0, x=44
- fSumw[46]=0, x=45
- fSumw[47]=0, x=46
- fSumw[48]=0, x=47
- fSumw[49]=0, x=48
- fSumw[50]=0, x=49
- fSumw[51]=0, x=50
-Corrected Live Time 0.0228657
+
+Dataset Type:  Cs137
+Corrected Live Time 0.0228657 days  =  1975.6 sec
+
+--------------------------------------
+-----------------CUTFLOW--------------
+--------------------------------------
+Tot   1970  --> Rate = 86155.2
+bruno_basic   56  --> Rate = 2449.08
+X48kg0   32  --> Rate = 1399.48
+S1Tot_3_20   1  --> Rate = 43.7336
+X34kg2   0  --> Rate = 0
+Livetime   0.0228657  --> Rate = 1
