@@ -3,7 +3,7 @@ Objects = XenonDataReader.o XenonDataReaderT3.o XenonDataReaderT1.o
 
 ROOTFLAGS = $(shell root-config --cflags)
 ROOTLIBS  = $(shell root-config --libs)
-READERDIR = /srv01/xenon/manfredi/CODE/Xenon/DataReader/
+READERDIR = /home/manfredini/Xenon/DataReader/
 
 all:$(Target)
 

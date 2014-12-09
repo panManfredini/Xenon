@@ -146,9 +146,12 @@ public :
    
    //--- Analysis cuts 
    bool  	    Xsignalnoise5();
+   bool  	    Xsignalnoise3();
+   bool  	    Xsignalnoise4();
    bool 	    Xs1width0() ;
    bool		    Xs1coin2();
    bool 	    Xentropy1(); 
+   bool 	    Xentropy0(); 
    bool 	    Xs2peaks2(); 
    bool 	    Xhighlog1();
    bool		    Xs2single3();
@@ -162,16 +165,23 @@ public :
    bool		    Xs2peakpos0();	
    bool		    X34kg2();
    bool		    X48kg0();
+   bool		    Xs2top0();
+   bool		    Xs1single4();
+   bool		    Xs2single0();
+   bool		    Xs2width0();
+   bool		    Xs2chisquare0();
    
 
    //--- Auxiliary variables (Aliases)
    int   	    ncoin_e_1() ;
+   int   	    ncoin_e_0() ;
    int 		    noisypmts10();
    int	 	    ncoin_e_s1(int peak_itr =1);
    float	    sigma_flattened_width_11();	
    float  	    DriftTime(int peak_itr=0);
    float 	    PL013();
    float	    cs2asym();
+   double 	    AltC(double nbpeak, int pos, double prim, double sec);
    
    float	    X(int peak_index =0);
    float	    Y(int peak_index =0);

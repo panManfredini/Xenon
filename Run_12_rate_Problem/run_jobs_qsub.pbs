@@ -4,8 +4,8 @@
 #PBS -d /home/manfredini/Xenon/Run_12_rate_Problem
 #PBS -e /home/manfredini/Xenon/LOG/qsub_stderr
 #PBS -l nodes=1
-#PBS -l cput=1:00:00 
-#PBS -q xe-long
+#PBS -l cput=00:30:00 
+#PBS -q gs-long
 #PBS -S /bin/bash 
 cd $PBS_O_WORKDIR
 

@@ -1,4 +1,4 @@
-#qsub -v filenumber=00 run_jobs_qsub.pbs
+qsub -v filenumber=00 run_jobs_qsub.pbs
 qsub -v filenumber=01 run_jobs_qsub.pbs
 qsub -v filenumber=02 run_jobs_qsub.pbs
 qsub -v filenumber=03 run_jobs_qsub.pbs

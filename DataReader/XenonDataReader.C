@@ -195,41 +195,42 @@ void XenonDataReader::Loop()
 //----------------------------------------------------------------------//
   void 	XenonDataReader::	fillBranches(Long64_t ientry)   // fastest way I know to load branches
 	{
-	b_AreaTot->GetEntry(ientry);
-	b_Area->GetEntry(ientry);
-	b_S1s->GetEntry(ientry);
-	b_S1sTot->GetEntry(ientry);
-	b_AreaTot->GetEntry(ientry);
-	b_Area->GetEntry(ientry);
-	b_S1s->GetEntry(ientry);
-	b_S1sTot->GetEntry(ientry);
-	b_S1sTotOutside->GetEntry(ientry);
-	b_S2s->GetEntry(ientry);
-	b_S2sTot->GetEntry(ientry);
-	b_S2sTotTop->GetEntry(ientry);
-	b_S2sTotBottom->GetEntry(ientry);
-	b_S1sCoin->GetEntry(ientry);
-	b_S2sCoin->GetEntry(ientry);
-	b_S2sCoinTop->GetEntry(ientry);
-	b_S1sPmtCoin->GetEntry(ientry);
-	b_S2sPosSvm->GetEntry(ientry);
-	b_S2sPosNn->GetEntry(ientry);
-	b_S2sPosChi2->GetEntry(ientry);
-	XeT1.b_Filename->GetEntry(ientry);
-	XeT1.b_TimeSec->GetEntry(ientry);
-	XeT1.b_S1sPeak->GetEntry(ientry);
-	XeT1.b_S1sLowWidth->GetEntry(ientry);
-	XeT1.b_S2sPeak->GetEntry(ientry);
-	XeT1.b_S2sLowWidth->GetEntry(ientry);
-	XeT3.b_cS2sPosNn->GetEntry(ientry);
-	XeT3.b_cS1sTot->GetEntry(ientry);
-	XeT3.b_cS2sTot->GetEntry(ientry);
-	XeT3.b_cS2sTotTop->GetEntry(ientry);
-	XeT3.b_cS2sTotBottom->GetEntry(ientry);
-	XeT3.b_cfS2sLowWidth->GetEntry(ientry);
-	XeT3.b_S1PatternLikelihood->GetEntry(ientry);
-	XeT3.b_S1sEntropy->GetEntry(ientry);
-	XeT3.b_cxS1sTot->GetEntry(ientry);
+		b_AreaTot->GetEntry(ientry);
+		b_Area->GetEntry(ientry);
+		b_S1s->GetEntry(ientry);
+		b_S1sTot->GetEntry(ientry);
+		b_AreaTot->GetEntry(ientry);
+		b_Area->GetEntry(ientry);
+		b_S1s->GetEntry(ientry);
+		b_S1sTot->GetEntry(ientry);
+		b_S1sTotOutside->GetEntry(ientry);
+		b_S2s->GetEntry(ientry);
+		b_S2sTot->GetEntry(ientry);
+		b_S2sTotTop->GetEntry(ientry);
+		b_S2sTotBottom->GetEntry(ientry);
+		b_S1sCoin->GetEntry(ientry);
+		b_S2sCoin->GetEntry(ientry);
+		b_S2sCoinTop->GetEntry(ientry);
+		b_S1sPmtCoin->GetEntry(ientry);
+		b_S2sPosSvm->GetEntry(ientry);
+		b_S2sPosNn->GetEntry(ientry);
+		b_S2sPosChi2->GetEntry(ientry);
+		XeT1.b_Filename->GetEntry(ientry);
+		XeT1.b_TimeSec->GetEntry(ientry);
+		XeT1.b_S1sPeak->GetEntry(ientry);
+		XeT1.b_S1sLowWidth->GetEntry(ientry);
+		XeT1.b_S2sPeak->GetEntry(ientry);
+		XeT1.b_S2sWidth->GetEntry(ientry);
+		XeT1.b_S2sLowWidth->GetEntry(ientry);
+		XeT3.b_cS2sPosNn->GetEntry(ientry);
+		XeT3.b_cS1sTot->GetEntry(ientry);
+		XeT3.b_cS2sTot->GetEntry(ientry);
+		XeT3.b_cS2sTotTop->GetEntry(ientry);
+		XeT3.b_cS2sTotBottom->GetEntry(ientry);
+		XeT3.b_cfS2sLowWidth->GetEntry(ientry);
+		XeT3.b_S1PatternLikelihood->GetEntry(ientry);
+		XeT3.b_S1sEntropy->GetEntry(ientry);
+		XeT3.b_cxS1sTot->GetEntry(ientry);
 	}
 
 
@@ -284,6 +285,30 @@ void XenonDataReader::Loop()
 	}
 
   
+  bool  XenonDataReader:: 	Xsignalnoise3()  // Typo corrected :)
+	{
+
+	if(S2sTot->empty() || S1sTot->empty() ) return false;
+
+ 	  return(
+	        (log10(( (*S1sTot)[0] + (*S2sTot)[0])/TMath::Max( double(AreaTot - (*S1sTot)[0] - (*S2sTot)[0]),0.00001 ) ) >0.00) 
+		&& AreaTot > 0.0 
+	  );
+
+	}
+  
+bool  XenonDataReader:: 	Xsignalnoise4()  // Typo corrected :)
+	{
+
+	if(S2sTot->empty() || S1sTot->empty() ) return false;
+
+	  return (
+	          log10(((*S1sTot)[0]+(*S2sTot)[0])/TMath::Max(AreaTot-(*S1sTot)[0]-(*S2sTot)[0],0.00001)) >
+		  TMath::Min(0.284*pow(log10((*S2sTot)[0]),3) -2.81*pow(log10((*S2sTot)[0]),2.) 
+		  +10.1*log10((*S2sTot)[0])-12.3, 1.0) 
+		  && AreaTot>0.0) ;
+	}
+
   bool  XenonDataReader:: 	Xs1width0() 
 	{
 	if(XeT1.S1sLowWidth->empty()) return false;
@@ -320,6 +345,25 @@ void XenonDataReader::Loop()
 	}
 
 
+  int   XenonDataReader:: 	ncoin_e_0() 
+	{
+	  int ncoin_e_0_counter =0;
+
+	  for(int i =0; i < (*S1sPmtCoin)[0].size(); i++) 
+	  {
+
+		int Coin_itr = (*S1sPmtCoin)[0][i];
+		float s1s_temp = (*S1s)[0][Coin_itr];
+		float entropy_temp = XeT3.S1sEntropy->at(0)[Coin_itr];
+		
+		if(s1s_temp > 2.) ncoin_e_0_counter++;
+		if(s1s_temp <= 2. && s1s_temp >1. && (entropy_temp < s1s_temp + 1.5) )  ncoin_e_0_counter++;
+		if(s1s_temp <= 1. && entropy_temp < 2.5 )  ncoin_e_0_counter++;
+	  }
+
+	  return ncoin_e_0_counter;
+  	}
+
 
   bool  XenonDataReader:: 	Xentropy1() 
 	{
@@ -329,6 +373,22 @@ void XenonDataReader::Loop()
 	return (ncoin_e_1() > 1 );
 	}
 
+  bool  XenonDataReader:: 	Xentropy0() 
+	{
+
+	if(S1s->empty()) return false;
+
+	return (ncoin_e_0() > 1 );
+	}
+  
+
+bool  XenonDataReader:: 	Xs2top0() 
+	{
+	   if(S2sTotTop->empty()) return false;
+
+	   return ((*S2sTotTop)[0] > 0.); 
+
+	}
 
   bool  XenonDataReader:: 	Xs2peaks2()
 	{
@@ -354,7 +414,42 @@ void XenonDataReader::Loop()
 
 //(  Alt$(S2sTot[1],0) < (70+(S2sTot[0]-300)/100.)  )
 
+  double XenonDataReader:: 	AltC(double nbpeak, int pos, double prim, double sec)
+	{
+   	  return ( nbpeak - pos > 0. ? prim : sec );
+	}	
 
+
+  bool  XenonDataReader:: 	Xs2single0()
+	{
+	  if(S2sTot->size() > 1) return ((*S2sTot)[1] < 300.);
+	  return true;
+	}
+  
+  bool  XenonDataReader:: 	Xs2width0()
+	{
+	   if(XeT1.S2sPeak->empty() || XeT1.S1sPeak->empty() || XeT1.S2sWidth->empty() ) return false;
+
+	   double zeta = -1.8*(XeT1.S2sPeak->at(0)-XeT1.S1sPeak->at(0))/100.; 
+	   
+	   return (XeT1.S2sWidth->at(0) < -0.2167*(zeta + 4.) + 75.) ;	  
+	}
+
+
+  bool  XenonDataReader:: 	Xs1single4()
+	{
+	  return ( 
+		( AltC(XeT1.S1sPeak->size(), 1, (*S1sCoin)[1], 1) < 2. || 
+		  ( XeT1.S2sPeak->at(0) - AltC(XeT1.S1sPeak->size(), 1, XeT1.S1sPeak->at(1), -18500) ) > 18500 
+		  || log10( XeT3.cS2sTot->at(0)/ AltC(XeT1.S1sPeak->size(), 1, XeT3.cS1sTot->at(1), 1.e-4) ) > 3.2) 
+		&& ( AltC(XeT1.S1sPeak->size(), 2, (*S1sCoin)[2], 1) < 2 
+		  || ( XeT1.S2sPeak->at(0) - AltC(XeT1.S1sPeak->size(), 2, XeT1.S1sPeak->at(2), -18500) ) > 18500 
+		  || log10( XeT3.cS2sTot->at(0)/ AltC(XeT1.S1sPeak->size(), 2, XeT3.cS1sTot->at(2), 1.e-4) ) > 3.2) 
+		&& ( AltC(XeT1.S1sPeak->size(), 3, (*S1sCoin)[3], 1) < 2 
+		  || ( XeT1.S2sPeak->at(0) - AltC(XeT1.S1sPeak->size(), 3, XeT1.S1sPeak->at(3), -18500) ) > 18500 
+		  || log10( XeT3.cS2sTot->at(0)/ AltC(XeT1.S1sPeak->size(), 3, XeT3.cS1sTot->at(3), 1.e-4) ) > 3.2) 
+		&& ( AltC(XeT1.S1sPeak->size(), 4, (*S1sCoin)[4], 1) < 2.)  ) ;
+	}
 
   bool  XenonDataReader:: 	Xs1single5()
 	{
@@ -479,6 +574,12 @@ void XenonDataReader::Loop()
 	 return ( (*S2sCoinTop)[0] > 1 && ( (*S2sPosNn)[0][3]/ ( (*S2sCoinTop)[0] - 1 )) < 6. );
 	}
  
+  bool  XenonDataReader::	Xs2chisquare0()
+	{
+	  if(S2sTot->empty()) return false;
+	  return ( ((*S2sPosNn)[0][3]/((*S2sCoinTop)[0] - 1 )) < 7. );
+
+	}
 
   bool  XenonDataReader::	Xlownoise0_m()
 	{
