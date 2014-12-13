@@ -168,6 +168,7 @@ public :
    bool		    Xs2top0();
    bool		    Xs1single4();
    bool		    Xs2single0();
+   bool		    Inelastic_Xs2single0();
    bool		    Xs2width0();
    bool		    Xs2chisquare0();
    
@@ -341,11 +342,25 @@ void XenonDataReader::Init(TTree *tree)
    fChain->SetBranchAddress("S2sPosMaxPmt", &S2sPosMaxPmt, &b_S2sPosMaxPmt);
    fChain->SetBranchAddress("S2sPosSvm", &S2sPosSvm, &b_S2sPosSvm);
    fChain->SetBranchAddress("S2sPosNn", &S2sPosNn, &b_S2sPosNn);
-   fChain->SetBranchAddress("S2sPosChi2", &S2sPosChi2, &b_S2sPosChi2);
-   fChain->SetBranchAddress("S2sTopClustersE", &S2sTopClustersE, &b_S2sTopClustersE);
+   fChain->SetBranchAddress("S2sPosChi2", &S2sPosChi2, &b_S2sPosChi2); 
+
+/************** For compatibility with run10 data   ***************************/
+if (fChain->GetListOfBranches()->FindObject("S2sTopClustersE"))
+	fChain->SetBranchAddress("S2sTopClustersE", &S2sTopClustersE, &b_S2sTopClustersE);
+else b_S2sTopClustersE = 0;
+   
+if (fChain->GetListOfBranches()->FindObject("S2sTopClustersX"))
    fChain->SetBranchAddress("S2sTopClustersX", &S2sTopClustersX, &b_S2sTopClustersX);
+else b_S2sTopClustersX=0;
+
+if (fChain->GetListOfBranches()->FindObject("S2sTopClustersY"))
    fChain->SetBranchAddress("S2sTopClustersY", &S2sTopClustersY, &b_S2sTopClustersY);
+else b_S2sTopClustersY=0;
+
+if (fChain->GetListOfBranches()->FindObject("S2sTopClustersHits"))
    fChain->SetBranchAddress("S2sTopClustersHits", &S2sTopClustersHits, &b_S2sTopClustersHits);
+else b_S2sTopClustersHits =0;
+/*******************************************************************************/
    Notify();
 }
 

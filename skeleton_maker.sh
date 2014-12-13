@@ -17,5 +17,6 @@ mv ${SkeletonName}/skeleton.h ${SkeletonName}/${SkeletonName}.h
 sed -i -e "s/skeleton/${SkeletonName}/g" ${SkeletonName}/*.C 
 sed -i -e "s/skeleton/${SkeletonName}/g" ${SkeletonName}/*.h 
 sed -i -e "s/skeleton/${SkeletonName}/g" ${SkeletonName}/*.sh 
+sed -i -e "s/skeleton/${SkeletonName}/g" ${SkeletonName}/*.pbs 
 sed -i -e "s/skeleton/${SkeletonName}/g" ${SkeletonName}/makefile 
 

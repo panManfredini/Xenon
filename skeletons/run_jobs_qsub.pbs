@@ -1,0 +1,20 @@
+#!/bin/sh
+#PBS -N rate 
+#PBS -o /home/manfredini/Xenon/skeleton/LOG/qsub_logs
+#PBS -d /home/manfredini/Xenon/skeleton
+#PBS -e /home/manfredini/Xenon/skeleton/LOG/qsub_stderr
+#PBS -l nodes=1
+#PBS -l cput=00:30:00 
+#PBS -q gs-long
+#PBS -S /bin/bash 
+cd $PBS_O_WORKDIR
+
+INPUTDIR="/archive/root/minimum_bias/xenon100/run_12-reprocessing/"
+echo "running on input list RUN/run_12_all_std_split_${filenumber}"
+
+for filename in `cat RUN/run_12_all_std_split_${filenumber}`
+do 
+	echo "running on file: $INPUTDIR$filename"
+	./run_skeleton $INPUTDIR $filename &> LOG/${filename}.log
+done
+exit 0
