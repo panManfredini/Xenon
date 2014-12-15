@@ -44,13 +44,17 @@ void Inelastic::Loop()
 	cut_flow->GetXaxis()->SetBinLabel(22,"ncoin_e_s1_4");
 
     TH2D *s1_s2 = new TH2D("s1_s2","",1000,0.,500., 1000,0.,4.);
-    TH2D *s1_s2_roteated = new TH2D("s1_s2_roteated","Roteated",1000,0.,500., 1000,0.,4.);
+    TH2D *s1_s2_roteated = new TH2D("s1_s2_roteated","Rotated",1000,0.,500., 1000,0.,4.);
+    TH2D *s1_s2_roteated_woSR = new TH2D("s1_s2_roteated_woSR","Rotated",1000,0.,500., 1000,0.,4.);
     s1_s2->GetXaxis()->SetTitle("cxS1sTot[0]  [PE]");
     s1_s2->GetYaxis()->SetTitle("log10(cS2sTotBottom[0] / cxS1sTot[0])" );
     s1_s2->Sumw2();
     s1_s2_roteated->GetXaxis()->SetTitle("cxS1sTot[0]  [PE]");
     s1_s2_roteated->GetYaxis()->SetTitle("log10(cS2sTotBottom[0] / cxS1sTot[0])" );
     s1_s2_roteated->Sumw2();
+    s1_s2_roteated_woSR->GetXaxis()->SetTitle("cxS1sTot[0]  [PE]");
+    s1_s2_roteated_woSR->GetYaxis()->SetTitle("log10(cS2sTotBottom[0] / cxS1sTot[0])" );
+    s1_s2_roteated_woSR->Sumw2();
 
    Long64_t nentries = fChain->GetEntriesFast();
    bool isFirst = true;
@@ -62,11 +66,24 @@ void Inelastic::Loop()
    int nuber_of_survived_event_2 = 0;
    int nuber_of_survived_event_3 = 0;
 
+   TString dataset_name_full = "NONE";
+   TString dataset_name = "NONE";
+   TString type("");
+   double livetime =0.;
+
+
    for (Long64_t jentry=0; jentry<nentries;jentry++) {
       Long64_t ientry = LoadTree(jentry);
       if (ientry < 0) break;
 
 	fillBranches(ientry); // fill branch!
+
+	if(isFirst) {
+  		dataset_name_full = XeT1.Filename;
+  		dataset_name = dataset_name_full(0,17) ;
+  		livetime = DatasetLivetime(dataset_name, type);
+		isFirst = false;
+	}
 
 	cut_flow->Fill("Tot",1.);
 
@@ -85,20 +102,22 @@ void Inelastic::Loop()
 	//To be redefined Xs2width0 !!!!!
 	 nuber_of_survived_event_3++;
 
+
 	double 	log_s2_over_s1 = log10(XeT3.cS2sTotBottom->at(0) / XeT3.cxS1sTot->at(0) );
-	s1_s2->Fill(XeT3.cxS1sTot->at(0) , log_s2_over_s1); 
 
 	//Rotation of rad +5.32520966224929882e-03 
 	double R_s1 = XeT3.cxS1sTot->at(0) * cos(5.32520966224929882e-03) - log_s2_over_s1*sin(5.32520966224929882e-03);
 	double R_log_s2_over_s1 = XeT3.cxS1sTot->at(0)*sin(5.32520966224929882e-03) + log_s2_over_s1*cos(5.32520966224929882e-03);
+
+	// Blinding SR
+        if(type == "DM" && R_s1> 60. && R_s1 < 200. && R_log_s2_over_s1 > 2.3 && R_log_s2_over_s1 < 2.7)  continue;
+
+	s1_s2->Fill(XeT3.cxS1sTot->at(0) , log_s2_over_s1); 
 	s1_s2_roteated->Fill(R_s1,R_log_s2_over_s1);
+        if(!(R_s1> 60. && R_s1 < 200. && R_log_s2_over_s1 > 2.3 && R_log_s2_over_s1 < 2.7)) s1_s2_roteated_woSR->Fill(R_s1,R_log_s2_over_s1);
 	
    }
 
-  TString dataset_name_full = XeT1.Filename;
-  TString dataset_name(dataset_name_full(0,17));
-  TString type("");
-  double livetime = DatasetLivetime(dataset_name, type);
 	cout << "CutFlow for " << dataset_name << endl;
   	cout << "Type " <<  type << endl;
   	cout << "Corrected Live Time " <<  livetime << endl;
@@ -133,9 +152,11 @@ void Inelastic::Loop()
 */
   TFile *file = new TFile(outDir + "cutFlow_" + filename ,"RECREATE");
   file->cd();
-  cut_flow->Write(dataset_name+"_"+type); // if same dataset has more files will be hadd correctly
+  file->mkdir("cuflows");
+  cut_flow->Write("cuflows/"+ dataset_name+"_"+type); // if same dataset has more files will be hadd correctly
   s1_s2->Write("log_s2_s1_"+type);
   s1_s2_roteated->Write("log_s2_s1_Rot_"+type);
+  s1_s2_roteated_woSR->Write("log_s2_s1_Rot_noSR_"+type);
   file->Close();
   delete file;
 

@@ -1,1 +1,1 @@
-split -d -l 19 list_co60 run_10_co60_std_split_ 
+split -d -l 90 list_all_run10 run_10_std_split_ 

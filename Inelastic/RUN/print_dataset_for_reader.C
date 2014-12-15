@@ -25,7 +25,7 @@ void print_dataset_for_reader(){
    // e.g. http://dev.mysql.com/doc/refman/5.0/en/select.html
 
   //const char* query = "SELECT dataset_name, isotope, UNIX_TIMESTAMP(dataset_date), livetime FROM dataset INNER JOIN source USING (source_id) WHERE dataset_date > \'2009-11-01 00:00:00\' AND shield_status LIKE 'closed' AND anode_voltage = 4.5 AND cathode_voltage = 16 ORDER BY dataset_name;";
-  const char* query = "SELECT dataset_name, isotope, UNIX_TIMESTAMP(dataset_date), corrected_livetime FROM dataset INNER JOIN source USING (source_id) WHERE run_id = 10  AND shield_status LIKE 'closed' AND category LIKE 'standard' ORDER BY dataset_name;";
+  const char* query = "SELECT dataset_name, isotope, UNIX_TIMESTAMP(dataset_date), corrected_livetime FROM dataset INNER JOIN source USING (source_id) WHERE run_id = 10 AND shield_status LIKE 'closed' AND category LIKE 'standard' ORDER BY dataset_name;";
    
    result = sqlServer->Query(query);
    const int nrows = result->GetRowCount();
@@ -40,7 +40,8 @@ void print_dataset_for_reader(){
 	const char *dataset = row->GetField(0);
 	double livetime = atof(row->GetField(3)) /3600./24.;
 	//---Print dataset name for RUN ------//
-		cout << "mb_" << dataset << ".root \t"<< isotope <<endl;
+		cout << "mb_" << dataset << ".root \t"<<endl;
+		//cout << "mb_" << dataset << ".root \t"<< isotope <<endl;
 	//---Print Syntax for DataReader ------------//
 	//cout << "\t if(dataset_name == \"" << dataset << "\") { livetime = "<<livetime <<"; isotope = \""<<isotope<<"\"; return livetime;}"<<endl;
    }      
