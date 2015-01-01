@@ -46,15 +46,28 @@ void Inelastic::Loop()
     TH2D *s1_s2 = new TH2D("s1_s2","",1000,0.,500., 1000,0.,4.);
     TH2D *s1_s2_roteated = new TH2D("s1_s2_roteated","Rotated",1000,0.,500., 1000,0.,4.);
     TH2D *s1_s2_roteated_woSR = new TH2D("s1_s2_roteated_woSR","Rotated",1000,0.,500., 1000,0.,4.);
+    TH2D *s1_s2_flat = new TH2D("s1_s2_flat","flatened",1000,0.,500., 1000,-4.,4.);
+    TH2D *s1_s2_flat_woSR = new TH2D("s1_s2_flat_woSR","flatened",1000,0.,500., 1000,-4.,4.);
+
     s1_s2->GetXaxis()->SetTitle("cxS1sTot[0]  [PE]");
     s1_s2->GetYaxis()->SetTitle("log10(cS2sTotBottom[0] / cxS1sTot[0])" );
     s1_s2->Sumw2();
+
     s1_s2_roteated->GetXaxis()->SetTitle("cxS1sTot[0]  [PE]");
     s1_s2_roteated->GetYaxis()->SetTitle("log10(cS2sTotBottom[0] / cxS1sTot[0])" );
     s1_s2_roteated->Sumw2();
+
     s1_s2_roteated_woSR->GetXaxis()->SetTitle("cxS1sTot[0]  [PE]");
     s1_s2_roteated_woSR->GetYaxis()->SetTitle("log10(cS2sTotBottom[0] / cxS1sTot[0])" );
     s1_s2_roteated_woSR->Sumw2();
+
+    s1_s2_flat->GetXaxis()->SetTitle("cxS1sTot[0]  [PE]");
+    s1_s2_flat->GetYaxis()->SetTitle("Flattened E-band" );
+    s1_s2_flat->Sumw2();
+
+    s1_s2_flat_woSR->GetXaxis()->SetTitle("cxS1sTot[0]  [PE]");
+    s1_s2_flat_woSR->GetYaxis()->SetTitle("Flattened E-band" );
+    s1_s2_flat_woSR->Sumw2();
 
    Long64_t nentries = fChain->GetEntriesFast();
    bool isFirst = true;
@@ -94,27 +107,39 @@ void Inelastic::Loop()
 
 	bool isPassed = false;
 
-	if((!X48kg0() && Xsignalnoise3() && Xsignalnoise4() && Xs1width0() && Xlownoise0_m() )) continue;
+	if(!(X34kg2() && Xsignalnoise3() && Xsignalnoise4() && Xs1width0() && Xlownoise0_m())) continue;
+	//if(!(X48kg0() && Xsignalnoise3() && Xsignalnoise4() && Xs1width0() && Xlownoise0_m())) continue;
 	 nuber_of_survived_event_1++;
 	if( !(Xentropy0() && Xs2top0() && Xs2peaks2() && Xs1coin2() && Xhighlog1() && Inelastic_Xs2single0())) continue;
 	 nuber_of_survived_event_2++;
-	if(!(Xs1single4() && Xveto2() && /*Xs2width0() &&*/ XPL013_97() && Xposrec1() && Xs2chisquare0() && Xs2peakpos0()) ) continue;
+	if(!(Xs1single4() && Xveto2() &&  XPL013_97() && Xposrec1() && Xs2chisquare0() && Xs2peakpos0()) ) continue;
+	//if(!(Xs1single4() && Xveto2() && Xs2width0() && XPL013_97() && Xposrec1() && Xs2chisquare0() && Xs2peakpos0()) ) continue;
 	//To be redefined Xs2width0 !!!!!
 	 nuber_of_survived_event_3++;
 
 
 	double 	log_s2_over_s1 = log10(XeT3.cS2sTotBottom->at(0) / XeT3.cxS1sTot->at(0) );
+	double  cxS1sTot_0 = XeT3.cxS1sTot->at(0) ;
 
 	//Rotation of rad +5.32520966224929882e-03 
 	double R_s1 = XeT3.cxS1sTot->at(0) * cos(5.32520966224929882e-03) - log_s2_over_s1*sin(5.32520966224929882e-03);
 	double R_log_s2_over_s1 = XeT3.cxS1sTot->at(0)*sin(5.32520966224929882e-03) + log_s2_over_s1*cos(5.32520966224929882e-03);
+	double log_in_flatten_space = log_s2_over_s1 - ( 0.851871341917*exp(-0.22757830222*cxS1sTot_0 - 0.353347482389) + 2.23830102898
+					 - 0.0155751664656*cxS1sTot_0 + 0.000330774244527*pow(cxS1sTot_0,2)  - 3.3540798353e-06*pow(cxS1sTot_0,3)
+  					 + 1.8403163772e-08*pow(cxS1sTot_0,4) - 5.38060987425e-11*pow(cxS1sTot_0,5)  + 6.63604860059e-14*pow(cxS1sTot_0,6) );
 
 	// Blinding SR
-        if(type == "DM" && R_s1> 60. && R_s1 < 200. && R_log_s2_over_s1 > 2.3 && R_log_s2_over_s1 < 2.7)  continue;
+//        if(type == "DM" && R_s1> 60. && R_s1 < 200. && R_log_s2_over_s1 > 2.3 && R_log_s2_over_s1 < 2.7)  continue;
 
 	s1_s2->Fill(XeT3.cxS1sTot->at(0) , log_s2_over_s1); 
 	s1_s2_roteated->Fill(R_s1,R_log_s2_over_s1);
-        if(!(R_s1> 60. && R_s1 < 200. && R_log_s2_over_s1 > 2.3 && R_log_s2_over_s1 < 2.7)) s1_s2_roteated_woSR->Fill(R_s1,R_log_s2_over_s1);
+	s1_s2_flat->Fill(cxS1sTot_0 , log_in_flatten_space);
+
+        if(!(R_s1> 60. && R_s1 < 200. && R_log_s2_over_s1 > 2.3 && R_log_s2_over_s1 < 2.7))
+	  {
+		s1_s2_roteated_woSR->Fill(R_s1,R_log_s2_over_s1);
+		s1_s2_flat_woSR->Fill(cxS1sTot_0 , log_in_flatten_space);
+ 	  }
 	
    }
 
@@ -157,6 +182,8 @@ void Inelastic::Loop()
   s1_s2->Write("log_s2_s1_"+type);
   s1_s2_roteated->Write("log_s2_s1_Rot_"+type);
   s1_s2_roteated_woSR->Write("log_s2_s1_Rot_noSR_"+type);
+  s1_s2_flat_woSR->Write("log_s2_s1_flat_noSR_"+type);
+  s1_s2_flat->Write("log_s2_s1_flat_"+type);
   file->Close();
   delete file;
 
