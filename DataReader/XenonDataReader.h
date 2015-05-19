@@ -171,6 +171,7 @@ public :
    bool		    Inelastic_Xs2single0();
    bool		    Xs2width0();
    bool		    Xs2chisquare0();
+   bool		    Xinelastic_analysis_S2width0();
    
 
    //--- Auxiliary variables (Aliases)

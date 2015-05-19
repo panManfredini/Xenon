@@ -1,3 +1,7 @@
+
+Processing print_dataset_for_reader.C...
+connected to MySQL 5.1.56-log server on localhost
+ resulted in 4 columns and 870 rows.
 mb_xe100_110207_1015.root 	
 mb_xe100_110210_1100.root 	
 mb_xe100_110210_1106.root 	

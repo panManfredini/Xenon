@@ -4,15 +4,17 @@
 #PBS -d /home/manfredini/Xenon/Inelastic
 #PBS -e /home/manfredini/Xenon/Inelastic/LOG/qsub_stderr
 #PBS -l nodes=1
-#PBS -l cput=01:00:00 
 #PBS -q xe-long
 #PBS -S /bin/bash 
 cd $PBS_O_WORKDIR
 
-INPUTDIR="/archive/root/minimum_bias/xenon100/run_10/"
-echo "running on input list RUN/run_10_std_split_${filenumber}"
+#INPUTDIR="/archive/root/merged/xenon100/run_10/"
+INPUTDIR="/archive/root/merged/xenon100/run_12/"
+#INPUTDIR="/archive/root/minimum_bias/xenon100/run_10/"
+echo "running on input list RUN/run_12_std_split_${filenumber}"
 
-for filename in `cat RUN/run_10_std_split_${filenumber}`
+#for filename in `cat RUN/run_10_std_split_${filenumber}`
+for filename in `cat RUN/run_12_AmBe_split_${filenumber}`
 do 
 	echo "running on file: $INPUTDIR$filename"
 	./run_Inelastic $INPUTDIR $filename &> LOG/${filename}.log

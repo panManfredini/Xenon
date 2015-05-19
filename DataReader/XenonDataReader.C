@@ -231,6 +231,7 @@ void XenonDataReader::Loop()
 		XeT3.b_S1PatternLikelihood->GetEntry(ientry);
 		XeT3.b_S1sEntropy->GetEntry(ientry);
 		XeT3.b_cxS1sTot->GetEntry(ientry);
+		XeT3.b_cS2sLowWidth->GetEntry(ientry);
 	}
 
 
@@ -429,7 +430,7 @@ bool  XenonDataReader:: 	Xs2top0()
   bool  XenonDataReader:: 	Inelastic_Xs2single0()
 	{
 	  if(S2sTot->size() > 1) return ((*S2sTot)[1] < 160.);
-	  return true;
+	  return false;
 	}
   
   bool  XenonDataReader:: 	Xs2width0()
@@ -535,7 +536,7 @@ bool  XenonDataReader:: 	Xs2top0()
 	{
 	 if(XeT1.S2sPeak->size() > peak_itr )
 		return ( (XeT1.S2sPeak->at(peak_itr) - XeT1.S1sPeak->at(0) )/100. ); 
-	 else cout << "WARNING --->XenonDataReader::DriftTime -- \t PEAK number  " << peak_itr << "   do NOT exist, returning -999." << endl;
+	 else cout << "WARNING --->XenonDataReader::DriftTime -- \t S2 PEAK number  " << peak_itr << "   do NOT exist, returning -999." << endl;
 	 return -999.;
 	}
 
@@ -649,6 +650,16 @@ bool  XenonDataReader:: 	Xs2top0()
 	{
 
 	 return ( (pow(TMath::Abs((Z()+150.)/146.),4.) + pow(TMath::Abs(R()*R()/20000.),4)) < 1.); 
+	}
+
+
+   bool XenonDataReader::	Xinelastic_analysis_S2width0()
+	{
+
+	if( XeT3.cS2sLowWidth->empty() || XeT1.S2sPeak->empty()) return false;
+
+	return ( XeT3.cS2sLowWidth->at(0) < (126.859 + 2.66843* sqrt(DriftTime()) + 0.44869 * DriftTime() ) ? true : false)  ;
+
 	}
 
 
